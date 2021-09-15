@@ -1,0 +1,1001 @@
+CUSTOMER_NUMBER|CUSTOMER_FIRST_NAME|CUSTOMER_LAST_NAME|DATE_OF_BIRTH|GENDER|STREET_ADDRESS|COUNTRY|COUNTRY_CODE|EMAIL|INTEREST_TYPE|INTEREST_RATE|GROSS_BALANCE|INTEREST_BALANCE|PRINCIPLE_BALANCE|PROPERTY_OWNER|PROPERTY_VALUE|PROPERTY_YEAR
+1208538993|Kerr|Colloby|1959-06-25|Male|7304 Arizona Place|Philippines|PH|kcolloby0@ft.com|0% FIXED|0.0|657052.97|7800.34|649252.63|Y|6536035.0|1965
+2994516667|Bernardo|Hartop|1989-02-25|Male|0551 Mariners Cove Street|Russia|RU|bhartop1@cbslocal.com|0% FIXED|0.0|181021.0|-6270.59|187291.59|Y|7817794.0|1983
+5694078640|Agustin|Pattrick|2004-03-13|Male|03 6th Hill|Thailand|TH|apattrick2@craigslist.org|10% FIXED|0.1|999717.75|6826.51|992891.24|N||
+1008558214|Rubie|Canto|1966-02-24|Female|89 Rieder Terrace|Philippines|PH|rcanto3@apple.com|1% FIXED|0.01|337396.8|-1741.78|339138.58|N||
+8008647159|Tobie|Morrowe|2006-01-10|Male|12268 Browning Street|Poland|PL|tmorrowe4@prnewswire.com|1% FIXED|0.01|-50398.0|2705.68|-53103.68|Y|6926950.0|2017
+8454249885|Sander|Creser|1947-11-04|Male|238 Packers Junction|Russia|RU|screser5@ezinearticles.com|1% FIXED|0.01|702511.75|5120.25|697391.5|N||
+8764028089|Emeline|Abrey|2013-12-25|Female|463 Donald Pass|Indonesia|ID|eabrey6@intel.com|10% FIXED|0.1|-239083.29|-1375.31|-237707.98|N||
+3564388087|Bernarr|Scanterbury|1990-09-18|Male|13 Blaine Trail|Germany|DE|bscanterbury7@webmd.com|10% FIXED|0.1|-249134.0|-9956.15|-239177.85|Y|2443529.0|1986
+6121468300|Sinclare|Hardwell|1953-04-24|Male|08 Claremont Junction|United States|US|shardwell8@cnbc.com|0% FIXED|0.0|243951.42|4267.93|239683.49|N||
+0097725358|Corny|Borgnet|1961-10-30|Male|03 Weeping Birch Junction|Honduras|HN|cborgnet9@meetup.com|0% FIXED|0.0|652237.08|1091.71|651145.37|Y|6944820.0|1958
+5033664417|Elva|Janse|1976-11-26|Female|85909 Pankratz Trail|Venezuela|VE|ejansea@usatoday.com|10% FIXED|0.1|736429.51|6345.83|730083.68|N||
+3707498042|Gabbie|Stammers|1947-07-23|Female|2078 Dawn Crossing|China|CN|gstammersb@google.ca|0% FIXED|0.0|431210.0|3398.4|427811.6|Y|5197586.0|1940
+1167700406|Emanuele|Shorter|1938-09-07|Male|812 Morrow Lane|Serbia|RS|eshorterc@bravesites.com|10% FIXED|0.1|-663499.0|9370.21|-672869.21|Y|6876984.0|1982
+7962545925|Thedrick|Jeste|1956-11-21|Male|0 Nobel Avenue|Philippines|PH|tjested@slashdot.org|VARIABLE|0.2594494787410316|124312.22|2303.41|122008.81|Y|941316.0|1916
+9870621724|Gerda|Eckh|2018-01-18|Female|78245 Melody Junction|Ukraine|UA|geckhe@yandex.ru|1% FIXED|0.01|-400983.15|6418.21|-407401.36|Y|6938404.0|1965
+8827298789|Jillana|Ten Broek|1950-07-15|Female|6 Lillian Junction|Indonesia|ID|jtenbroekf@china.com.cn|VARIABLE|0.1377623405488289|595902.74|-9497.74|605400.48|Y|2480384.0|1962
+9085950120|Devora|Joliffe|1980-05-08|Female|284 Petterle Point|Thailand|TH|djoliffeg@odnoklassniki.ru|VARIABLE|0.3096394229007887|500784.24|-6392.41|507176.65|N||
+1642399469|Darn|Storcke|2006-07-01|Male|6594 Graedel Court|Indonesia|ID|dstorckeh@delicious.com|VARIABLE|0.7538136744304621|551398.89|-4222.24|555621.13|N||
+7630426550|Daniella|Greschik|2015-11-06|Female|04533 Knutson Alley|Mexico|MX|dgreschiki@geocities.jp|1% FIXED|0.01|587418.32|-6835.95|594254.27|Y|4900744.0|1977
+7958862377|Josephine|Scourge|1965-03-25|Female|89182 Clarendon Drive|Benin|BJ|jscourgej@histats.com|VARIABLE|0.3196986257476792|-529222.62|2530.86|-531753.48|N||
+2477983229|Salomone|Bottlestone|1941-05-20|Male|70 Huxley Circle|Indonesia|ID|sbottlestonek@cpanel.net|0% FIXED|0.0|344617.45|-7895.8|352513.25|N||
+2949282822|Crista|MacMichael|1974-05-26|Female|652 Stuart Trail|Kosovo|XK|cmacmichaell@ed.gov|10% FIXED|0.1|-399638.65|-7219.17|-392419.48|N||
+7631200807|Rudiger|Reast|1957-11-17|Male|79627 Anhalt Way|Russia|RU|rreastm@alexa.com|0% FIXED|0.0|-126661.97|-5015.97|-121646.0|N||
+4141177105|Coreen|Kordes|2010-05-14|Female|22319 Stone Corner Plaza|France|FR|ckordesn@php.net|10% FIXED|0.1|-187546.6|7279.61|-194826.21|Y|614945.0|1969
+3868345019|Alastair|Getley|1943-05-01|Male|26 Elka Plaza|Belarus|BY|agetleyo@ezinearticles.com|1% FIXED|0.01|-580135.2|-2686.39|-577448.81|N||
+1511323795|Rora|Ginnelly|1991-05-21|Female|2086 Duke Road|Philippines|PH|rginnellyp@cpanel.net|1% FIXED|0.01|652932.98|5504.57|647428.41|Y|6666148.0|2003
+8799629011|Norbie|Dowthwaite|1953-09-04|Male|98905 Haas Drive|Portugal|PT|ndowthwaiteq@samsung.com|VARIABLE|0.1375841469890645|-760920.52|1982.02|-762902.54|N||
+9983410915|Annabel|Ibert|1938-02-01|Female|2 Summer Ridge Alley|Argentina|AR|aibertr@reverbnation.com|VARIABLE|0.8449097324561933|281149.19|-1136.08|282285.27|Y|4992198.0|1932
+1002547598|Simone|Greenly|1938-02-22|Male|00 Menomonie Place|Indonesia|ID|sgreenlys@dion.ne.jp|VARIABLE|0.7696072702797606|462543.0|-3653.12|466196.12|N||
+4513523883|Maude|Plastow|2007-10-06|Female|55399 Eastlawn Way|China|CN|mplastowt@usa.gov|VARIABLE|0.8134271005052789|244617.63|-7637.67|252255.3|Y|4849220.0|1998
+9716077807|Wat|Hairsine|2012-06-06|Male|70330 Mockingbird Circle|Vietnam|VN|whairsineu@google.ru|VARIABLE|0.4820331819203593|-935631.38|-9623.04|-926008.34|N||
+9440453729|Fernando|Mayte|1974-01-03|Male|28 Lindbergh Park|Portugal|PT|fmaytev@smh.com.au|1% FIXED|0.01|359605.05|-1411.51|361016.56|N||
+4310293034|Selena|Fayer|1953-04-17|Female|095 Banding Lane|Indonesia|ID|sfayerw@vinaora.com|1% FIXED|0.01|500951.86|902.61|500049.25|Y|5698239.0|1999
+2514818397|Greggory|Dicty|1946-10-05|Male|5 Tennessee Point|Bosnia and Herzegovina|BA|gdictyx@newsvine.com|10% FIXED|0.1|142784.57|2715.58|140068.99|N||
+0618672222|Marjie|Gayforth|1978-09-04|Female|11 Artisan Terrace|China|CN|mgayforthy@dot.gov|1% FIXED|0.01|155760.96|-97.84|155858.8|Y|1970346.0|1979
+3605700055|Ariella|Niemiec|1978-12-14|Female|71 Browning Terrace|China|CN|aniemiecz@dailymotion.com|1% FIXED|0.01|973425.79|-4027.98|977453.77|N||
+5768238190|Hilliary|Spridgeon|2005-12-27|Female|5 Michigan Drive|Brazil|BR|hspridgeon10@yolasite.com|10% FIXED|0.1|-499787.51|-8781.9|-491005.61|Y|4337469.0|1956
+3303377286|Scarface|Ahlin|1965-05-17|Male|3915 Blue Bill Park Hill|Chile|CL|sahlin11@joomla.org|0% FIXED|0.0|233789.03|-7118.31|240907.34|Y|5548942.0|1917
+2133786082|Orland|Fronek|1966-11-16|Male|845 Lyons Way|China|CN|ofronek12@e-recht24.de|1% FIXED|0.01|-203787.46|-6967.39|-196820.07|N||
+3795834678|Denver|Ungerecht|1991-02-12|Male|4172 Rigney Park|Argentina|AR|dungerecht13@gravatar.com|10% FIXED|0.1|-995571.04|2781.26|-998352.3|Y|2025248.0|1927
+3362459730|Doralin|Mechic|1983-05-14|Female|2 American Center|China|CN|dmechic14@google.ru|1% FIXED|0.01|-191313.72|562.17|-191875.89|Y|4836026.0|2017
+8160456514|Nettle|Ranking|1985-04-29|Female|0 Carey Terrace|Peru|PE|nranking15@blog.com|0% FIXED|0.0|-93698.77|-3757.53|-89941.24|N||
+9926865984|Yvor|Domotor|2015-03-14|Male|5068 Ridgeview Terrace|Russia|RU|ydomotor16@dagondesign.com|0% FIXED|0.0|-730006.8|5356.24|-735363.04|N||
+0989786447|Jean|Crawford|1961-02-24|Female|06 Cascade Pass|Finland|FI|jcrawford17@sbwire.com|VARIABLE|0.7829728908622593|23427.41|7592.76|15834.65|Y|219315.0|1973
+9733701688|Cecil|Chieze|1935-08-09|Female|48694 Armistice Hill|China|CN|cchieze18@scientificamerican.com|1% FIXED|0.01|921606.82|7753.23|913853.59|Y|3970375.0|1958
+7118298247|Mable|World|1967-06-03|Female|16598 Weeping Birch Plaza|Cameroon|CM|mworld19@netvibes.com|VARIABLE|0.6365889212763451|680637.81|8121.88|672515.93|Y|7175276.0|2008
+4052394674|Teodor|Skupinski|1946-03-16|Male|12 Becker Street|Botswana|BW|tskupinski1a@cdbaby.com|10% FIXED|0.1|485255.79|-8225.85|493481.64|N||
+2348985489|Sydelle|O'Hartnedy|1979-03-07|Female|09257 Sutteridge Court|Portugal|PT|sohartnedy1b@tmall.com|0% FIXED|0.0|865667.42|5596.85|860070.57|N||
+9498568448|Zollie|Bedward|1945-02-19|Male|43 Warrior Avenue|Bulgaria|BG|zbedward1c@slashdot.org|0% FIXED|0.0|-771072.0|9384.5|-780456.5|Y|414738.0|1984
+3397666031|Gene|Heller|1962-01-25|Female|62522 Sutteridge Pass|Greece|GR|gheller1d@reverbnation.com|10% FIXED|0.1|274689.35|-2041.78|276731.13|N||
+2253883514|Dino|Steggles|2001-04-14|Male|1 Schlimgen Court|France|FR|dsteggles1e@ucoz.com|0% FIXED|0.0|944343.0|9.32|944333.68|N||
+7543738341|Tremayne|Trulocke|2018-05-19|Male|29 Manley Lane|China|CN|ttrulocke1f@thetimes.co.uk|VARIABLE|0.9158403032858016|499739.47|3393.67|496345.8|Y|6412583.0|1908
+2101815850|Renae|Plet|1971-01-29|Female|88705 Meadow Vale Parkway|Mexico|MX|rplet1g@ning.com|0% FIXED|0.0|29455.45|6111.43|23344.02|Y|3908164.0|2003
+8281093641|Ingmar|Sarsons|1946-03-06|Male|977 Mccormick Crossing|China|CN|isarsons1h@baidu.com|VARIABLE|0.2005564890214128|995786.0|-8840.45|1004626.45|Y|6769777.0|1912
+1100574425|Dewain|Caress|1994-05-22|Male|75 Pine View Road|Guatemala|GT|dcaress1i@pcworld.com|VARIABLE|0.8647735860487359|262404.0|4487.22|257916.78|N||
+5684143148|Clyde|Hanbury-Brown|1986-01-30|Male|8 Blackbird Trail|United States|US|chanburybrown1j@pagesperso-orange.fr|10% FIXED|0.1|-200571.42|2802.67|-203374.09|N||
+0598636706|Regan|Chad|1998-03-16|Male|5 Nevada Plaza|China|CN|rchad1k@cnn.com|0% FIXED|0.0|743229.95|6167.18|737062.77|Y|7648701.0|1991
+2781737755|Eddy|Line|1977-04-27|Female|6599 Shelley Parkway|Brazil|BR|eline1l@tmall.com|1% FIXED|0.01|724288.28|8860.57|715427.71|N||
+5373097764|Beryl|Palke|1940-03-10|Female|40 Miller Circle|Malaysia|MY|bpalke1m@slate.com|1% FIXED|0.01|461001.94|-2248.79|463250.73|Y|6165988.0|1941
+9640755974|Jeanne|McJury|1940-04-07|Female|42685 Glendale Point|China|CN|jmcjury1n@sakura.ne.jp|VARIABLE|0.4316555118332989|-693464.36|-8762.85|-684701.51|N||
+4218585423|Lavena|Debrett|1966-05-22|Female|7853 Fremont Alley|Brazil|BR|ldebrett1o@cbc.ca|1% FIXED|0.01|-178217.54|-5661.5|-172556.04|N||
+9273104703|Jean|Wakeling|2011-01-09|Female|35092 8th Pass|Portugal|PT|jwakeling1p@about.com|1% FIXED|0.01|-252174.53|8648.33|-260822.86|Y|3156081.0|2014
+9080282448|Frannie|Weson|1980-01-06|Male|4677 Rowland Circle|Indonesia|ID|fweson1q@fema.gov|1% FIXED|0.01|929016.44|-8156.36|937172.8|Y|7743382.0|1918
+7994472761|Callean|Karolczyk|1962-01-02|Male|6 Thierer Center|United States|US|ckarolczyk1r@archive.org|10% FIXED|0.1|671701.29|3856.22|667845.07|Y|6960909.0|2018
+4991857732|Candi|Mumbey|1941-08-12|Female|78 Trailsway Park|Paraguay|PY|cmumbey1s@ucsd.edu|VARIABLE|0.8224537178013973|298221.03|8242.81|289978.22|N||
+9828451654|Drake|Ainscow|1998-09-07|Male|37 Fallview Point|Russia|RU|dainscow1t@1688.com|10% FIXED|0.1|-143771.99|-3526.96|-140245.03|N||
+8655859311|Elisha|Pilipets|1976-04-12|Male|2109 Memorial Alley|Indonesia|ID|epilipets1u@nationalgeographic.com|0% FIXED|0.0|510641.94|4083.34|506558.6|N||
+4022302771|Sargent|Slowan|1976-04-27|Male|718 Trailsway Circle|Brazil|BR|sslowan1v@indiegogo.com|10% FIXED|0.1|-759214.57|118.65|-759333.22|N||
+4255464677|Ham|Sacher|2011-12-20|Male|8163 Old Shore Street|Panama|PA|hsacher1w@macromedia.com|1% FIXED|0.01|174230.03|7380.22|166849.81|N||
+5932656654|Willem|Boynes|2011-03-02|Male|53885 Acker Junction|Brazil|BR|wboynes1x@statcounter.com|VARIABLE|0.6688008349905176|-670502.0|1334.14|-671836.14|N||
+6769289261|Alma|Casillis|2016-12-17|Female|87 Laurel Parkway|France|FR|acasillis1y@clickbank.net|1% FIXED|0.01|-50262.42|-9957.93|-40304.49|N||
+6826957019|Laurella|Tunstall|1966-05-06|Female|3 Cardinal Crossing|Indonesia|ID|ltunstall1z@answers.com|10% FIXED|0.1|-334807.0|-8126.95|-326680.05|Y|7361954.0|1902
+9577796877|Darya|Pollicatt|2015-08-20|Female|76261 Scott Crossing|China|CN|dpollicatt20@mapy.cz|1% FIXED|0.01|-517241.48|-7884.1|-509357.38|Y|5626979.0|2004
+6189210937|Merv|McAuslene|2018-01-24|Male|04798 Walton Road|Germany|DE|mmcauslene21@msn.com|0% FIXED|0.0|-849183.75|-6516.76|-842666.99|Y|4712019.0|1957
+0223869384|Nadya|Vallentin|1982-01-03|Female|1 Colorado Alley|Albania|AL|nvallentin22@nps.gov|VARIABLE|0.5626730450316174|118057.53|-5615.77|123673.3|Y|2838967.0|1989
+8486118859|Frasquito|Aldren|2006-10-21|Male|9 Alpine Pass|Russia|RU|faldren23@dedecms.com|VARIABLE|0.787360704718798|-411830.5|9444.93|-421275.43|N||
+3048557229|Yul|Osipenko|1955-12-24|Male|3 Springs Circle|China|CN|yosipenko24@1688.com|1% FIXED|0.01|-607420.52|-3612.05|-603808.47|N||
+7082503865|Anthiathia|Sapey|1977-08-13|Female|5405 Londonderry Court|Philippines|PH|asapey25@about.me|1% FIXED|0.01|-350367.0|-5257.31|-345109.69|N||
+2783368900|Phedra|Carbery|1984-12-11|Female|8 Shelley Pass|France|FR|pcarbery26@youtube.com|0% FIXED|0.0|-792160.18|-6129.34|-786030.84|Y|5066395.0|1910
+4202054180|Wolfie|Jullian|1959-08-04|Male|91176 Bellgrove Plaza|China|CN|wjullian27@businessweek.com|0% FIXED|0.0|-14783.11|-6458.27|-8324.84|N||
+7016199495|Karalee|Thunders|1947-01-21|Female|36963 Swallow Park|Sweden|SE|kthunders28@delicious.com|0% FIXED|0.0|144841.8|-6278.22|151120.02|N||
+3170608916|Herbert|Mackison|1993-01-07|Male|5 Harbort Drive|Poland|PL|hmackison29@sohu.com|1% FIXED|0.01|494141.44|-2887.45|497028.89|N||
+5472766834|Carmelina|Giacovetti|1995-11-22|Female|3 Nevada Parkway|Russia|RU|cgiacovetti2a@multiply.com|VARIABLE|0.2540953833946955|692091.37|6011.15|686080.22|Y|2062923.0|1920
+2383137170|Cooper|Lassells|2015-11-26|Male|24214 Dorton Hill|China|CN|classells2b@people.com.cn|0% FIXED|0.0|-660188.85|7229.83|-667418.68|N||
+1658899547|Doy|Lamacraft|2003-03-31|Male|21376 Maywood Circle|United Kingdom|GB|dlamacraft2c@vimeo.com|0% FIXED|0.0|-925404.18|-6388.21|-919015.97|Y|6381813.0|1938
+8806776371|Denys|Deeley|1947-09-11|Male|50224 Tennyson Plaza|China|CN|ddeeley2d@cpanel.net|10% FIXED|0.1|824887.74|-5479.03|830366.77|Y|7664144.0|1975
+3377150706|Pamela|Gookes|1938-03-19|Female|748 Superior Point|Mexico|MX|pgookes2e@com.com|0% FIXED|0.0|273669.71|-506.36|274176.07|N||
+8804675071|Nikos|Matton|2003-11-03|Male|6 6th Drive|China|CN|nmatton2f@webs.com|1% FIXED|0.01|641388.23|-3512.11|644900.34|N||
+9349691426|Werner|Ralston|1936-10-11|Male|447 Schlimgen Avenue|Brazil|BR|wralston2g@wp.com|0% FIXED|0.0|136692.88|-4750.7|141443.58|Y|641870.0|1974
+7737399992|Pincus|Bristowe|1980-04-30|Male|224 Lindbergh Hill|Indonesia|ID|pbristowe2h@tuttocitta.it|1% FIXED|0.01|-730094.44|-7292.35|-722802.09|N||
+9153534824|Addy|Morena|1984-02-08|Male|9752 Hauk Parkway|Poland|PL|amorena2i@weather.com|1% FIXED|0.01|-206166.28|-260.06|-205906.22|Y|7377585.0|1940
+4643933402|Pietrek|Puttnam|2008-04-21|Male|7480 Melrose Center|China|CN|pputtnam2j@hhs.gov|10% FIXED|0.1|-383729.29|-6466.06|-377263.23|Y|3128730.0|1905
+8518789087|Gayelord|Slany|1965-06-21|Male|3561 Utah Point|Indonesia|ID|gslany2k@arstechnica.com|0% FIXED|0.0|-817737.03|-4823.27|-812913.76|Y|2027347.0|1980
+1252751400|Dayna|Lowsely|1960-10-10|Female|2219 Nancy Court|Brazil|BR|dlowsely2l@wired.com|VARIABLE|0.125690738916078|400545.44|-2411.36|402956.8|N||
+5335829028|Lemar|Sergant|2017-10-02|Male|0 Hudson Park|Comoros|KM|lsergant2m@360.cn|VARIABLE|0.2836599011860148|-457295.09|2496.75|-459791.84|Y|3552822.0|1995
+0193787814|Allissa|Winters|2008-11-19|Female|3950 Kingsford Hill|Peru|PE|awinters2n@disqus.com|0% FIXED|0.0|-763461.76|-7344.37|-756117.39|Y|5297586.0|1907
+5513086700|Hayyim|MacAvddy|1948-05-12|Male|067 Barby Center|Colombia|CO|hmacavddy2o@nasa.gov|10% FIXED|0.1|-949006.8|7827.18|-956833.98|Y|7526412.0|1974
+3993136330|Ferdinande|Melia|1945-04-06|Female|60 Springs Avenue|Indonesia|ID|fmelia2p@tripod.com|10% FIXED|0.1|-956547.82|3471.07|-960018.89|Y|6452960.0|1928
+3746318971|Jase|Cattlemull|1933-05-19|Male|82 Rigney Drive|Japan|JP|jcattlemull2q@yellowpages.com|0% FIXED|0.0|819601.97|6949.05|812652.92|Y|751403.0|2008
+2584525852|Aila|Meakes|2002-09-12|Female|39 Hanson Drive|China|CN|ameakes2r@cnbc.com|10% FIXED|0.1|859424.22|-6985.07|866409.29|Y|6189327.0|1922
+0279446918|Roz|McConway|2008-10-31|Female|587 Hallows Pass|China|CN|rmcconway2s@usnews.com|10% FIXED|0.1|653766.91|6618.64|647148.27|Y|6259689.0|1916
+4670478702|Dare|Gandley|1940-02-10|Male|0967 Hanson Place|Russia|RU|dgandley2t@nature.com|10% FIXED|0.1|-823610.01|-9619.03|-813990.98|Y|5749621.0|1989
+9242784036|Meaghan|Tilio|1974-09-28|Female|63 Thackeray Avenue|Indonesia|ID|mtilio2u@flavors.me|VARIABLE|0.5221752759513137|775669.23|6325.89|769343.34|Y|3225105.0|1941
+5753697569|Billie|Hache|1978-07-11|Male|424 Brentwood Parkway|China|CN|bhache2v@businessinsider.com|0% FIXED|0.0|853246.87|4615.73|848631.14|Y|1141505.0|1924
+2754057498|Townie|Knightley|2002-05-15|Male|3804 Stoughton Place|Indonesia|ID|tknightley2w@samsung.com|1% FIXED|0.01|-405224.32|-1206.14|-404018.18|N||
+4797832495|Dalton|Moodie|1966-12-31|Male|1026 Stuart Alley|Brazil|BR|dmoodie2x@google.com.au|1% FIXED|0.01|832772.05|1440.51|831331.54|N||
+2683963610|Kippie|Densell|1983-12-11|Female|875 Pleasure Avenue|China|CN|kdensell2y@dot.gov|10% FIXED|0.1|99072.53|6651.12|92421.41|N||
+8987846458|Urbano|Treherne|1976-11-07|Male|0 Pierstorff Center|Ukraine|UA|utreherne2z@multiply.com|1% FIXED|0.01|60791.82|-1796.34|62588.16|N||
+2373189135|Charisse|Beaushaw|2009-11-23|Female|17271 Starling Way|Indonesia|ID|cbeaushaw30@discuz.net|1% FIXED|0.01|540730.27|-6066.81|546797.08|Y|6175985.0|1989
+1569330689|Shawn|Blesdill|1968-02-21|Male|0 Gerald Trail|Brazil|BR|sblesdill31@about.com|VARIABLE|0.2462209721645795|975391.65|2090.49|973301.16|N||
+0355069849|Standford|Trodden|1981-06-06|Male|0 Meadow Valley Trail|China|CN|strodden32@dailymail.co.uk|10% FIXED|0.1|50805.81|-7605.54|58411.35|Y|2688640.0|1904
+9846203527|Anjanette|Ruppel|1936-05-26|Female|58237 Kenwood Crossing|Greece|GR|aruppel33@instagram.com|0% FIXED|0.0|-425368.49|-7226.12|-418142.37|N||
+1564180417|Lesya|Kenninghan|1931-02-05|Female|70 Darwin Road|Croatia|HR|lkenninghan34@washington.edu|VARIABLE|0.5087967104103052|-773369.56|-8407.04|-764962.52|N||
+0724537694|Kermy|Gregan|1937-05-22|Male|288 Twin Pines Trail|China|CN|kgregan35@tripod.com|0% FIXED|0.0|784398.05|4730.28|779667.77|N||
+9496823688|Craggy|Hodgin|2009-02-02|Male|162 Redwing Park|Belarus|BY|chodgin36@so-net.ne.jp|VARIABLE|0.9002073436480877|-824638.0|3691.72|-828329.72|N||
+4466209480|Karen|Faucherand|2008-05-27|Female|240 Warner Pass|Indonesia|ID|kfaucherand37@huffingtonpost.com|VARIABLE|0.7693474354458182|929136.56|-8690.75|937827.31|Y|1679656.0|1997
+3708346998|Fanny|Rowlett|2012-12-12|Female|0 New Castle Circle|France|FR|frowlett38@ebay.co.uk|10% FIXED|0.1|-664091.44|192.16|-664283.6|Y|4772845.0|1941
+7403375068|Esdras|Tenaunt|1969-03-14|Male|70 Tennyson Road|Peru|PE|etenaunt39@foxnews.com|10% FIXED|0.1|-207984.58|-6343.03|-201641.55|N||
+1553215079|Aldric|Saggers|1996-07-05|Male|2810 Rusk Point|France|FR|asaggers3a@t.co|1% FIXED|0.01|407761.75|-8166.48|415928.23|Y|1480681.0|1927
+3981080866|Brynna|Smitherham|1964-12-09|Female|1562 1st Alley|Philippines|PH|bsmitherham3b@dyndns.org|VARIABLE|0.5770550862972437|325722.04|3111.37|322610.67|N||
+3769009622|Arni|Surgeon|1979-07-15|Male|28562 Badeau Drive|Russia|RU|asurgeon3c@earthlink.net|10% FIXED|0.1|-629962.51|1261.42|-631223.93|N||
+3171911604|Cordell|Riddett|1999-12-06|Male|6998 Grover Pass|China|CN|criddett3d@g.co|0% FIXED|0.0|783109.28|-9381.5|792490.78|Y|7159844.0|1930
+7401159279|Gerianne|Elcomb|1944-12-13|Female|16 Dakota Crossing|Croatia|HR|gelcomb3e@angelfire.com|10% FIXED|0.1|-330351.29|-6589.72|-323761.57|N||
+8561367830|Ira|Gowrich|1989-03-24|Male|524 Sachs Drive|Indonesia|ID|igowrich3f@xrea.com|0% FIXED|0.0|-100485.62|6389.85|-106875.47|N||
+5044912476|Christel|Riply|1996-02-21|Female|6025 Donald Plaza|Sweden|SE|criply3g@hubpages.com|VARIABLE|0.4855978082057801|770291.42|4293.3|765998.12|Y|2078934.0|1994
+2761879449|Bunny|Paaso|1994-01-07|Female|9510 Northland Street|Thailand|TH|bpaaso3h@hatena.ne.jp|1% FIXED|0.01|954751.0|6109.33|948641.67|N||
+3146535599|Delcine|Kivits|1951-11-07|Female|34 Mallard Crossing|Indonesia|ID|dkivits3i@gov.uk|1% FIXED|0.01|-991392.45|-4043.98|-987348.47|N||
+1077129416|Virgie|Ferrand|1989-03-26|Female|20 Truax Place|Indonesia|ID|vferrand3j@cargocollective.com|1% FIXED|0.01|431779.91|2664.87|429115.04|Y|4209277.0|2016
+2526562503|Dulciana|Gye|2017-07-22|Female|355 Prairie Rose Trail|Ukraine|UA|dgye3k@tiny.cc|VARIABLE|0.235020900383679|-860490.79|3968.14|-864458.93|Y|2961019.0|1967
+5076235178|Gladi|Cain|2003-01-08|Female|3918 Banding Parkway|Philippines|PH|gcain3l@twitter.com|VARIABLE|0.8518451917326072|-876236.38|2187.5|-878423.88|N||
+6192346577|Raymund|Arlow|2011-05-12|Male|26222 Twin Pines Pass|Philippines|PH|rarlow3m@opensource.org|10% FIXED|0.1|490825.94|-5706.77|496532.71|Y|5662872.0|1904
+2897776781|Margaux|Horsley|1959-10-13|Female|0 Eliot Junction|Poland|PL|mhorsley3n@unicef.org|VARIABLE|0.1486617725735001|461474.24|-1083.28|462557.52|N||
+2686932244|Vannie|Foottit|1949-02-26|Female|2 Bay Crossing|Russia|RU|vfoottit3o@instagram.com|VARIABLE|0.6245226271012994|610764.07|-927.07|611691.14|N||
+9326129128|Cristy|Heinke|1953-07-12|Female|26 Hanover Trail|Ukraine|UA|cheinke3p@census.gov|VARIABLE|0.7582801820096682|625753.31|5217.46|620535.85|N||
+0610814613|Gael|Biggans|1990-11-20|Female|3532 Messerschmidt Trail|China|CN|gbiggans3q@epa.gov|10% FIXED|0.1|-142052.39|-106.72|-141945.67|N||
+1371510768|Cal|Pfaffel|2016-05-11|Male|1 Bobwhite Parkway|Brazil|BR|cpfaffel3r@storify.com|VARIABLE|0.9752083018455314|-295302.07|-1224.69|-294077.38|N||
+5231270067|Theda|McGeoch|1980-01-22|Female|670 Dayton Plaza|Bolivia|BO|tmcgeoch3s@1und1.de|VARIABLE|0.7599890897470701|383288.19|4193.64|379094.55|Y|2667147.0|2006
+8213775368|Yardley|Stoppard|1951-09-25|Male|931 4th Parkway|Pakistan|PK|ystoppard3t@tamu.edu|0% FIXED|0.0|222484.66|-4406.11|226890.77|Y|2865088.0|1961
+3443900461|Dalt|Mabbett|1970-05-04|Male|53 Texas Court|Indonesia|ID|dmabbett3u@ucoz.ru|0% FIXED|0.0|-414469.57|194.9|-414664.47|Y|1639890.0|1944
+0743508807|Elayne|Caveney|1965-04-30|Female|280 Bay Road|Portugal|PT|ecaveney3v@prweb.com|0% FIXED|0.0|-991307.09|-9627.86|-981679.23|Y|809475.0|2006
+7277242327|Delbert|Bartozzi|1951-12-10|Male|757 Mallory Hill|Philippines|PH|dbartozzi3w@amazon.de|1% FIXED|0.01|862951.46|728.74|862222.72|N||
+3126110401|Giacomo|Haselhurst|1941-10-07|Male|79 Bartillon Crossing|China|CN|ghaselhurst3x@sourceforge.net|1% FIXED|0.01|954678.38|-4334.56|959012.94|N||
+3472923865|Odele|Borham|1951-03-13|Female|44 La Follette Court|Nigeria|NG|oborham3y@rakuten.co.jp|VARIABLE|0.6568299184654016|-364639.1|-7317.91|-357321.19|Y|2887000.0|1956
+6327315569|Maude|Wastell|2001-12-04|Female|1496 Rockefeller Lane|China|CN|mwastell3z@imdb.com|VARIABLE|0.5676155677028274|896875.63|-5678.81|902554.44|Y|4298911.0|1906
+0764686291|Hobard|Budd|2004-02-24|Male|0991 North Center|Brazil|BR|hbudd40@arstechnica.com|10% FIXED|0.1|-55261.84|-6809.63|-48452.21|Y|3013210.0|1943
+4817835168|Chantalle|Hefferon|2013-10-18|Female|9898 Pennsylvania Avenue|China|CN|chefferon41@geocities.com|0% FIXED|0.0|133847.0|3786.77|130060.23|Y|3483315.0|1946
+6831314007|Roldan|Burch|1933-12-06|Male|560 Old Gate Place|China|CN|rburch42@networksolutions.com|1% FIXED|0.01|-77911.35|-7398.08|-70513.27|N||
+9984925226|Rutledge|Kellett|2002-09-23|Male|50762 Schurz Center|Ukraine|UA|rkellett43@comsenz.com|1% FIXED|0.01|-199809.23|-1433.03|-198376.2|N||
+4788024349|Natalee|Aleksandrev|1994-02-03|Female|65435 Parkside Point|Indonesia|ID|naleksandrev44@tumblr.com|0% FIXED|0.0|-321617.96|-8591.28|-313026.68|Y|3913165.0|1957
+7241105753|Umberto|Eighteen|1975-07-19|Male|6144 Eliot Parkway|Dominican Republic|DO|ueighteen45@columbia.edu|10% FIXED|0.1|902355.49|1366.92|900988.57|N||
+5297848717|Nalani|Huleatt|2010-01-03|Female|9 Dapin Center|China|CN|nhuleatt46@mail.ru|1% FIXED|0.01|826962.98|-5046.54|832009.52|N||
+1853289043|Allene|Symones|1999-11-07|Female|42754 Valley Edge Junction|Norway|NO|asymones47@hud.gov|10% FIXED|0.1|-837344.98|1568.83|-838913.81|Y|3907413.0|1970
+2535609851|Gerrard|Mobbs|1991-06-07|Male|0 Center Drive|China|CN|gmobbs48@japanpost.jp|0% FIXED|0.0|-535048.0|-7495.24|-527552.76|N||
+6237554823|Donnie|Wooton|1991-12-09|Female|1 Westend Street|Sweden|SE|dwooton49@istockphoto.com|1% FIXED|0.01|187935.88|-4534.52|192470.4|Y|4646675.0|1981
+4495281739|Ferdie|Cabel|1970-10-09|Male|1 Bunting Alley|Peru|PE|fcabel4a@reference.com|VARIABLE|0.02280566933744912|61688.61|-3695.63|65384.24|Y|2322454.0|2005
+0162487509|Adella|Spoor|1952-02-27|Female|78 Sommers Crossing|Indonesia|ID|aspoor4b@msn.com|0% FIXED|0.0|-546529.81|5169.05|-551698.86|Y|6708715.0|1950
+2937593852|Diann|Luca|2009-09-01|Female|38362 Kedzie Crossing|Venezuela|VE|dluca4c@timesonline.co.uk|1% FIXED|0.01|774677.3|-3123.32|777800.62|N||
+8918859864|Obediah|Wignall|1974-07-30|Male|52 3rd Street|Japan|JP|owignall4d@bluehost.com|10% FIXED|0.1|-502745.55|-2313.61|-500431.94|N||
+4200573032|Derwin|Wedmore|1939-07-25|Male|3924 Sutherland Trail|China|CN|dwedmore4e@alibaba.com|10% FIXED|0.1|514668.26|-3188.28|517856.54|Y|4361432.0|1956
+0768294258|Dayle|Payton|1992-06-25|Female|14702 Thompson Parkway|China|CN|dpayton4f@weibo.com|VARIABLE|0.7394525060557413|161701.11|-6936.37|168637.48|N||
+5515732529|Bendite|Ackers|2011-07-06|Female|0260 Lindbergh Plaza|Thailand|TH|backers4g@google.com.hk|VARIABLE|0.4572469511841019|520028.82|4843.05|515185.77|Y|2166241.0|1955
+7654824734|Galvan|Patrick|1988-09-03|Male|7 Myrtle Avenue|Brazil|BR|gpatrick4h@mail.ru|10% FIXED|0.1|-75592.91|7088.46|-82681.37|Y|7559735.0|1955
+1029374260|Adiana|Mitchelmore|1972-06-11|Female|285 Gateway Junction|Japan|JP|amitchelmore4i@si.edu|0% FIXED|0.0|404925.1|-4017.63|408942.73|N||
+2154940358|Lutero|Westerman|1945-07-15|Male|172 Sundown Pass|Russia|RU|lwesterman4j@istockphoto.com|10% FIXED|0.1|-926526.98|770.0|-927296.98|Y|6199940.0|2009
+2564036759|Ron|Sines|2010-11-16|Male|70439 Oxford Center|Italy|IT|rsines4k@youtu.be|VARIABLE|0.9646018974810707|238102.88|64.5|238038.38|Y|4671131.0|1950
+2099538913|Franky|Aubrey|2016-09-14|Female|83178 Columbus Street|China|CN|faubrey4l@umich.edu|0% FIXED|0.0|635191.4|-8068.8|643260.2|N||
+7620203850|Barbi|Ree|1950-06-30|Female|5 Di Loreto Park|China|CN|bree4m@vinaora.com|10% FIXED|0.1|-9000.63|377.8|-9378.43|Y|788706.0|1933
+5066436901|Elysee|Hooban|2004-07-04|Female|690 Petterle Avenue|Ukraine|UA|ehooban4n@skype.com|0% FIXED|0.0|-656000.56|-8620.53|-647380.03|N||
+3972950462|Tybie|Schoales|1972-07-24|Female|02182 Bashford Place|Finland|FI|tschoales4o@plala.or.jp|VARIABLE|0.5846910247764304|968558.78|-5669.55|974228.33|N||
+0874900573|Galvin|McKevitt|1997-09-02|Male|4 Daystar Crossing|Indonesia|ID|gmckevitt4p@liveinternet.ru|10% FIXED|0.1|989805.79|-5130.21|994936.0|N||
+2299184562|Cirillo|Mees|1978-08-15|Male|48979 Starling Terrace|Denmark|DK|cmees4q@360.cn|VARIABLE|0.4959962176024871|813618.0|1585.55|812032.45|N||
+6092954710|Olivier|Elphinston|2008-08-22|Male|59047 Forest Dale Pass|Palestinian Territory|PS|oelphinston4r@nydailynews.com|0% FIXED|0.0|329102.57|-4878.35|333980.92|Y|716577.0|1942
+5739494915|Jodi|Harken|1984-04-09|Male|216 Blackbird Point|Philippines|PH|jharken4s@bluehost.com|1% FIXED|0.01|863806.98|-5069.39|868876.37|Y|2640127.0|1926
+7684966030|Zacharias|Durdan|1935-12-08|Male|37 Oxford Junction|China|CN|zdurdan4t@merriam-webster.com|10% FIXED|0.1|-671818.4|6113.94|-677932.34|N||
+9921009494|Richmond|Giffaut|1992-01-28|Male|09 Jenifer Alley|China|CN|rgiffaut4u@unicef.org|VARIABLE|0.2495848962952009|863788.78|4501.86|859286.92|Y|7314390.0|1973
+0667841822|Carmela|Shyre|1992-08-05|Female|978 Jackson Center|Albania|AL|cshyre4v@time.com|VARIABLE|0.6373460174852661|-504381.02|703.85|-505084.87|Y|4551931.0|1916
+4381757122|Reilly|Krol|1973-10-19|Male|0 Longview Park|China|CN|rkrol4w@networkadvertising.org|VARIABLE|0.7056412849761866|-343394.01|3624.6|-347018.61|N||
+0044266863|Anastasie|Kleinsmuntz|1992-11-26|Female|188 Carioca Parkway|China|CN|akleinsmuntz4x@flickr.com|1% FIXED|0.01|710393.47|-8743.2|719136.67|N||
+6978747440|Tyler|Grooby|1996-02-15|Male|02 School Road|Brazil|BR|tgrooby4y@bing.com|0% FIXED|0.0|924204.96|6958.44|917246.52|Y|7071449.0|1930
+7558249929|Kikelia|Cruse|1997-06-24|Female|8 Ridgeview Pass|Poland|PL|kcruse4z@hud.gov|10% FIXED|0.1|931536.0|4108.34|927427.66|Y|7599191.0|1933
+3914272996|Devondra|Mullinger|1970-09-28|Female|6443 Norway Maple Hill|China|CN|dmullinger50@irs.gov|0% FIXED|0.0|422869.43|-4829.73|427699.16|N||
+3091062279|Jefferson|Dun|1937-08-31|Male|2524 Havey Trail|Philippines|PH|jdun51@dagondesign.com|0% FIXED|0.0|-915892.41|-5621.39|-910271.02|Y|118275.0|1963
+9497174594|Patience|Mathey|2017-05-10|Female|6 Ridgeview Lane|Kazakhstan|KZ|pmathey52@w3.org|10% FIXED|0.1|-368651.61|-2059.71|-366591.9|N||
+8366023524|Kattie|Quimby|2016-12-11|Female|339 Algoma Center|Nicaragua|NI|kquimby53@ox.ac.uk|10% FIXED|0.1|379964.28|-1464.81|381429.09|Y|1687691.0|1964
+7855426922|Darb|Jaggli|1946-10-03|Female|399 Pankratz Drive|Vietnam|VN|djaggli54@opensource.org|1% FIXED|0.01|-747571.11|-2202.43|-745368.68|N||
+4938024721|Jammal|Armell|1946-07-02|Male|93 Summerview Point|China|CN|jarmell55@nbcnews.com|1% FIXED|0.01|770190.41|8188.81|762001.6|N||
+7083470510|Eziechiele|Woolger|1934-04-28|Male|77 Beilfuss Pass|Croatia|HR|ewoolger56@weather.com|10% FIXED|0.1|361300.23|563.05|360737.18|Y|6842769.0|2018
+6416737981|Ronnie|Shedden|1976-01-13|Male|31835 Sachs Place|China|CN|rshedden57@sfgate.com|10% FIXED|0.1|461513.0|3384.0|458129.0|N||
+8064526094|Cheryl|Bertson|1964-02-22|Female|61843 Schurz Place|Vietnam|VN|cbertson58@umn.edu|VARIABLE|0.4242456546843239|-7750.07|2079.92|-9829.99|N||
+7268854021|Katrina|Joplin|2004-12-03|Female|026 Cardinal Crossing|Greece|GR|kjoplin59@tinypic.com|0% FIXED|0.0|700883.18|81.48|700801.7|Y|6558221.0|1980
+0427096804|Tailor|Clingoe|1952-07-29|Male|2 Nobel Lane|Poland|PL|tclingoe5a@diigo.com|10% FIXED|0.1|-801310.89|2878.56|-804189.45|Y|3866605.0|1979
+2382005432|Anatole|Bonnyson|1951-05-05|Male|69 Straubel Terrace|Indonesia|ID|abonnyson5b@twitpic.com|1% FIXED|0.01|-876812.55|-9044.06|-867768.49|Y|7708377.0|1936
+4554873064|Cello|Renton|1935-04-23|Male|404 Charing Cross Circle|Philippines|PH|crenton5c@tinyurl.com|10% FIXED|0.1|-120228.87|2290.22|-122519.09|Y|2624899.0|2014
+3659161020|Vanny|Hebburn|1934-06-06|Female|664 Killdeer Junction|China|CN|vhebburn5d@sogou.com|10% FIXED|0.1|-719158.67|6523.69|-725682.36|Y|130962.0|1998
+1893776476|Auberta|Robson|1986-06-28|Female|3 Namekagon Avenue|France|FR|arobson5e@phoca.cz|0% FIXED|0.0|-647580.53|-1335.47|-646245.06|Y|598728.0|1977
+0013958712|Marnia|Sillitoe|1950-03-18|Female|2 Colorado Junction|Indonesia|ID|msillitoe5f@netlog.com|0% FIXED|0.0|788442.45|5404.64|783037.81|N||
+5906451285|Loleta|Penticoot|1986-08-02|Female|29 Kenwood Crossing|Nicaragua|NI|lpenticoot5g@abc.net.au|1% FIXED|0.01|677942.42|2215.41|675727.01|N||
+2557900826|Junette|Skeene|1959-05-14|Female|7 Bartillon Place|Indonesia|ID|jskeene5h@jugem.jp|1% FIXED|0.01|-609495.02|2756.63|-612251.65|N||
+3780761947|Piggy|Bockett|1963-12-22|Male|03127 Anderson Street|Brazil|BR|pbockett5i@e-recht24.de|1% FIXED|0.01|-25449.18|-7467.4|-17981.78|N||
+8710309063|Erastus|Demetr|2008-11-21|Male|535 Green Pass|Guatemala|GT|edemetr5j@privacy.gov.au|0% FIXED|0.0|-809623.98|781.47|-810405.45|Y|186494.0|1975
+4759568808|Annalee|Sherrum|1977-01-18|Female|3 Mallard Place|Colombia|CO|asherrum5k@businessweek.com|1% FIXED|0.01|772194.58|5837.98|766356.6|N||
+9628705385|Gael|Wolfer|2003-02-09|Male|4 5th Center|Germany|DE|gwolfer5l@ask.com|0% FIXED|0.0|-366047.95|3025.97|-369073.92|N||
+6689329526|Caterina|Wedon|1953-03-14|Female|68559 Becker Avenue|Portugal|PT|cwedon5m@ycombinator.com|0% FIXED|0.0|637204.0|1122.52|636081.48|N||
+7565430447|Pasquale|Paylie|2009-01-01|Male|577 Mockingbird Center|Indonesia|ID|ppaylie5n@tamu.edu|0% FIXED|0.0|-502249.74|7164.32|-509414.06|Y|4256282.0|1965
+0842269509|Wenda|Inglesent|1946-10-10|Female|1 Tennyson Road|Portugal|PT|winglesent5o@ustream.tv|1% FIXED|0.01|295934.14|-2446.07|298380.21|N||
+9431501716|Marmaduke|Courtney|1941-02-26|Male|18339 New Castle Avenue|Czech Republic|CZ|mcourtney5p@eepurl.com|0% FIXED|0.0|-422155.56|-8532.48|-413623.08|N||
+2638977586|Izaak|Mandel|2004-01-22|Male|36557 Chive Terrace|China|CN|imandel5q@deliciousdays.com|1% FIXED|0.01|-139582.22|1915.51|-141497.73|N||
+4359502494|Chrissy|Imm|1982-09-14|Female|15 Harper Point|Hungary|HU|cimm5r@dell.com|10% FIXED|0.1|-546940.04|8059.53|-554999.57|Y|381572.0|1934
+5088759258|Farleigh|Gerber|1951-10-15|Male|6 Farragut Way|Peru|PE|fgerber5s@symantec.com|VARIABLE|0.592726432928856|-121500.19|6772.41|-128272.6|N||
+7513354774|Hi|Titcombe|1958-07-22|Male|32059 Fairfield Alley|Pakistan|PK|htitcombe5t@unblog.fr|10% FIXED|0.1|172351.0|-1533.01|173884.01|N||
+9043654167|Milton|Ornells|1956-12-21|Male|90 Mockingbird Crossing|China|CN|mornells5u@admin.ch|VARIABLE|0.3390169359551908|915399.23|9189.03|906210.2|N||
+8734794158|Benedetta|Isakson|2003-02-03|Female|6910 Melrose Alley|Indonesia|ID|bisakson5v@abc.net.au|10% FIXED|0.1|761144.09|-7601.24|768745.33|N||
+6637203165|Correna|Frantzen|1968-03-25|Female|438 Truax Hill|Philippines|PH|cfrantzen5w@marriott.com|1% FIXED|0.01|100605.95|4624.04|95981.91|Y|450801.0|1908
+9589618421|Nessie|Wellington|1955-04-23|Female|29 Bay Place|Sweden|SE|nwellington5x@studiopress.com|10% FIXED|0.1|-739575.34|7138.38|-746713.72|N||
+0823307611|Thurstan|Swan|2016-08-08|Male|338 Maryland Pass|Poland|PL|tswan5y@google.de|0% FIXED|0.0|-758484.0|6657.22|-765141.22|Y|5096805.0|1948
+7541569518|Wald|Alan|1983-04-18|Male|04 Fuller Street|Ireland|IE|walan5z@goodreads.com|1% FIXED|0.01|396556.09|89.57|396466.52|Y|402293.0|1931
+7071881472|Nataniel|Dogg|1945-12-06|Male|09 Spenser Circle|Indonesia|ID|ndogg60@nifty.com|VARIABLE|0.07407586719938844|-197242.02|-3735.17|-193506.85|N||
+5667049074|Dall|Southcomb|1949-10-21|Male|26589 5th Terrace|Mexico|MX|dsouthcomb61@livejournal.com|10% FIXED|0.1|221888.23|1435.6|220452.63|Y|5691068.0|1967
+4380222209|Marven|Gove|2005-05-01|Male|46 Schlimgen Pass|Afghanistan|AF|mgove62@geocities.jp|10% FIXED|0.1|875351.89|-6150.11|881502.0|Y|7268990.0|1946
+0924550988|Colby|Winnard|1943-08-17|Male|4 Ridgeway Lane|Czech Republic|CZ|cwinnard63@ucoz.com|0% FIXED|0.0|748642.85|7328.1|741314.75|Y|7597642.0|1905
+7362038836|Valli|Casini|1937-12-19|Female|17714 Monica Trail|Philippines|PH|vcasini64@home.pl|VARIABLE|0.3436837532431102|-277526.76|2491.89|-280018.65|Y|5870942.0|1915
+1844899330|Adham|Wardale|2009-08-15|Male|4 Main Trail|Thailand|TH|awardale65@vkontakte.ru|10% FIXED|0.1|-910678.26|-8356.68|-902321.58|Y|5885233.0|1927
+1905651163|Haleigh|Murrigan|1996-08-20|Male|66203 Algoma Junction|Mexico|MX|hmurrigan66@dion.ne.jp|1% FIXED|0.01|754749.28|7316.73|747432.55|Y|1169871.0|1945
+0350670382|Jessalin|Condy|1946-03-03|Female|2 Bobwhite Park|Poland|PL|jcondy67@aboutads.info|10% FIXED|0.1|279344.05|4970.51|274373.54|Y|3047501.0|1900
+9914744621|Heinrick|Afield|2012-11-21|Male|9 Lakewood Gardens Terrace|Philippines|PH|hafield68@blogspot.com|10% FIXED|0.1|543296.14|-458.85|543754.99|Y|7483912.0|1985
+1564768902|Bell|Connal|1953-12-02|Female|61 Redwing Pass|China|CN|bconnal69@eventbrite.com|VARIABLE|0.2399469541705012|-454715.27|9533.97|-464249.24|N||
+9978934480|Gerhardt|Bento|1967-03-05|Male|5319 Pleasure Trail|Russia|RU|gbento6a@apple.com|0% FIXED|0.0|885883.5|-2813.47|888696.97|Y|1425073.0|1984
+5148583789|Raymond|Dinis|1942-03-12|Male|2 Michigan Road|Indonesia|ID|rdinis6b@phoca.cz|1% FIXED|0.01|352593.1|-4825.07|357418.17|N||
+7180442976|Correna|Hoffmann|1937-01-24|Female|87 Macpherson Avenue|Sao Tome and Principe|ST|choffmann6c@blogtalkradio.com|0% FIXED|0.0|-741834.98|-3926.7|-737908.28|Y|5609694.0|1911
+3640823680|Corrie|Dubber|1989-02-13|Female|3 Waywood Terrace|Indonesia|ID|cdubber6d@jigsy.com|10% FIXED|0.1|-11630.05|-4412.36|-7217.69|Y|3691407.0|1971
+3250429848|Hadleigh|Bucklee|1982-02-11|Male|3505 Grayhawk Street|Poland|PL|hbucklee6e@nydailynews.com|VARIABLE|0.5386035378265364|556702.38|-5164.07|561866.45|N||
+0553171291|Celie|Barens|1957-07-26|Female|522 Hovde Terrace|United States|US|cbarens6f@spotify.com|0% FIXED|0.0|-504891.61|578.22|-505469.83|Y|4703327.0|1935
+7963547212|Isabelle|Ashlee|1992-07-06|Female|1836 Packers Drive|Russia|RU|iashlee6g@vk.com|0% FIXED|0.0|-109108.66|-2381.89|-106726.77|N||
+1110024363|Cornelle|Langeley|2007-10-27|Female|27761 Lindbergh Hill|Sweden|SE|clangeley6h@huffingtonpost.com|1% FIXED|0.01|-880244.61|-5594.67|-874649.94|N||
+8311206759|Oneida|Brashaw|1935-12-07|Female|30200 Ridgeway Alley|Brazil|BR|obrashaw6i@sina.com.cn|10% FIXED|0.1|-254.49|-372.11|117.62|Y|1727811.0|1989
+3625865785|Corene|Messham|1935-04-23|Female|2 Forest Dale Avenue|Indonesia|ID|cmessham6j@quantcast.com|VARIABLE|0.7816016397259314|151917.92|5151.06|146766.86|Y|418485.0|1927
+2442842149|Gerty|Rogans|1962-08-26|Female|05 Muir Circle|Sweden|SE|grogans6k@woothemes.com|VARIABLE|0.1604845734781085|661148.96|338.51|660810.45|Y|407018.0|1937
+6809155929|Patten|Sothcott|1956-09-04|Male|3046 Sloan Park|Iran|IR|psothcott6l@independent.co.uk|VARIABLE|0.5795060801117567|-153034.7|7784.38|-160819.08|N||
+4117598198|Randie|Tull|1944-08-19|Female|70528 Talmadge Center|Portugal|PT|rtull6m@wp.com|1% FIXED|0.01|288230.7|-3599.03|291829.73|N||
+1915716292|Coleen|Stott|1986-05-02|Female|8209 Vahlen Place|France|FR|cstott6n@vk.com|0% FIXED|0.0|-899514.87|8849.27|-908364.14|N||
+4458459562|Obadiah|Buckthorp|2002-05-19|Male|42 Namekagon Road|Colombia|CO|obuckthorp6o@huffingtonpost.com|VARIABLE|0.2135265762656529|448130.88|-1196.29|449327.17|N||
+9041867155|Nicolai|Lisimore|2005-03-19|Male|20083 Tennessee Terrace|Indonesia|ID|nlisimore6p@weibo.com|VARIABLE|0.6792044416122429|405935.8|9932.54|396003.26|Y|2115407.0|1962
+6258701914|Cosette|Cuvley|1932-09-06|Female|22 Tony Park|Portugal|PT|ccuvley6q@cpanel.net|1% FIXED|0.01|-72998.73|7997.94|-80996.67|Y|110585.0|1903
+2786898617|Johannes|Ottley|1966-11-27|Male|065 Memorial Terrace|Philippines|PH|jottley6r@vkontakte.ru|1% FIXED|0.01|-501633.8|3148.36|-504782.16|N||
+7028828441|Jonas|Sabey|1942-06-04|Male|6 Northfield Junction|Japan|JP|jsabey6s@linkedin.com|1% FIXED|0.01|384815.19|7975.49|376839.7|N||
+1410364542|Ric|Czajkowski|2008-06-09|Male|530 Derek Alley|Philippines|PH|rczajkowski6t@amazon.de|0% FIXED|0.0|-423799.66|9942.06|-433741.72|N||
+6174704858|Peirce|Hutfield|1990-10-05|Male|7 Eastlawn Pass|Poland|PL|phutfield6u@mail.ru|1% FIXED|0.01|9663.47|-3959.02|13622.49|Y|3895369.0|1985
+9302420760|Sheba|Macartney|1976-03-17|Female|40635 5th Point|China|CN|smacartney6v@tuttocitta.it|1% FIXED|0.01|262059.87|-1150.27|263210.14|N||
+0814092667|Addy|Loche|1951-05-21|Male|131 Jana Alley|Indonesia|ID|aloche6w@cmu.edu|0% FIXED|0.0|81216.05|9174.83|72041.22|Y|1978942.0|1996
+5829666359|Muffin|Janew|1943-02-16|Female|695 Boyd Drive|China|CN|mjanew6x@discovery.com|VARIABLE|0.6358970285422264|718663.92|4224.83|714439.09|N||
+8979766211|Sigismondo|Attiwill|1990-08-22|Male|5 Bowman Way|Brazil|BR|sattiwill6y@nymag.com|1% FIXED|0.01|148001.0|1478.96|146522.04|N||
+5617438336|Lizabeth|Nowak|1968-05-25|Female|630 Westridge Avenue|Jordan|JO|lnowak6z@slideshare.net|1% FIXED|0.01|945991.53|4080.81|941910.72|N||
+7656116818|Kellie|Disman|1941-01-07|Female|48 Sutteridge Circle|Ecuador|EC|kdisman70@statcounter.com|VARIABLE|0.4671195491163891|758347.58|-1663.69|760011.27|N||
+6242842998|Corbie|Fawlo|2009-02-13|Male|28 Starling Circle|Poland|PL|cfawlo71@qq.com|10% FIXED|0.1|-42120.86|1535.82|-43656.68|Y|4449385.0|1911
+0020867344|Cordy|Bernhardt|2008-11-02|Female|428 Carpenter Park|Indonesia|ID|cbernhardt72@delicious.com|0% FIXED|0.0|-814500.25|9724.56|-824224.81|N||
+0054465419|Fraser|Rawdall|2001-03-19|Male|8 Northwestern Drive|Norway|NO|frawdall73@mtv.com|VARIABLE|0.6607359384573176|-4647.35|334.34|-4981.69|Y|1510313.0|1957
+7570072251|Christiana|Tommeo|1978-01-11|Female|2148 Autumn Leaf Alley|Colombia|CO|ctommeo74@earthlink.net|0% FIXED|0.0|856674.82|1003.04|855671.78|Y|2985429.0|2005
+7768501365|Sherie|Duxbury|1960-01-27|Female|6 School Road|Sweden|SE|sduxbury75@flavors.me|VARIABLE|0.8115387826912467|992932.13|3245.36|989686.77|N||
+9068874888|Riobard|Zorn|1963-01-01|Male|2 Grover Plaza|China|CN|rzorn76@instagram.com|VARIABLE|0.690956797082046|643190.87|-4743.82|647934.69|Y|2867084.0|2013
+2576186238|Kristyn|Olenov|1966-09-17|Female|6501 Nelson Trail|Japan|JP|kolenov77@zdnet.com|VARIABLE|0.1422441092856237|253195.59|-5300.09|258495.68|Y|3400896.0|1926
+4971259813|Dianna|Brideau|2003-09-09|Female|96 Express Plaza|Indonesia|ID|dbrideau78@wufoo.com|10% FIXED|0.1|-61372.0|-8415.55|-52956.45|Y|3474482.0|1945
+5572126195|Feodor|Sturney|1972-09-11|Male|30 Sachs Plaza|Portugal|PT|fsturney79@biglobe.ne.jp|VARIABLE|0.2539050291257623|501207.23|-6288.37|507495.6|N||
+0729967492|Corrine|Chrisp|2018-08-06|Female|7 Toban Junction|China|CN|cchrisp7a@wikimedia.org|VARIABLE|0.06763253078860368|450520.54|-8436.67|458957.21|Y|4345891.0|1923
+0613105079|Joana|Barbey|1934-06-02|Female|20580 Transport Center|Portugal|PT|jbarbey7b@alexa.com|0% FIXED|0.0|623095.46|503.95|622591.51|N||
+9243843087|Wilmar|Gashion|2015-07-01|Male|89501 Lien Avenue|Brazil|BR|wgashion7c@kickstarter.com|0% FIXED|0.0|-39746.0|9260.49|-49006.49|Y|4507499.0|1963
+8478590528|Yorgo|Cottell|1940-07-09|Male|435 Glacier Hill Plaza|South Africa|ZA|ycottell7d@fc2.com|VARIABLE|0.8933101965665817|-862162.0|-7047.34|-855114.66|N||
+5380303560|Nil|Hodgin|1990-07-18|Male|148 Pleasure Court|Ukraine|UA|nhodgin7e@harvard.edu|10% FIXED|0.1|-672891.89|-8405.23|-664486.66|Y|512081.0|1902
+9373558250|Sydel|Guiot|1971-09-02|Female|07 Loeprich Court|Portugal|PT|sguiot7f@sakura.ne.jp|VARIABLE|0.05813469488705882|-551859.9|9305.59|-561165.49|N||
+4687113095|Fred|Lindup|1979-04-28|Female|6 Sage Court|France|FR|flindup7g@infoseek.co.jp|10% FIXED|0.1|321904.0|1411.95|320492.05|Y|6065192.0|1913
+6586703387|Britt|Waliszek|2018-02-01|Male|0434 Northridge Crossing|China|CN|bwaliszek7h@technorati.com|VARIABLE|0.874294109324121|176567.63|1611.08|174956.55|Y|4558728.0|1900
+9449701369|Gannon|Cowles|1958-09-27|Male|8 Muir Crossing|Greece|GR|gcowles7i@discuz.net|VARIABLE|0.5903516769754112|144465.98|8534.37|135931.61|N||
+1737222450|Kare|Giannazzi|1956-09-23|Female|385 Brown Avenue|Japan|JP|kgiannazzi7j@vimeo.com|VARIABLE|0.5543549281044819|264744.57|4805.45|259939.12|Y|3837270.0|2014
+8057461667|Selby|Roberti|1976-12-01|Male|3 Luster Drive|Indonesia|ID|sroberti7k@seesaa.net|0% FIXED|0.0|661822.0|4173.99|657648.01|N||
+5301740822|Rosie|Dominguez|1960-07-30|Female|81548 Stone Corner Park|Finland|FI|rdominguez7l@indiegogo.com|VARIABLE|0.8881003895601296|-104355.05|1166.22|-105521.27|N||
+4244279385|Aloise|Matveiko|1989-11-23|Female|833 Rigney Drive|Norway|NO|amatveiko7m@discuz.net|VARIABLE|0.03393273423218506|-701443.94|8072.09|-709516.03|Y|4671697.0|1980
+5966121737|Meghan|Tattershaw|1952-03-11|Female|9738 East Alley|Kazakhstan|KZ|mtattershaw7n@instagram.com|VARIABLE|0.8779395237200407|858016.0|-2457.62|860473.62|N||
+0379395304|Dominica|Merrikin|1972-08-30|Female|63983 Montana Lane|China|CN|dmerrikin7o@time.com|VARIABLE|0.5660026091706994|376387.28|5555.07|370832.21|Y|5551541.0|1938
+2576900836|Dunstan|Longfield|1936-01-12|Male|8 Waubesa Junction|Peru|PE|dlongfield7p@google.com.au|10% FIXED|0.1|-173581.51|4942.14|-178523.65|Y|2926704.0|1949
+5915269605|Lenci|Senior|1986-05-05|Male|4869 Lotheville Lane|China|CN|lsenior7q@ftc.gov|1% FIXED|0.01|-173620.17|3002.9|-176623.07|N||
+1326645072|Abagael|Clarke|1953-05-22|Female|4 Stone Corner Parkway|Russia|RU|aclarke7r@weibo.com|0% FIXED|0.0|-56827.11|5272.9|-62100.01|Y|2471843.0|1961
+4378117371|Rachel|Penson|1967-04-12|Female|1 Continental Park|Malaysia|MY|rpenson7s@hibu.com|1% FIXED|0.01|331631.35|8571.0|323060.35|N||
+4634993384|Jillie|Oldman|1976-03-23|Female|6212 Longview Lane|Brazil|BR|joldman7t@chron.com|1% FIXED|0.01|-248166.42|-4407.27|-243759.15|Y|1951406.0|1944
+4779333792|Anitra|Cherm|2012-02-06|Female|4287 Buhler Court|Sweden|SE|acherm7u@ameblo.jp|1% FIXED|0.01|-44564.9|-9115.58|-35449.32|Y|760214.0|2013
+8596106383|Hebert|Rucklidge|1964-03-16|Male|19717 Graceland Trail|Serbia|RS|hrucklidge7v@bloglines.com|VARIABLE|0.288819645537493|-544036.65|1035.79|-545072.44|N||
+5063972578|Gian|Klaussen|1975-11-12|Male|228 Ramsey Pass|China|CN|gklaussen7w@patch.com|VARIABLE|0.1449070480210909|-834972.12|1701.49|-836673.61|Y|2392134.0|2007
+6540957858|Madelyn|Borg-Bartolo|2005-07-18|Female|7845 Lien Alley|Honduras|HN|mborgbartolo7x@goodreads.com|VARIABLE|0.3386497780044908|569459.7|-5884.08|575343.78|Y|6381814.0|1913
+4097176064|Ertha|Boswell|1983-08-06|Female|13 Maple Wood Place|Portugal|PT|eboswell7y@mit.edu|0% FIXED|0.0|336906.0|7093.2|329812.8|N||
+1287490638|Coleman|Gowdie|1955-07-04|Male|93487 Gulseth Junction|Morocco|MA|cgowdie7z@telegraph.co.uk|0% FIXED|0.0|-44663.17|-8849.22|-35813.95|Y|5625277.0|1971
+7806594116|Bondy|Cape|1997-09-14|Male|5168 Dorton Road|China|CN|bcape80@wikipedia.org|0% FIXED|0.0|360045.79|-1632.64|361678.43|Y|4071288.0|1993
+8803620907|Margret|Lockier|1974-09-14|Female|058 Jay Pass|Philippines|PH|mlockier81@g.co|VARIABLE|0.7900639438943046|-366127.75|6954.34|-373082.09|Y|1006089.0|2001
+0076663299|Nathanial|Sconce|1956-01-04|Male|584 Graedel Parkway|Sweden|SE|nsconce82@jalbum.net|VARIABLE|0.604645338327833|847527.1|-5749.38|853276.48|Y|553459.0|1967
+8014696220|Davide|Saffle|1958-05-26|Male|3683 Nelson Place|Brazil|BR|dsaffle83@uiuc.edu|VARIABLE|0.08640998841702545|937899.95|9321.63|928578.32|Y|7335212.0|2003
+4830867205|Kiri|Newbold|1942-10-30|Female|2084 Holy Cross Junction|Indonesia|ID|knewbold84@samsung.com|1% FIXED|0.01|804153.79|-5883.89|810037.68|N||
+1231968958|Jesse|Ackwood|1957-06-19|Female|53 Starling Way|China|CN|jackwood85@youtu.be|1% FIXED|0.01|288902.21|-4800.0|293702.21|Y|5110797.0|2004
+4528069504|Fonzie|Cave|1966-05-12|Male|59685 Southridge Parkway|Nigeria|NG|fcave86@scientificamerican.com|VARIABLE|0.3956378034081366|527887.37|1642.4|526244.97|Y|4743235.0|1922
+0462051617|Nicolea|Giraudou|2009-02-12|Female|9 Spohn Crossing|Bangladesh|BD|ngiraudou87@psu.edu|1% FIXED|0.01|-677308.14|-4787.03|-672521.11|Y|607500.0|1992
+8842451096|Win|Larkings|1961-09-06|Male|882 Corscot Circle|Russia|RU|wlarkings88@phpbb.com|1% FIXED|0.01|769053.26|-2859.66|771912.92|Y|957852.0|1909
+2443333787|Yuma|Maykin|1995-01-18|Male|9812 Twin Pines Place|Russia|RU|ymaykin89@businessweek.com|10% FIXED|0.1|271571.31|-168.58|271739.89|N||
+2445605695|Orrin|Whiley|1955-04-05|Male|4593 Pine View Circle|China|CN|owhiley8a@paginegialle.it|VARIABLE|0.2088408413874404|-464762.83|4121.92|-468884.75|N||
+6082950216|Sella|Delnevo|1956-02-23|Female|0313 Gerald Lane|Cuba|CU|sdelnevo8b@cnbc.com|0% FIXED|0.0|181421.42|-7320.04|188741.46|N||
+8629049537|Alexandros|Gullivent|1962-09-30|Male|63176 Old Gate Parkway|China|CN|agullivent8c@google.es|0% FIXED|0.0|-632435.26|-8101.18|-624334.08|Y|4014174.0|1933
+6318665145|Marlane|MacGahy|2018-01-25|Female|01 5th Road|Japan|JP|mmacgahy8d@wordpress.org|0% FIXED|0.0|-175737.59|8907.75|-184645.34|N||
+5009264536|Harmonia|Dovydenas|1977-12-08|Female|28 Gulseth Plaza|Poland|PL|hdovydenas8e@nature.com|0% FIXED|0.0|-571.42|-7188.17|6616.75|Y|666586.0|1921
+9729834261|Coretta|Stoute|2012-05-22|Female|275 Bunker Hill Circle|Ukraine|UA|cstoute8f@alibaba.com|10% FIXED|0.1|412011.0|6251.95|405759.05|N||
+6073891555|Inglebert|Gaskal|1932-11-19|Male|37 Doe Crossing Street|Sweden|SE|igaskal8g@goodreads.com|10% FIXED|0.1|988092.83|4184.89|983907.94|Y|5760384.0|2011
+5261024064|Alard|Jakubovski|1948-05-03|Male|6 Grasskamp Road|Indonesia|ID|ajakubovski8h@time.com|0% FIXED|0.0|-435732.95|-1482.46|-434250.49|N||
+8016987818|Kenna|Jirzik|1945-02-03|Female|5066 Melody Junction|Sweden|SE|kjirzik8i@exblog.jp|VARIABLE|0.3296744317674029|42816.89|5174.77|37642.12|Y|5053173.0|1924
+4303137804|Colan|McCulloch|1962-11-29|Male|1 Northwestern Place|China|CN|cmcculloch8j@com.com|VARIABLE|0.3996686221941148|-837848.5|8077.45|-845925.95|Y|5856911.0|1995
+5232197509|Mateo|Hazelhurst|1978-12-10|Male|273 Holy Cross Place|Indonesia|ID|mhazelhurst8k@com.com|0% FIXED|0.0|-491493.52|5531.36|-497024.88|Y|7046706.0|1950
+6383703498|Shellie|Warham|1989-06-26|Female|376 International Road|China|CN|swarham8l@purevolume.com|10% FIXED|0.1|-711632.97|-3079.43|-708553.54|Y|5184435.0|2014
+5691805452|Tildie|Plevey|1990-01-17|Female|87835 American Ash Avenue|Georgia|GE|tplevey8m@themeforest.net|VARIABLE|0.8560546482349775|141183.19|-2136.68|143319.87|N||
+3723346804|Javier|Creeghan|1963-06-02|Male|42303 School Road|China|CN|jcreeghan8n@4shared.com|0% FIXED|0.0|-72745.41|-3515.94|-69229.47|N||
+3844250344|Meridith|Coch|1992-02-22|Female|0 Quincy Center|Eritrea|ER|mcoch8o@sogou.com|1% FIXED|0.01|746554.04|-4618.85|751172.89|Y|3591846.0|1912
+5677396834|Helaina|Trivett|2005-12-06|Female|39 Ronald Regan Street|United States|US|htrivett8p@howstuffworks.com|VARIABLE|0.924529961480665|-951701.71|-4813.54|-946888.17|Y|7465990.0|1973
+7667303118|Patricio|Oseland|2017-09-29|Male|0 Fuller Avenue|Russia|RU|poseland8q@reverbnation.com|1% FIXED|0.01|-637568.93|2280.74|-639849.67|N||
+8272153890|Heall|Keinrat|1968-08-11|Male|8994 Grim Trail|Luxembourg|LU|hkeinrat8r@etsy.com|VARIABLE|0.4602364041020918|-977160.0|9502.87|-986662.87|N||
+4252758939|Brynne|Spencer|1941-09-18|Female|922 Ruskin Lane|Poland|PL|bspencer8s@stanford.edu|0% FIXED|0.0|-474547.0|-4535.57|-470011.43|N||
+1939139813|Marillin|Sadgrove|1951-10-02|Female|00 Dixon Avenue|Russia|RU|msadgrove8t@google.com.hk|VARIABLE|0.344363078694806|21712.92|5689.55|16023.37|N||
+5957396834|Ginger|Francino|1989-05-25|Female|24 Jenna Way|Russia|RU|gfrancino8u@4shared.com|VARIABLE|0.3097088896349251|577086.46|8793.84|568292.62|Y|4896308.0|1994
+8830519995|Prentiss|Zuker|1943-08-25|Male|59 Moulton Center|Peru|PE|pzuker8v@mapy.cz|VARIABLE|0.2989743072036962|-291893.62|5582.95|-297476.57|Y|4933523.0|1910
+9898778830|Raychel|Lawrenson|1984-02-11|Female|7477 Forest Parkway|Indonesia|ID|rlawrenson8w@dot.gov|VARIABLE|0.7074051435479529|-794270.87|6280.91|-800551.78|N||
+0023540486|Gaby|Bunstone|1936-09-13|Female|05 Oakridge Drive|Czech Republic|CZ|gbunstone8x@zimbio.com|1% FIXED|0.01|311216.99|-9409.33|320626.32|N||
+4744858368|Gabbie|Brownett|1944-05-25|Female|6 Continental Terrace|China|CN|gbrownett8y@wiley.com|VARIABLE|0.7678047600556969|-781123.72|-2186.91|-778936.81|N||
+4616798974|Annabelle|Piccop|1931-12-08|Female|086 Almo Junction|Venezuela|VE|apiccop8z@patch.com|1% FIXED|0.01|-964087.97|-8258.17|-955829.8|Y|2241246.0|1993
+6123903446|Claudina|Tradewell|1984-12-28|Female|63495 Mandrake Avenue|China|CN|ctradewell90@smugmug.com|1% FIXED|0.01|-74180.61|-3095.56|-71085.05|Y|6177737.0|1930
+9182439826|Godard|Bullerwell|1960-10-05|Male|1 Arizona Drive|Belarus|BY|gbullerwell91@studiopress.com|0% FIXED|0.0|982445.79|-5432.77|987878.56|Y|484312.0|1995
+2805673980|Conney|Wank|1961-10-22|Male|611 Maywood Park|Russia|RU|cwank92@elegantthemes.com|0% FIXED|0.0|595813.7|6108.98|589704.72|N||
+1848098049|Gonzalo|Taphouse|1988-01-25|Male|1158 Katie Circle|China|CN|gtaphouse93@xrea.com|1% FIXED|0.01|-809871.6|-4556.83|-805314.77|Y|2006229.0|2015
+5716312845|Mercie|Moir|1979-01-25|Female|51729 Service Trail|China|CN|mmoir94@friendfeed.com|VARIABLE|0.8255942121406071|-124379.19|8301.69|-132680.88|Y|233678.0|1933
+8628565353|Mada|Penwarden|1998-02-07|Female|07 Messerschmidt Parkway|United States|US|mpenwarden95@a8.net|0% FIXED|0.0|472794.7|-7845.6|480640.3|Y|2266547.0|1928
+8354837033|Jerry|Cobden|1994-06-09|Male|48 Warrior Trail|Jordan|JO|jcobden96@elegantthemes.com|0% FIXED|0.0|216872.06|-9581.97|226454.03|Y|4449372.0|1976
+6720542524|Humphrey|Grogan|1939-09-04|Male|4439 Harbort Crossing|China|CN|hgrogan97@de.vu|1% FIXED|0.01|216823.55|-6871.65|223695.2|Y|1509269.0|1961
+4879480096|Venita|Pinckard|1999-12-03|Female|65 Porter Plaza|Indonesia|ID|vpinckard98@pagesperso-orange.fr|0% FIXED|0.0|207977.33|-4386.09|212363.42|Y|2190758.0|1991
+8259110458|Evonne|Helleckas|1947-07-15|Female|9 Muir Plaza|Poland|PL|ehelleckas99@zimbio.com|VARIABLE|0.5177295252880113|-390156.93|2856.63|-393013.56|Y|2411781.0|2007
+6173315874|Damon|Teasell|1997-06-13|Male|6 Kennedy Circle|Germany|DE|dteasell9a@examiner.com|0% FIXED|0.0|942843.25|597.81|942245.44|Y|3920463.0|1948
+5684397263|Odille|Donett|1994-09-14|Female|4 Stuart Avenue|Ecuador|EC|odonett9b@taobao.com|10% FIXED|0.1|317479.84|-7616.6|325096.44|N||
+1951531094|Trix|Allam|1976-10-25|Female|733 Blue Bill Park Park|Indonesia|ID|tallam9c@gravatar.com|0% FIXED|0.0|610906.38|-2002.63|612909.01|N||
+8433109375|Zebedee|McUre|1986-11-11|Male|1401 Caliangt Road|Poland|PL|zmcure9d@bandcamp.com|0% FIXED|0.0|-614737.87|2389.87|-617127.74|N||
+1691779571|Cecilia|Franceschi|1966-02-13|Female|95 Toban Alley|Egypt|EG|cfranceschi9e@scientificamerican.com|0% FIXED|0.0|-189005.0|2204.16|-191209.16|N||
+6627946602|Manolo|Quilliam|1974-12-02|Male|9 Granby Road|Indonesia|ID|mquilliam9f@shinystat.com|VARIABLE|0.7316739088891887|191804.72|-8574.32|200379.04|Y|3611161.0|1904
+1493619128|Knox|Domokos|2011-04-16|Male|6 Elmside Lane|Japan|JP|kdomokos9g@jugem.jp|0% FIXED|0.0|-479815.4|-7684.23|-472131.17|Y|638914.0|1950
+0483571504|Adriaens|Hawkes|1946-01-20|Female|5234 Claremont Way|Philippines|PH|ahawkes9h@dmoz.org|0% FIXED|0.0|752838.25|-4530.38|757368.63|Y|6472827.0|1925
+5559361143|Angel|Scotchbrook|2008-07-24|Male|96205 Loomis Parkway|Cuba|CU|ascotchbrook9i@cisco.com|10% FIXED|0.1|584820.0|1442.35|583377.65|N||
+7044102441|Anatollo|MacCumiskey|2003-03-18|Male|46 Northwestern Point|Ukraine|UA|amaccumiskey9j@multiply.com|10% FIXED|0.1|-540794.23|5313.31|-546107.54|N||
+4205273487|Ermin|Racher|1974-03-24|Male|66207 Moland Drive|Greece|GR|eracher9k@usa.gov|VARIABLE|0.8788923008201389|888997.18|1479.28|887517.9|Y|5314706.0|1986
+2686671319|Shauna|MacParlan|2007-01-01|Female|0045 Shopko Junction|Poland|PL|smacparlan9l@sourceforge.net|10% FIXED|0.1|189922.68|757.99|189164.69|Y|297575.0|1971
+5713389863|Herculie|Bortoloni|1955-11-01|Male|6597 Miller Junction|Russia|RU|hbortoloni9m@whitehouse.gov|1% FIXED|0.01|-397516.05|5229.82|-402745.87|N||
+5796478737|Orin|Normansell|1947-09-23|Male|6 Comanche Center|Brazil|BR|onormansell9n@guardian.co.uk|VARIABLE|0.6864162181560562|-790837.95|-4366.39|-786471.56|N||
+2728218889|Bride|Pakeman|1949-06-12|Female|6 Orin Point|Ecuador|EC|bpakeman9o@nationalgeographic.com|10% FIXED|0.1|-907652.04|-9160.68|-898491.36|N||
+7725018301|Griff|Costley|1967-08-02|Male|9 Dexter Trail|China|CN|gcostley9p@t-online.de|0% FIXED|0.0|808312.91|1198.11|807114.8|N||
+1025122968|Kile|Napper|1951-11-18|Male|219 Truax Drive|Greece|GR|knapper9q@constantcontact.com|10% FIXED|0.1|365660.76|-7356.59|373017.35|N||
+7488310233|Padraic|Wilkes|1960-03-30|Male|4169 Gulseth Hill|Tanzania|TZ|pwilkes9r@youku.com|1% FIXED|0.01|-839846.79|7669.29|-847516.08|N||
+9282029182|Jordan|Atwell|1980-05-27|Female|3 Buena Vista Junction|Ukraine|UA|jatwell9s@foxnews.com|0% FIXED|0.0|806342.94|263.4|806079.54|Y|668677.0|2001
+0555202593|Emilee|Grieswood|1933-12-19|Female|4 Prentice Place|China|CN|egrieswood9t@last.fm|10% FIXED|0.1|-474613.81|-6070.94|-468542.87|N||
+4822002373|Raul|Gwalter|2003-08-30|Male|35044 Doe Crossing Point|Panama|PA|rgwalter9u@tuttocitta.it|0% FIXED|0.0|-791398.71|-3902.95|-787495.76|N||
+5455897349|Olag|Bompass|1995-07-05|Male|6 Macpherson Plaza|Mexico|MX|obompass9v@miitbeian.gov.cn|0% FIXED|0.0|658180.13|-2382.33|660562.46|N||
+2187552845|Kenon|Curro|1949-04-04|Male|2 Rockefeller Court|Portugal|PT|kcurro9w@hibu.com|10% FIXED|0.1|-492662.32|-1024.34|-491637.98|N||
+1677518693|Maisey|Jellyman|1938-12-04|Female|38692 Cambridge Trail|Russia|RU|mjellyman9x@parallels.com|0% FIXED|0.0|-994414.02|-1380.58|-993033.44|N||
+0154243906|Mandel|Grishechkin|1955-06-03|Male|74157 Meadow Vale Place|Turkmenistan|TM|mgrishechkin9y@tumblr.com|VARIABLE|0.646726087872622|981080.81|-9367.6|990448.41|Y|3848442.0|1918
+1836084706|Wolfgang|Coghill|1963-07-31|Male|5 Saint Paul Road|United States|US|wcoghill9z@drupal.org|0% FIXED|0.0|628755.64|8307.22|620448.42|Y|2261349.0|1980
+1098211642|Lilian|Smalles|1949-12-12|Female|981 Garrison Pass|Mali|ML|lsmallesa0@unc.edu|10% FIXED|0.1|235219.59|8853.85|226365.74|Y|6742623.0|1962
+5284208250|Pepe|Cominotti|2006-01-30|Male|6 Spaight Pass|Philippines|PH|pcominottia1@exblog.jp|10% FIXED|0.1|69499.78|-8402.23|77902.01|Y|684698.0|1994
+5140755548|Redd|Mingardi|1959-02-08|Male|5 Alpine Parkway|Indonesia|ID|rmingardia2@myspace.com|1% FIXED|0.01|-700028.14|-6911.44|-693116.7|Y|321106.0|1927
+9706262369|Gilles|Klemencic|1992-09-05|Male|9 North Plaza|Iran|IR|gklemencica3@prlog.org|10% FIXED|0.1|867978.0|6093.5|861884.5|Y|2142237.0|1994
+4220810277|Sydney|Poluzzi|1997-03-04|Female|7484 Mifflin Plaza|China|CN|spoluzzia4@freewebs.com|VARIABLE|0.3257904710466675|-276160.56|-2734.21|-273426.35|Y|996426.0|1901
+0518195872|Larine|Coltherd|1997-09-26|Female|578 Spohn Road|China|CN|lcoltherda5@pcworld.com|10% FIXED|0.1|-739974.0|-6596.92|-733377.08|N||
+5869768756|Shoshana|Feare|1979-04-30|Female|94433 Thackeray Alley|China|CN|sfearea6@google.ca|1% FIXED|0.01|549907.48|4036.96|545870.52|Y|1761770.0|1969
+1997399598|Gun|Munt|2010-08-07|Male|06 Nevada Avenue|Belarus|BY|gmunta7@forbes.com|1% FIXED|0.01|-280958.97|-6087.26|-274871.71|N||
+6351941660|Rowland|Upham|1976-04-18|Male|37 Pleasure Court|China|CN|ruphama8@mapy.cz|10% FIXED|0.1|-432394.65|-1868.82|-430525.83|N||
+4701930725|Ronald|Lumpkin|1956-06-03|Male|729 Burning Wood Lane|Philippines|PH|rlumpkina9@istockphoto.com|1% FIXED|0.01|557187.56|7553.68|549633.88|N||
+6817799465|Tad|Frowen|1938-12-03|Male|7884 Loomis Terrace|China|CN|tfrowenaa@imageshack.us|10% FIXED|0.1|-374191.53|7343.84|-381535.37|N||
+9477966630|Nicol|Dietsche|1939-07-12|Female|124 Lakewood Gardens Circle|Portugal|PT|ndietscheab@wikipedia.org|VARIABLE|0.7713301482701064|743310.34|-9945.46|753255.8|N||
+0483595322|Sophia|Ivamy|2007-11-14|Female|07 Nova Circle|Philippines|PH|sivamyac@nationalgeographic.com|1% FIXED|0.01|399123.0|4051.18|395071.82|N||
+0542782618|Fleurette|Tithacott|2007-02-03|Female|60 Manufacturers Road|Indonesia|ID|ftithacottad@aol.com|VARIABLE|0.6004819779378996|923128.0|-4834.05|927962.05|N||
+1216422842|Immanuel|Boome|2016-02-13|Male|7 Harbort Trail|China|CN|iboomeae@multiply.com|1% FIXED|0.01|-451885.38|-3649.24|-448236.14|N||
+4081507023|Vally|Earwicker|1970-10-22|Female|946 Trailsway Circle|Brazil|BR|vearwickeraf@bbc.co.uk|0% FIXED|0.0|-532562.39|6763.05|-539325.44|Y|5403955.0|1983
+9193179197|Bird|Linfoot|1986-09-28|Female|8740 Spaight Alley|Indonesia|ID|blinfootag@blog.com|1% FIXED|0.01|-173721.52|933.54|-174655.06|N||
+5512915428|Vidovic|Oram|1966-08-26|Male|36 Pleasure Drive|China|CN|voramah@blog.com|0% FIXED|0.0|-655158.58|2179.61|-657338.19|N||
+6841654765|Aron|Patifield|1939-04-08|Male|19642 Prairieview Parkway|China|CN|apatifieldai@vinaora.com|VARIABLE|0.3796513745099555|420211.56|-9246.87|429458.43|Y|1349163.0|1910
+6210093124|Willy|Vain|1937-07-28|Female|519 Bluestem Avenue|China|CN|wvainaj@360.cn|1% FIXED|0.01|-328297.81|-7300.25|-320997.56|N||
+5391587115|Kent|Dalston|1996-12-13|Male|66327 Butterfield Road|China|CN|kdalstonak@de.vu|10% FIXED|0.1|264357.05|8676.51|255680.54|N||
+2434552102|Cicily|Overpool|1976-05-12|Female|520 Warrior Park|Indonesia|ID|coverpoolal@livejournal.com|VARIABLE|0.2880592249449112|-852403.51|8874.25|-861277.76|N||
+4323074034|Ardelia|Fearnside|2007-06-03|Female|809 Glendale Pass|China|CN|afearnsideam@yahoo.com|1% FIXED|0.01|-658366.61|8503.08|-666869.69|Y|6576322.0|1979
+3151449840|Octavius|Hanney|1977-12-24|Male|4 Morrow Parkway|Sweden|SE|ohanneyan@flickr.com|VARIABLE|0.2671815605444307|-776429.17|6508.98|-782938.15|N||
+1880693003|Fredelia|Estcot|1985-12-10|Female|51711 Meadow Vale Crossing|Brazil|BR|festcotao@geocities.com|1% FIXED|0.01|-451967.53|5564.47|-457532.0|Y|487950.0|1937
+8048907747|Casper|Boothroyd|1950-08-23|Male|32924 Lotheville Point|China|CN|cboothroydap@nydailynews.com|1% FIXED|0.01|19139.5|-8671.1|27810.6|Y|5791757.0|1947
+9131248969|Marcelline|Blague|1951-04-14|Female|93358 Eastlawn Court|Poland|PL|mblagueaq@hugedomains.com|0% FIXED|0.0|544618.0|-5948.27|550566.27|Y|2507563.0|1958
+8319182093|Marketa|Phillcock|1931-01-25|Female|799 Prentice Court|Syria|SY|mphillcockar@indiegogo.com|0% FIXED|0.0|-480208.43|-2251.68|-477956.75|Y|4626614.0|1970
+0876238657|Deeyn|Scouler|1960-12-21|Female|993 Shoshone Center|Russia|RU|dscouleras@friendfeed.com|VARIABLE|0.1044016146329836|-957109.0|372.6|-957481.6|N||
+3973967830|Doloritas|Parnby|1956-05-27|Female|479 Eastwood Court|Azerbaijan|AZ|dparnbyat@uol.com.br|10% FIXED|0.1|10049.9|6020.38|4029.52|Y|6457822.0|1935
+0612872351|Brita|Porcher|1992-07-16|Female|459 Anniversary Parkway|Colombia|CO|bporcherau@bbb.org|0% FIXED|0.0|-101829.81|8033.75|-109863.56|Y|4348781.0|1983
+5751629086|Ronnie|Colquit|1956-06-27|Male|41179 Northfield Terrace|Sweden|SE|rcolquitav@nytimes.com|0% FIXED|0.0|383954.59|-7406.57|391361.16|Y|62610.0|1970
+8266502404|Jordon|Dannell|1936-06-11|Male|8210 Morningstar Drive|Germany|DE|jdannellaw@etsy.com|VARIABLE|0.07583601830024453|-878300.84|-9095.51|-869205.33|Y|4608294.0|1913
+5618086387|Mil|Girdwood|1974-09-28|Female|15 Dawn Street|Sweden|SE|mgirdwoodax@about.com|10% FIXED|0.1|692674.44|-5843.64|698518.08|Y|2012694.0|1905
+3416091620|Persis|Ensor|1939-11-16|Female|87 Darwin Center|United States|US|pensoray@livejournal.com|1% FIXED|0.01|90934.62|8800.11|82134.51|Y|2625451.0|1962
+7674766241|Berget|Hindmoor|1948-02-23|Female|56 Schlimgen Pass|Philippines|PH|bhindmooraz@fotki.com|VARIABLE|0.8799081393779277|561159.76|-4068.79|565228.55|Y|5784847.0|1939
+1079995536|Daryl|Hedman|1979-03-08|Male|0297 Shasta Parkway|Poland|PL|dhedmanb0@google.com.br|10% FIXED|0.1|261704.3|-1956.16|263660.46|Y|2101517.0|2007
+1268304506|Bordy|Checketts|1999-10-10|Male|66829 Forest Run Junction|Philippines|PH|bcheckettsb1@alibaba.com|VARIABLE|0.8994084564492902|228212.42|9736.19|218476.23|N||
+3095753829|Carmen|Meachan|1973-01-16|Female|418 School Trail|Poland|PL|cmeachanb2@netvibes.com|1% FIXED|0.01|294315.53|8625.96|285689.57|N||
+4356349954|Dannie|Jarville|1935-08-20|Male|047 Burning Wood Avenue|Thailand|TH|djarvilleb3@cpanel.net|VARIABLE|0.213565168482384|-709150.91|8025.18|-717176.09|Y|4231355.0|1936
+5940247474|Mella|Tripe|1940-01-19|Female|7 Sommers Circle|Serbia|RS|mtripeb4@blinklist.com|0% FIXED|0.0|-465777.99|6150.71|-471928.7|N||
+6153250939|Miner|Cowderoy|1977-06-02|Male|2 Fairview Avenue|China|CN|mcowderoyb5@symantec.com|0% FIXED|0.0|451488.75|7991.3|443497.45|Y|2927705.0|1970
+9004014330|Wallas|Rolfini|1958-05-15|Male|82 Columbus Parkway|Indonesia|ID|wrolfinib6@rakuten.co.jp|10% FIXED|0.1|270582.0|1961.68|268620.32|N||
+2276373970|Henrietta|Deverell|1958-12-04|Female|00234 Bultman Road|Portugal|PT|hdeverellb7@artisteer.com|VARIABLE|0.9942015389910682|167475.07|-7401.73|174876.8|N||
+3440931293|Corenda|Chorlton|1952-05-21|Female|77144 Loftsgordon Point|Lithuania|LT|cchorltonb8@jiathis.com|0% FIXED|0.0|561218.55|-2381.22|563599.77|Y|4812076.0|2002
+6892500218|Gussy|Gillet|1952-02-19|Female|2390 Weeping Birch Way|Brazil|BR|ggilletb9@tiny.cc|0% FIXED|0.0|-645664.22|-447.4|-645216.82|N||
+8217225737|Darell|Gilbee|1981-07-29|Female|2 Mitchell Court|Spain|ES|dgilbeeba@topsy.com|VARIABLE|0.03350131359179656|738503.28|3900.43|734602.85|Y|92234.0|1947
+4475495881|Dion|Surgenor|1964-06-10|Male|9 Hudson Drive|Canada|CA|dsurgenorbb@skype.com|VARIABLE|0.7433506958408648|933224.0|-967.12|934191.12|N||
+4044576432|Maison|Upfold|1991-04-22|Male|93 Meadow Valley Park|Philippines|PH|mupfoldbc@yolasite.com|VARIABLE|0.7784862127230122|890803.58|9002.4|881801.18|N||
+4724451661|Sondra|Blyde|2008-11-29|Female|62 Carey Alley|Indonesia|ID|sblydebd@dot.gov|0% FIXED|0.0|-314794.15|-7837.02|-306957.13|Y|7642604.0|1968
+2412232563|Emory|Leither|1950-07-23|Male|34263 Evergreen Junction|Greece|GR|eleitherbe@wordpress.org|10% FIXED|0.1|-456214.46|3427.35|-459641.81|Y|4247585.0|2012
+1460941586|Dolf|Iacovacci|1960-08-12|Male|2876 Forest Dale Center|China|CN|diacovaccibf@google.es|VARIABLE|0.6322378869851972|294132.25|3067.06|291065.19|N||
+4919715897|Katina|Bartusek|2010-04-26|Female|045 Eliot Park|Pakistan|PK|kbartusekbg@gravatar.com|10% FIXED|0.1|970996.17|4247.38|966748.79|N||
+2764605072|Lydie|Pabelik|1991-11-30|Female|550 Texas Street|Angola|AO|lpabelikbh@cnn.com|0% FIXED|0.0|-36035.0|1742.26|-37777.26|N||
+3101855381|Ardyce|Tumioto|1974-10-15|Female|2629 Charing Cross Avenue|Thailand|TH|atumiotobi@va.gov|VARIABLE|0.6019555555632706|967539.59|7379.16|960160.43|Y|4384430.0|1984
+6776816549|Quintana|Carde|1936-01-08|Female|755 Banding Drive|Malaysia|MY|qcardebj@fema.gov|10% FIXED|0.1|-518995.01|9392.01|-528387.02|Y|1450904.0|1934
+3160544397|Bobbette|Pennacci|1933-01-02|Female|7983 Fordem Court|Tuvalu|TV|bpennaccibk@aol.com|1% FIXED|0.01|780100.07|-3619.04|783719.11|N||
+0942470591|Mona|Pilgrim|1966-10-05|Female|4293 Thackeray Terrace|Indonesia|ID|mpilgrimbl@oracle.com|0% FIXED|0.0|214300.49|-4810.95|219111.44|N||
+8777997557|Amitie|Walcher|1946-10-04|Female|39175 Coolidge Crossing|Poland|PL|awalcherbm@army.mil|VARIABLE|0.1540516165789698|763333.21|-5708.9|769042.11|Y|2471057.0|2015
+1572750189|Ranee|Prue|1946-11-08|Female|6 Armistice Hill|Afghanistan|AF|rpruebn@sakura.ne.jp|1% FIXED|0.01|475901.0|-1053.37|476954.37|N||
+2843611334|Rodd|Bolton|1960-08-20|Male|3 Melrose Way|Afghanistan|AF|rboltonbo@usnews.com|10% FIXED|0.1|-499291.85|-628.42|-498663.43|N||
+0852690436|Rayner|Fessby|1955-03-25|Male|742 Grover Parkway|Mexico|MX|rfessbybp@cnbc.com|10% FIXED|0.1|-241701.66|-8413.67|-233287.99|N||
+5736670542|Cornall|Aurelius|1950-09-15|Male|3 8th Circle|France|FR|caureliusbq@bloglines.com|VARIABLE|0.6389483580795615|-216209.42|-9125.05|-207084.37|N||
+3572208432|Manfred|Easthope|1970-04-26|Male|55 Spaight Hill|Philippines|PH|measthopebr@hp.com|0% FIXED|0.0|492111.0|-4262.4|496373.4|Y|4653402.0|1984
+0025587307|Dov|Dawidowsky|1945-11-28|Male|83 Cardinal Junction|China|CN|ddawidowskybs@cargocollective.com|10% FIXED|0.1|403747.66|1110.14|402637.52|Y|2835587.0|2018
+5503706404|Torry|Schankel|1933-09-03|Male|2739 Harper Parkway|Indonesia|ID|tschankelbt@china.com.cn|VARIABLE|0.8186303460678876|-193355.5|-1501.63|-191853.87|Y|3349016.0|1981
+0939455978|Royall|Farfolomeev|1931-07-19|Male|1907 Farmco Avenue|Czech Republic|CZ|rfarfolomeevbu@tuttocitta.it|1% FIXED|0.01|401664.24|-5138.06|406802.3|Y|1604277.0|1978
+9681632117|Davis|Tombling|1952-05-15|Male|4524 Cambridge Point|China|CN|dtomblingbv@oakley.com|0% FIXED|0.0|579654.0|6737.95|572916.05|Y|1423505.0|1964
+4196485677|Colby|Scouse|2013-03-26|Male|95900 Quincy Point|China|CN|cscousebw@si.edu|0% FIXED|0.0|594402.37|-8863.74|603266.11|N||
+0908382995|Angelle|Pilkington|1969-12-20|Female|85 Mandrake Point|China|CN|apilkingtonbx@usda.gov|10% FIXED|0.1|119577.8|-4998.88|124576.68|N||
+3939279390|Gualterio|Godsafe|1934-06-26|Male|62 Miller Parkway|China|CN|ggodsafeby@latimes.com|VARIABLE|0.04922411141268783|690605.06|6095.72|684509.34|N||
+3171022893|Huey|Treske|1933-03-02|Male|62473 8th Lane|Brazil|BR|htreskebz@lycos.com|0% FIXED|0.0|800879.58|2596.21|798283.37|N||
+3658678941|Marcela|Brindle|1974-12-27|Female|7334 Northview Center|China|CN|mbrindlec0@t-online.de|10% FIXED|0.1|843341.79|-940.9|844282.69|N||
+7035456090|Renato|Morman|1986-11-17|Male|4708 Barby Circle|Russia|RU|rmormanc1@xrea.com|1% FIXED|0.01|-660089.39|4441.59|-664530.98|Y|7531210.0|1939
+7979148851|Bastien|Driscoll|1949-07-05|Male|3 Sherman Center|Russia|RU|bdriscollc2@omniture.com|10% FIXED|0.1|679864.0|-3381.79|683245.79|Y|7340354.0|1998
+5518301537|Alexandro|Kybert|1982-09-14|Male|1 Oakridge Junction|Thailand|TH|akybertc3@google.ca|VARIABLE|0.3727791221173865|-583386.31|-2321.63|-581064.68|Y|1531577.0|1918
+8084800396|Jasmin|Pym|1942-03-06|Female|749 Ridge Oak Park|Russia|RU|jpymc4@multiply.com|10% FIXED|0.1|931073.04|-5445.59|936518.63|N||
+3981176359|Callie|Lagne|1985-06-02|Female|302 Old Gate Road|Indonesia|ID|clagnec5@wp.com|1% FIXED|0.01|-664146.32|9578.79|-673725.11|Y|6073212.0|1920
+0091288290|Rossy|Snawdon|1979-12-24|Male|8881 Waxwing Street|Indonesia|ID|rsnawdonc6@taobao.com|1% FIXED|0.01|-259377.25|9615.83|-268993.08|Y|2495347.0|1962
+0826078648|Kellie|Gieraths|1945-05-04|Female|1386 Elmside Point|Thailand|TH|kgierathsc7@youku.com|1% FIXED|0.01|-737145.42|-1515.96|-735629.46|N||
+9787743478|Cally|Box|2003-02-19|Female|2 Autumn Leaf Point|Brazil|BR|cboxc8@sina.com.cn|0% FIXED|0.0|193520.62|580.95|192939.67|N||
+6711410823|Husain|Kneafsey|1975-12-30|Male|08809 Kenwood Street|Tanzania|TZ|hkneafseyc9@hao123.com|VARIABLE|0.8081402597603654|876701.59|4863.93|871837.66|N||
+6483434340|Godfree|Rowan|1998-10-28|Male|59 Autumn Leaf Point|Indonesia|ID|growanca@youtu.be|VARIABLE|0.1065524782338466|-915455.21|-2353.31|-913101.9|N||
+3890114326|Kerrie|Dudson|1977-05-11|Female|70 Muir Point|Dominican Republic|DO|kdudsoncb@google.co.uk|1% FIXED|0.01|209741.19|-1857.43|211598.62|Y|3801854.0|1991
+4641182663|Ray|Ivannikov|2000-12-09|Male|933 Moose Place|China|CN|rivannikovcc@thetimes.co.uk|VARIABLE|0.1788246440700497|323626.45|5354.49|318271.96|N||
+7755563227|Charil|Jenne|1990-10-06|Female|90710 Thierer Terrace|China|CN|cjennecd@webeden.co.uk|1% FIXED|0.01|-508628.05|-8398.06|-500229.99|Y|2682894.0|1945
+9184076992|Conn|Gartenfeld|1968-12-22|Male|487 Emmet Place|Philippines|PH|cgartenfeldce@abc.net.au|0% FIXED|0.0|-781105.0|5183.75|-786288.75|N||
+2490905260|Haywood|Laxson|1934-10-09|Male|11 Summit Drive|Portugal|PT|hlaxsoncf@mozilla.com|1% FIXED|0.01|-997391.01|-5575.12|-991815.89|N||
+2577016050|Annamaria|Drioli|1969-06-17|Female|81 Pawling Park|China|CN|adriolicg@cbc.ca|VARIABLE|0.668368332148715|836864.14|-2113.0|838977.14|Y|526419.0|1932
+8940250796|Gun|Duhig|1974-01-06|Male|6 Armistice Plaza|Finland|FI|gduhigch@clickbank.net|10% FIXED|0.1|124670.24|-80.65|124750.89|Y|2086394.0|2005
+6065358673|Brandais|Pimblett|2011-11-02|Female|47 Redwing Alley|France|FR|bpimblettci@china.com.cn|VARIABLE|0.0517633418889732|739399.48|1573.81|737825.67|N||
+3392413038|Geralda|Kilmurry|1943-07-23|Female|5 Rusk Crossing|Mexico|MX|gkilmurrycj@ow.ly|1% FIXED|0.01|-833186.27|-2288.97|-830897.3|Y|7054774.0|1975
+4585862307|Ingram|Camier|2002-05-14|Male|23 Swallow Park|Indonesia|ID|icamierck@psu.edu|1% FIXED|0.01|-429059.59|-5480.97|-423578.62|N||
+6468906083|Shannon|Edlyne|1967-10-09|Female|1674 Hanover Hill|Poland|PL|sedlynecl@shop-pro.jp|1% FIXED|0.01|-183202.69|-8128.7|-175073.99|Y|1375304.0|1925
+1276942346|Kittie|Erett|2009-03-06|Female|080 East Crossing|Netherlands|NL|kerettcm@biglobe.ne.jp|VARIABLE|0.3457316427325044|-143856.49|-4202.94|-139653.55|Y|7314104.0|1903
+9078290757|Maximo|MacAscaidh|1992-05-29|Male|03660 Becker Point|Russia|RU|mmacascaidhcn@youku.com|0% FIXED|0.0|-413946.8|1252.39|-415199.19|N||
+9454598740|Perl|Cullin|2012-01-09|Female|7932 Kennedy Avenue|Netherlands|NL|pcullinco@odnoklassniki.ru|1% FIXED|0.01|-709586.9|-180.12|-709406.78|N||
+4661499190|Selina|Fludgate|1991-01-01|Female|59 Mesta Trail|Netherlands|NL|sfludgatecp@arstechnica.com|10% FIXED|0.1|-618469.69|-3606.97|-614862.72|N||
+9805699110|Millard|Stedell|1972-01-31|Male|670 Walton Street|Nicaragua|NI|mstedellcq@vinaora.com|0% FIXED|0.0|337806.4|3779.55|334026.85|Y|1197457.0|1960
+2664979779|Tamas|Nordass|1954-12-24|Male|545 Menomonie Trail|Brazil|BR|tnordasscr@bigcartel.com|1% FIXED|0.01|973066.06|-1036.93|974102.99|Y|3537235.0|1903
+0868634700|Christophorus|Beardsley|1993-08-28|Male|208 Oak Valley Center|Canada|CA|cbeardsleycs@ning.com|0% FIXED|0.0|909420.98|-1792.95|911213.93|N||
+0588701823|Sigismondo|Boneham|1953-11-14|Male|7732 Helena Avenue|Japan|JP|sbonehamct@edublogs.org|0% FIXED|0.0|-493969.98|-2904.82|-491065.16|Y|2820478.0|2014
+0861615883|Washington|Iddon|1951-01-29|Male|66 Del Mar Pass|Brazil|BR|widdoncu@theglobeandmail.com|1% FIXED|0.01|-75909.53|-1671.61|-74237.92|N||
+1619582678|Stace|Camillo|2011-03-07|Female|154 Dennis Plaza|Hungary|HU|scamillocv@creativecommons.org|1% FIXED|0.01|999600.83|-2831.85|1002432.68|N||
+1830294822|Iorgos|Obell|1988-03-29|Male|8 Spenser Center|Mauritius|MU|iobellcw@ameblo.jp|1% FIXED|0.01|-512046.4|-224.0|-511822.4|N||
+1003377300|Weber|Leith-Harvey|1962-09-07|Male|9831 Hoffman Center|Peru|PE|wleithharveycx@nhs.uk|1% FIXED|0.01|219027.0|-3141.92|222168.92|Y|633573.0|2008
+4543082117|Timmie|Michelmore|1968-01-15|Male|5506 Roxbury Center|Iran|IR|tmichelmorecy@newsvine.com|1% FIXED|0.01|619266.35|1616.1|617650.25|N||
+5915694950|Curr|Leaman|2001-04-27|Male|18 Tennyson Terrace|Czech Republic|CZ|cleamancz@wunderground.com|1% FIXED|0.01|-625838.48|-9609.67|-616228.81|Y|2753825.0|1966
+2767785853|Gray|Donaghy|1946-06-16|Male|89563 Artisan Plaza|Russia|RU|gdonaghyd0@jimdo.com|VARIABLE|0.4926837641239351|213356.33|-4106.44|217462.77|Y|1494241.0|1937
+3047861471|Cord|Skates|1969-03-08|Male|379 Russell Lane|Bolivia|BO|cskatesd1@spotify.com|VARIABLE|0.9681977348351146|225323.6|1735.48|223588.12|Y|3868741.0|1904
+4147479138|Granville|Harrinson|1934-11-24|Male|65644 Golden Leaf Hill|Japan|JP|gharrinsond2@adobe.com|VARIABLE|0.5410531764508363|512109.67|2331.68|509777.99|Y|6241661.0|2018
+2920026054|Wyn|Maseres|1985-11-30|Male|540 Sundown Street|Colombia|CO|wmaseresd3@bloomberg.com|10% FIXED|0.1|-259774.38|9065.47|-268839.85|N||
+6311836181|Guinna|Belsher|2003-04-21|Female|2470 Oriole Street|Afghanistan|AF|gbelsherd4@seattletimes.com|10% FIXED|0.1|-835721.62|-3290.38|-832431.24|N||
+8823903696|Brena|Eskrigge|1940-12-13|Female|2808 Knutson Hill|China|CN|beskrigged5@jalbum.net|VARIABLE|0.9306237582342031|761303.32|1649.48|759653.84|N||
+1698370237|Chevy|Horning|1998-10-24|Male|6 Hauk Crossing|Sweden|SE|chorningd6@flavors.me|VARIABLE|0.986060946590575|374526.43|4899.49|369626.94|N||
+2815033585|Elnore|Cheetham|1969-09-16|Female|9 Grover Junction|Poland|PL|echeethamd7@webeden.co.uk|0% FIXED|0.0|-477442.98|-9187.79|-468255.19|Y|1914551.0|2008
+7080895979|Christine|Kayley|1935-02-24|Female|441 Sycamore Place|China|CN|ckayleyd8@purevolume.com|10% FIXED|0.1|730456.05|-7682.54|738138.59|Y|1643035.0|2007
+4632133736|Godfry|Degg|1991-09-17|Male|20599 Rutledge Hill|China|CN|gdeggd9@google.com|0% FIXED|0.0|-170993.0|5910.66|-176903.66|Y|3070031.0|1915
+5429197343|Lacey|Cornelisse|1981-10-27|Female|5851 Summer Ridge Center|Denmark|DK|lcornelisseda@creativecommons.org|1% FIXED|0.01|-453283.69|4990.42|-458274.11|Y|6099822.0|1921
+6632553672|Christophe|Jantot|1996-09-20|Male|60508 Ruskin Street|Mexico|MX|cjantotdb@google.co.uk|10% FIXED|0.1|795291.44|-9643.24|804934.68|N||
+1890711284|Livvie|Mapother|1932-06-28|Female|34 Lillian Court|Russia|RU|lmapotherdc@scribd.com|0% FIXED|0.0|-881919.19|7149.62|-889068.81|Y|6291457.0|1945
+5831986063|Balduin|Haughey|1970-11-12|Male|9 Fallview Pass|North Korea|KP|bhaugheydd@studiopress.com|VARIABLE|0.07928573285505894|-975939.92|-9085.49|-966854.43|N||
+9705847681|Margarette|Baudoux|1960-11-21|Female|8528 Rowland Lane|Indonesia|ID|mbaudouxde@nbcnews.com|0% FIXED|0.0|-582796.23|-4844.33|-577951.9|N||
+5404212314|Iolanthe|Majury|2004-06-16|Female|6240 Clyde Gallagher Drive|Vietnam|VN|imajurydf@4shared.com|0% FIXED|0.0|879672.53|-760.76|880433.29|N||
+1639826874|Rockie|Bigglestone|1952-03-23|Male|1 Meadow Ridge Court|China|CN|rbigglestonedg@craigslist.org|10% FIXED|0.1|-2778.71|-4875.72|2097.01|Y|4222541.0|1991
+1769788506|Gary|Poppleston|1932-01-28|Male|6384 Lunder Point|Egypt|EG|gpopplestondh@cisco.com|VARIABLE|0.9878829942033102|1129.19|5187.81|-4058.62|N||
+6023817939|Blinni|Grishenkov|1974-12-18|Female|4750 Pleasure Hill|China|CN|bgrishenkovdi@independent.co.uk|10% FIXED|0.1|-733960.72|1021.54|-734982.26|Y|7543934.0|1904
+2233034430|Stanwood|Loughan|1993-09-04|Male|25 Blaine Parkway|Brazil|BR|sloughandj@smugmug.com|1% FIXED|0.01|-890075.52|-2678.22|-887397.3|Y|7968579.0|1979
+2072081483|Bride|Kittman|1941-04-09|Female|181 Marquette Crossing|Comoros|KM|bkittmandk@ow.ly|10% FIXED|0.1|620596.98|-1856.79|622453.77|N||
+1925117456|Marleen|Letixier|1974-01-14|Female|5089 Chive Point|Brazil|BR|mletixierdl@deviantart.com|10% FIXED|0.1|-314830.17|-1561.02|-313269.15|Y|693731.0|1962
+1858992265|Annelise|Poxton|1956-06-28|Female|3919 Bluestem Plaza|Portugal|PT|apoxtondm@google.it|VARIABLE|0.573595556234016|720136.64|-8711.81|728848.45|N||
+8321257305|Drucill|Napier|1968-01-23|Female|0 Fallview Crossing|Finland|FI|dnapierdn@fema.gov|VARIABLE|0.6934307565545762|-248854.58|-9107.55|-239747.03|N||
+4828130608|Sharlene|Mazin|1969-02-26|Female|8 Stoughton Court|China|CN|smazindo@de.vu|10% FIXED|0.1|-198509.58|-7564.04|-190945.54|Y|3891966.0|1967
+6454380033|Guthry|Kach|1939-03-14|Male|0 Calypso Way|United States|US|gkachdp@msu.edu|VARIABLE|0.1603718321897267|45273.63|5483.9|39789.73|Y|2489490.0|2013
+7492700962|Rodolphe|Herculeson|1937-08-22|Male|5588 Dwight Drive|Poland|PL|rherculesondq@foxnews.com|VARIABLE|0.7312522764461741|584430.67|-6234.46|590665.13|N||
+8216079699|Brigitta|Gammill|2004-07-21|Female|30784 Pawling Park|Greece|GR|bgammilldr@loc.gov|VARIABLE|0.5746014856869134|811927.51|363.26|811564.25|Y|1619285.0|1980
+2796427056|Cy|Swayland|1948-09-24|Male|20714 Menomonie Street|Sweden|SE|cswaylandds@goo.ne.jp|0% FIXED|0.0|-69237.0|-3661.77|-65575.23|N||
+3406048765|Beau|Bryns|1974-01-07|Male|0 Fisk Park|Finland|FI|bbrynsdt@flavors.me|0% FIXED|0.0|472254.2|-1067.15|473321.35|N||
+7655676895|Neille|Pannett|1985-09-14|Female|71310 Golf Alley|China|CN|npannettdu@pinterest.com|0% FIXED|0.0|878146.06|8297.7|869848.36|N||
+6092831821|Britta|Slack|1978-11-12|Female|5255 Hoffman Alley|Portugal|PT|bslackdv@friendfeed.com|VARIABLE|0.1718045026489547|982068.9|-6071.01|988139.91|N||
+7277045653|Sylvia|Gaymar|1961-11-21|Female|45011 Hooker Park|Brazil|BR|sgaymardw@nasa.gov|1% FIXED|0.01|-893487.62|-102.56|-893385.06|Y|6095833.0|1903
+6914760705|Thibaut|Formoy|1986-08-20|Male|841 Dayton Parkway|Russia|RU|tformoydx@ifeng.com|1% FIXED|0.01|331097.81|5040.34|326057.47|Y|2860776.0|2011
+1089608543|Harlin|Jacobi|1931-10-08|Male|18473 Susan Lane|Indonesia|ID|hjacobidy@bandcamp.com|1% FIXED|0.01|-524113.71|1308.6|-525422.31|N||
+2512393216|Flore|Brissard|1964-09-22|Female|0 East Place|Philippines|PH|fbrissarddz@tinypic.com|VARIABLE|0.176759604546688|363579.6|-2148.23|365727.83|N||
+7807069031|Jarib|Ingman|1986-03-18|Male|7 Fairview Point|Armenia|AM|jingmane0@ovh.net|1% FIXED|0.01|154050.46|83.38|153967.08|Y|7796986.0|1961
+8193175913|Gaspar|Walcar|1933-04-22|Male|60927 Becker Junction|Sweden|SE|gwalcare1@free.fr|10% FIXED|0.1|778070.0|2506.64|775563.36|Y|1166346.0|1951
+9870815634|Margery|Sterzaker|1934-06-01|Female|5 Orin Park|Portugal|PT|msterzakere2@berkeley.edu|10% FIXED|0.1|166161.65|6728.01|159433.64|N||
+2853106624|Shel|Matuska|2018-10-07|Female|0708 La Follette Road|China|CN|smatuskae3@walmart.com|10% FIXED|0.1|279226.8|3801.46|275425.34|Y|4159983.0|2005
+0916407381|Gates|Eeles|1998-05-26|Female|7530 Mifflin Terrace|Albania|AL|geelese4@google.de|10% FIXED|0.1|718283.95|-3951.76|722235.71|Y|4121024.0|1928
+3577890711|Donny|Currer|1933-06-26|Female|567 Atwood Place|China|CN|dcurrere5@bravesites.com|1% FIXED|0.01|665078.7|7975.65|657103.05|Y|6045024.0|1911
+9581100407|Andeee|Philippe|1975-01-07|Female|41570 Walton Place|China|CN|aphilippee6@springer.com|VARIABLE|0.8932282908662411|-388836.06|-1837.6|-386998.46|N||
+5498356374|Mariana|Hanlin|1987-05-03|Female|7 Dexter Road|Thailand|TH|mhanline7@eventbrite.com|0% FIXED|0.0|350661.48|2752.49|347908.99|N||
+9804202271|Halley|M'Chirrie|1933-03-03|Female|53477 Ridgeview Plaza|Cyprus|CY|hmchirriee8@1688.com|VARIABLE|0.2637966497140523|833633.71|-7567.88|841201.59|N||
+9989401861|Tab|Johannesson|1975-03-13|Male|8 Bayside Pass|China|CN|tjohannessone9@google.ru|1% FIXED|0.01|283476.11|7933.19|275542.92|N||
+9170664609|Edith|Hockey|1980-12-31|Female|73959 Butternut Lane|South Africa|ZA|ehockeyea@eepurl.com|0% FIXED|0.0|-57820.62|-3023.57|-54797.05|Y|7282463.0|1917
+5503931092|Bertie|Bagshawe|1968-12-01|Male|7 Hudson Plaza|Indonesia|ID|bbagshaweeb@networksolutions.com|VARIABLE|0.1154863384164086|-401990.77|9423.33|-411414.1|Y|3476685.0|2001
+4091607713|Laurent|Du Pre|1976-08-24|Male|96 Westend Road|China|CN|ldupreec@soundcloud.com|10% FIXED|0.1|186841.1|-7179.38|194020.48|N||
+6425146818|Aluin|McCarle|1968-01-23|Male|0 Ridge Oak Drive|Indonesia|ID|amccarleed@illinois.edu|1% FIXED|0.01|582089.36|-5585.46|587674.82|Y|7757797.0|1906
+4793703291|Jehu|Mountstephen|1987-04-03|Male|6966 Westridge Way|Argentina|AR|jmountstephenee@biglobe.ne.jp|1% FIXED|0.01|236380.71|9032.33|227348.38|N||
+1646408969|Justis|Iczokvitz|1961-09-12|Male|8100 Vera Crossing|China|CN|jiczokvitzef@canalblog.com|10% FIXED|0.1|-241582.0|9531.07|-251113.07|Y|7855941.0|2001
+2902183518|Madonna|Tureville|1940-09-13|Female|2231 Dahle Circle|Cuba|CU|mturevilleeg@cyberchimps.com|VARIABLE|0.00720231467279361|387831.59|6344.18|381487.41|Y|5545685.0|1938
+0187632189|Min|Garn|1947-04-28|Female|3 Colorado Road|Kenya|KE|mgarneh@webmd.com|0% FIXED|0.0|526753.03|5268.24|521484.79|N||
+8001566242|Alix|Villalta|1957-07-10|Female|97253 Reinke Avenue|Ukraine|UA|avillaltaei@wufoo.com|0% FIXED|0.0|-52794.43|-6897.04|-45897.39|Y|2333739.0|1955
+1909832871|Mariam|Penke|1999-06-16|Female|28776 Independence Terrace|Japan|JP|mpenkeej@paypal.com|VARIABLE|0.3181856576310862|988433.48|-9840.19|998273.67|Y|6485076.0|1954
+5516529611|Fin|Cadman|1968-03-23|Male|77211 Merry Terrace|Thailand|TH|fcadmanek@zdnet.com|0% FIXED|0.0|994440.0|-444.12|994884.12|N||
+1334025290|Filbert|Reedy|1971-08-10|Male|73651 Southridge Drive|Albania|AL|freedyel@w3.org|1% FIXED|0.01|-62252.0|-4932.14|-57319.86|N||
+0331589966|Bobbi|Lesaunier|1975-09-27|Female|94 Aberg Junction|Serbia|RS|blesaunierem@themeforest.net|VARIABLE|0.247674929065277|-998265.39|5922.31|-1004187.7|Y|3090760.0|1908
+4380325067|Wiley|Pacht|1998-06-06|Male|0352 Mayer Place|Greece|GR|wpachten@simplemachines.org|10% FIXED|0.1|817465.18|9899.34|807565.84|N||
+7898740459|Hussein|de Keyser|1967-06-25|Male|3864 Linden Hill|Thailand|TH|hdekeysereo@ed.gov|0% FIXED|0.0|-491811.82|3029.96|-494841.78|N||
+4878714905|Eleni|Januszkiewicz|1951-04-29|Female|47 Barnett Terrace|Portugal|PT|ejanuszkiewiczep@discuz.net|10% FIXED|0.1|-306132.77|7010.09|-313142.86|N||
+8688288240|Lorinda|Pfleger|1990-04-14|Female|47 Cherokee Court|Greece|GR|lpflegereq@epa.gov|VARIABLE|0.8726720614776662|-266086.98|-7977.73|-258109.25|N||
+4654713492|Whitney|Fibbit|1954-09-06|Male|464 Morningstar Terrace|Indonesia|ID|wfibbiter@samsung.com|0% FIXED|0.0|858233.23|-3617.25|861850.48|N||
+5289219099|Jeramie|Alvar|1936-08-25|Male|78 Novick Court|Indonesia|ID|jalvares@rambler.ru|10% FIXED|0.1|536393.0|6053.77|530339.23|N||
+5911483483|Corissa|Neachell|1988-08-20|Female|81702 Stang Lane|Czech Republic|CZ|cneachellet@wikipedia.org|10% FIXED|0.1|820961.56|763.65|820197.91|Y|1050003.0|1927
+0307650642|Ford|Forrest|1970-11-09|Male|02 Delladonna Way|Morocco|MA|fforresteu@shinystat.com|VARIABLE|0.8971608255570257|269055.0|7260.25|261794.75|Y|6511538.0|1928
+6213143769|Elisha|Jaulmes|1934-06-13|Male|862 Becker Plaza|Croatia|HR|ejaulmesev@comsenz.com|VARIABLE|0.6523284686000572|-348932.67|2498.39|-351431.06|Y|1271576.0|1995
+4427340288|Ursa|Gyde|1973-11-09|Female|29128 Talmadge Lane|Ethiopia|ET|ugydeew@uol.com.br|1% FIXED|0.01|-606015.45|6354.24|-612369.69|Y|7076314.0|1903
+8457432214|Timmie|Brealey|1958-03-31|Male|7 Clove Point|United States|US|tbrealeyex@dell.com|1% FIXED|0.01|-756935.93|7800.51|-764736.44|Y|487368.0|2009
+8442543643|Paolina|Forgie|2003-12-14|Female|019 Esch Drive|China|CN|pforgieey@studiopress.com|VARIABLE|0.1911292115481381|-332016.81|2349.59|-334366.4|N||
+1329176596|Margaux|Sexton|1982-04-20|Female|95086 Glacier Hill Center|France|FR|msextonez@mysql.com|VARIABLE|0.9895926613509317|-801776.4|-8111.92|-793664.48|N||
+2907359762|Billy|Surgeoner|1978-09-21|Male|362 Beilfuss Junction|Brazil|BR|bsurgeonerf0@admin.ch|0% FIXED|0.0|324637.0|-5759.2|330396.2|Y|4887423.0|1976
+7162228763|Lamar|Duligall|2018-08-22|Male|5187 Nancy Junction|Morocco|MA|lduligallf1@wordpress.com|1% FIXED|0.01|-398126.94|-268.68|-397858.26|N||
+5666893424|Glyn|Thaller|1956-11-24|Male|53 Bluejay Park|Bolivia|BO|gthallerf2@google.pl|0% FIXED|0.0|-59006.2|-9150.46|-49855.74|Y|2882495.0|2017
+8717874130|Verile|Pitblado|1975-12-30|Female|6790 Almo Avenue|Argentina|AR|vpitbladof3@drupal.org|10% FIXED|0.1|147465.6|3768.99|143696.61|Y|7462573.0|1913
+1619048965|Lucilia|Hirtzmann|2004-05-16|Female|60448 Sutteridge Avenue|China|CN|lhirtzmannf4@paypal.com|0% FIXED|0.0|-353322.92|-5207.65|-348115.27|Y|3724234.0|1906
+1104121662|Ringo|Jurgenson|1944-09-02|Male|83454 Ohio Circle|Yemen|YE|rjurgensonf5@gov.uk|0% FIXED|0.0|-264372.32|2732.89|-267105.21|Y|7525350.0|1901
+5580123949|Ted|Peatheyjohns|1955-08-01|Male|09 Ruskin Street|Morocco|MA|tpeatheyjohnsf6@about.com|1% FIXED|0.01|123041.66|-6241.05|129282.71|N||
+1119759838|Aretha|Farrah|1945-05-05|Female|6558 Center Trail|China|CN|afarrahf7@merriam-webster.com|0% FIXED|0.0|-896539.89|-7081.82|-889458.07|N||
+2610079508|Barton|Braney|1951-04-16|Male|453 Nova Point|Peru|PE|bbraneyf8@whitehouse.gov|0% FIXED|0.0|386485.67|-3804.19|390289.86|N||
+6176139635|Tamra|Habron|1981-09-19|Female|38148 Jay Center|Philippines|PH|thabronf9@spotify.com|VARIABLE|0.4774555138585253|-897661.73|-4083.03|-893578.7|N||
+4993392273|Ethelind|Cureton|2010-09-27|Female|2203 American Way|Russia|RU|ecuretonfa@cargocollective.com|0% FIXED|0.0|-86786.73|5353.08|-92139.81|N||
+6688598736|Lowrance|La Rosa|1939-04-14|Male|71599 Scoville Crossing|Austria|AT|llarosafb@w3.org|VARIABLE|0.5597364591165085|-976963.66|2119.78|-979083.44|Y|3399516.0|1920
+3727141123|Lorine|Shotton|1940-09-28|Female|2520 Saint Paul Alley|China|CN|lshottonfc@flickr.com|VARIABLE|0.8463496002772681|686037.55|2621.96|683415.59|N||
+1278198725|Anetta|Godar|1942-07-28|Female|7 Randy Terrace|Indonesia|ID|agodarfd@opera.com|10% FIXED|0.1|935598.48|-4789.89|940388.37|Y|294270.0|1916
+5912690679|Paxon|Yakunchikov|1983-07-07|Male|1903 Kenwood Point|Indonesia|ID|pyakunchikovfe@gov.uk|1% FIXED|0.01|-946150.95|-6587.72|-939563.23|Y|5351975.0|1966
+0718036875|Natalie|Evemy|1939-10-30|Female|704 Dryden Drive|Sweden|SE|nevemyff@virginia.edu|10% FIXED|0.1|869628.54|-3323.74|872952.28|N||
+5546838957|Perceval|Ganning|1950-02-05|Male|5 Rockefeller Hill|Thailand|TH|pganningfg@mozilla.com|10% FIXED|0.1|157718.26|-8555.92|166274.18|N||
+7509682916|Tabbatha|Beauchop|2002-08-01|Female|37952 Ridgeway Circle|Palestinian Territory|PS|tbeauchopfh@irs.gov|10% FIXED|0.1|-313995.08|-7477.01|-306518.07|N||
+5460050308|Guenna|Bleasdille|1999-01-14|Female|90 Crownhardt Point|Pakistan|PK|gbleasdillefi@census.gov|0% FIXED|0.0|-94368.26|581.96|-94950.22|N||
+8212079589|Lucine|Monson|1968-12-14|Female|97525 Mifflin Circle|Mexico|MX|lmonsonfj@whitehouse.gov|1% FIXED|0.01|-923852.57|9303.0|-933155.57|N||
+6753312099|Jacob|Fawkes|2017-05-03|Male|10 Independence Alley|Honduras|HN|jfawkesfk@last.fm|VARIABLE|0.7579289597104121|852407.38|-7265.29|859672.67|Y|1605398.0|2003
+3544870444|Estella|Mc Caughen|1987-10-30|Female|6 Charing Cross Parkway|Japan|JP|emccaughenfl@squarespace.com|VARIABLE|0.7495366621796644|-736136.6|1169.3|-737305.9|Y|425122.0|1909
+4006298072|Ansell|Munnings|1973-05-27|Male|01 Kropf Circle|Colombia|CO|amunningsfm@pen.io|0% FIXED|0.0|-469260.96|-3878.54|-465382.42|N||
+9515589517|Lilyan|Graeber|2013-03-22|Female|1 Pond Junction|Indonesia|ID|lgraeberfn@china.com.cn|1% FIXED|0.01|-541987.77|750.83|-542738.6|Y|2252221.0|1964
+1682117472|Theodoric|Coatham|1981-08-08|Male|78995 Lawn Alley|Honduras|HN|tcoathamfo@zimbio.com|10% FIXED|0.1|-944886.47|3081.42|-947967.89|N||
+8652469903|Dex|Muat|1955-01-27|Male|3608 Springview Circle|Japan|JP|dmuatfp@tinyurl.com|0% FIXED|0.0|-333460.12|943.03|-334403.15|N||
+3512054331|Gayleen|Woolford|2010-08-19|Female|690 Old Shore Circle|Indonesia|ID|gwoolfordfq@devhub.com|1% FIXED|0.01|897165.0|-382.58|897547.58|N||
+9093129597|Gregorius|Cottham|2018-02-28|Male|04851 Lerdahl Road|Armenia|AM|gcotthamfr@mapy.cz|10% FIXED|0.1|451710.84|-4253.91|455964.75|N||
+9363186946|Waldemar|Reding|1936-01-20|Male|2 Ronald Regan Plaza|Peru|PE|wredingfs@ning.com|1% FIXED|0.01|669207.0|-1338.46|670545.46|Y|6297258.0|1974
+0533847982|Evyn|Insall|1958-12-18|Male|620 Farmco Court|Russia|RU|einsallft@narod.ru|10% FIXED|0.1|-693315.19|-2349.5|-690965.69|N||
+4604167656|Avivah|Blaxton|2000-04-06|Female|400 Monument Hill|Papua New Guinea|PG|ablaxtonfu@fc2.com|VARIABLE|0.02877902728709102|-603281.01|-4207.96|-599073.05|Y|1567317.0|1904
+0944399738|Richie|Vanni|1949-06-01|Male|35387 Hoffman Street|Philippines|PH|rvannifv@ftc.gov|0% FIXED|0.0|-976171.23|8731.46|-984902.69|Y|7559520.0|1925
+1757310002|Joanna|Scardefield|1989-02-24|Female|60 Schmedeman Pass|China|CN|jscardefieldfw@seesaa.net|VARIABLE|0.6970811279834909|-652033.32|-4280.21|-647753.11|N||
+0954168577|Lacee|Burdass|1977-01-16|Female|0582 Chive Parkway|Colombia|CO|lburdassfx@facebook.com|10% FIXED|0.1|848489.27|-9963.8|858453.07|N||
+5861023719|Marchelle|Finley|1967-05-08|Female|468 Thackeray Park|Zimbabwe|ZW|mfinleyfy@gravatar.com|10% FIXED|0.1|-954079.7|5294.24|-959373.94|Y|5464498.0|1953
+4670193767|Vladamir|Brosetti|1999-02-05|Male|16534 Spohn Parkway|Belgium|BE|vbrosettifz@liveinternet.ru|0% FIXED|0.0|-314611.4|-7471.86|-307139.54|N||
+9913661439|Walden|Olufsen|1952-10-20|Male|17 Ramsey Crossing|Poland|PL|wolufseng0@mediafire.com|10% FIXED|0.1|311614.25|-6022.81|317637.06|Y|6998041.0|1951
+2156678545|Tyrone|McCaw|1939-03-15|Male|7 Union Court|Macedonia|MK|tmccawg1@cloudflare.com|0% FIXED|0.0|-932167.56|9721.68|-941889.24|N||
+9236663028|Ginnie|Huriche|1990-09-20|Female|028 Gerald Circle|China|CN|ghuricheg2@joomla.org|0% FIXED|0.0|-158578.41|-977.03|-157601.38|Y|7965354.0|1946
+8479343109|Morgan|Hatliffe|1989-06-24|Male|891 Lerdahl Street|China|CN|mhatliffeg3@yahoo.co.jp|0% FIXED|0.0|-123539.84|-7926.49|-115613.35|N||
+0944348181|Jennifer|Corkish|1956-01-17|Female|16087 Kennedy Way|Egypt|EG|jcorkishg4@google.pl|VARIABLE|0.2095095111849586|-493659.39|-4324.46|-489334.93|N||
+5599589943|Lombard|Earwicker|1935-12-12|Male|65 Valley Edge Parkway|Greece|GR|learwickerg5@cbslocal.com|10% FIXED|0.1|17037.51|-8685.98|25723.49|N||
+3164202725|Boot|Kieran|2016-10-21|Male|955 Manufacturers Point|Portugal|PT|bkierang6@storify.com|0% FIXED|0.0|-798441.35|-1934.88|-796506.47|N||
+3296498540|Farah|Welband|2007-11-05|Female|4 Grim Pass|Canada|CA|fwelbandg7@youku.com|10% FIXED|0.1|-126408.0|9469.65|-135877.65|N||
+1422488292|Laurence|Riley|1979-08-10|Male|121 Morningstar Avenue|Argentina|AR|lrileyg8@omniture.com|10% FIXED|0.1|-392956.32|1156.04|-394112.36|Y|6537859.0|1906
+9719269979|Jacklyn|Jammes|1974-03-22|Female|4 High Crossing Pass|Thailand|TH|jjammesg9@state.tx.us|VARIABLE|0.762005058715849|-345275.06|-8581.41|-336693.65|Y|3037798.0|1955
+9108870853|Jackie|Vautier|1963-07-24|Male|005 Summerview Park|China|CN|jvautierga@state.gov|0% FIXED|0.0|157980.17|-1416.84|159397.01|Y|7155834.0|1957
+9689245880|Gerda|Hazel|2006-09-18|Female|16 Merchant Road|Burkina Faso|BF|ghazelgb@flavors.me|1% FIXED|0.01|-73957.71|4114.84|-78072.55|N||
+8842259543|Lemmie|Scyner|1956-06-04|Male|751 Redwing Point|Hungary|HU|lscynergc@joomla.org|10% FIXED|0.1|776137.0|401.8|775735.2|N||
+6369582069|Ealasaid|Blamire|1978-09-29|Female|15 Raven Street|Vietnam|VN|eblamiregd@nymag.com|1% FIXED|0.01|-296478.73|-9313.58|-287165.15|Y|2583415.0|1908
+8247985314|Marshall|Verty|1986-03-11|Male|7 Oak Valley Circle|Poland|PL|mvertyge@cyberchimps.com|1% FIXED|0.01|714488.85|-5313.09|719801.94|Y|4793101.0|2016
+4915062260|Rhianna|Itzkovwitch|1973-03-31|Female|21225 Oxford Junction|Ukraine|UA|ritzkovwitchgf@vinaora.com|VARIABLE|0.3138776063420243|-622593.79|-5116.74|-617477.05|Y|6332525.0|1910
+2790160503|Cammie|Kasperski|2008-09-09|Female|55797 Michigan Court|Finland|FI|ckasperskigg@wunderground.com|VARIABLE|0.7605183015798793|-110515.38|-8461.19|-102054.19|N||
+1485045401|Lionel|Menault|1983-12-28|Male|7014 Stephen Lane|Guatemala|GT|lmenaultgh@aol.com|VARIABLE|0.112919212028015|-167819.41|1331.08|-169150.49|Y|806998.0|1969
+2480036812|Tristam|Piggford|1990-04-29|Male|4 Springs Way|Argentina|AR|tpiggfordgi@uol.com.br|1% FIXED|0.01|-279290.13|-3073.62|-276216.51|Y|4187463.0|1912
+3636656376|Carlin|Jenkyn|1985-10-15|Female|17 Continental Crossing|Indonesia|ID|cjenkyngj@eepurl.com|0% FIXED|0.0|653394.0|-6184.91|659578.91|Y|1319183.0|1999
+6905843261|Dario|Engelbrecht|1961-09-10|Male|7178 Magdeline Plaza|United States|US|dengelbrechtgk@psu.edu|VARIABLE|0.76819821620002|-925163.33|-6296.71|-918866.62|N||
+0457764139|Rana|Beauman|1946-12-05|Female|5541 Waxwing Lane|Greece|GR|rbeaumangl@mozilla.org|10% FIXED|0.1|772901.75|-1004.92|773906.67|N||
+8104858084|Bertram|Lambswood|1961-07-12|Male|535 Ludington Trail|Japan|JP|blambswoodgm@nature.com|0% FIXED|0.0|-46857.71|-9819.38|-37038.33|Y|3895524.0|1966
+5905426899|Cissy|Sprankling|2007-12-25|Female|96684 Spenser Hill|Finland|FI|cspranklinggn@desdev.cn|0% FIXED|0.0|40243.0|3475.89|36767.11|N||
+7240241165|Jaquenetta|Byrd|1984-05-07|Female|64828 Mendota Place|El Salvador|SV|jbyrdgo@theguardian.com|0% FIXED|0.0|397660.45|-3916.1|401576.55|Y|2725355.0|1942
+2146574011|Kore|Atto|2003-03-10|Female|02387 Merchant Court|Ireland|IE|kattogp@accuweather.com|VARIABLE|0.5804532989751235|213361.01|4469.83|208891.18|N||
+6918231065|Shane|Brickstock|2009-06-18|Female|44 Cordelia Center|Democratic Republic of the Congo|CD|sbrickstockgq@salon.com|VARIABLE|0.8632563120505766|-640165.22|-8486.83|-631678.39|Y|392358.0|1993
+0432881751|Price|McNeish|1998-10-10|Male|831 Kings Center|Indonesia|ID|pmcneishgr@artisteer.com|VARIABLE|0.9127870976131326|-578060.24|6140.02|-584200.26|Y|320227.0|1913
+6884052015|Blakelee|Domerc|1959-07-29|Female|35368 Jenifer Hill|Indonesia|ID|bdomercgs@timesonline.co.uk|0% FIXED|0.0|924093.45|-6816.78|930910.23|N||
+1509236422|Reinhard|Stabbins|1971-11-15|Male|2501 Corben Point|Russia|RU|rstabbinsgt@google.com.br|10% FIXED|0.1|-424330.12|-5654.74|-418675.38|Y|7595774.0|2010
+9179237983|Lonny|Hurles|1943-04-16|Male|44019 Del Mar Avenue|Burkina Faso|BF|lhurlesgu@boston.com|0% FIXED|0.0|-696125.04|7552.15|-703677.19|N||
+3363566506|Kippar|Hardin|1971-03-17|Male|085 Dahle Center|Malaysia|MY|khardingv@squarespace.com|0% FIXED|0.0|561485.57|3225.89|558259.68|Y|2512270.0|1919
+2931434361|Alys|Kording|1964-09-11|Female|33792 Green Point|China|CN|akordinggw@si.edu|10% FIXED|0.1|-377099.75|-9848.87|-367250.88|N||
+5826344601|Claudelle|Speedin|1943-12-18|Female|3 Hoard Plaza|China|CN|cspeedingx@auda.org.au|VARIABLE|0.9848055041349976|-77578.49|-2694.42|-74884.07|N||
+9300153382|Jackquelin|Enrietto|2007-03-06|Female|74094 Alpine Terrace|Indonesia|ID|jenriettogy@ucoz.com|1% FIXED|0.01|-628103.25|-7221.11|-620882.14|Y|3902138.0|1927
+6173389061|Suki|Redfearn|1968-09-26|Female|7268 Waywood Street|Philippines|PH|sredfearngz@princeton.edu|1% FIXED|0.01|-49560.57|1296.12|-50856.69|N||
+1860551157|Timoteo|Readings|1962-09-18|Male|21016 Jenna Hill|China|CN|treadingsh0@ucsd.edu|1% FIXED|0.01|229634.01|2799.42|226834.59|Y|145634.0|1925
+4201759946|Ricardo|Avard|1940-12-07|Male|0 Sage Circle|Ukraine|UA|ravardh1@themeforest.net|1% FIXED|0.01|-768052.11|-6303.82|-761748.29|Y|1700270.0|1946
+7873839125|Lida|Svanini|1964-12-17|Female|01 Thompson Circle|South Africa|ZA|lsvaninih2@china.com.cn|1% FIXED|0.01|93866.77|-2748.62|96615.39|N||
+6543269642|Kris|Cristoforo|1952-02-13|Male|4668 Fuller Avenue|Philippines|PH|kcristoforoh3@guardian.co.uk|0% FIXED|0.0|-952364.24|1590.99|-953955.23|N||
+4479764836|Brok|Traut|1996-06-13|Male|563 Dorton Trail|Uganda|UG|btrauth4@cnn.com|VARIABLE|0.8285127254007367|559959.91|4487.3|555472.61|N||
+4338719788|Basilius|Velde|2010-02-27|Male|765 Nevada Avenue|Madagascar|MG|bveldeh5@ycombinator.com|0% FIXED|0.0|-195934.95|395.88|-196330.83|Y|214811.0|1935
+9074462235|Ermin|Rattray|2006-01-07|Male|8 Gateway Street|China|CN|erattrayh6@slideshare.net|VARIABLE|0.113134335790267|-836444.86|-3022.53|-833422.33|N||
+7736392595|Tammara|Spacy|1968-09-01|Female|09 Mitchell Trail|China|CN|tspacyh7@sohu.com|0% FIXED|0.0|237162.57|-7669.6|244832.17|Y|301150.0|1969
+6465205904|De|Probets|2006-11-07|Female|248 Almo Avenue|Chile|CL|dprobetsh8@hp.com|10% FIXED|0.1|-924518.75|8190.44|-932709.19|Y|6878706.0|1935
+7847219220|Tate|Riach|2009-08-28|Male|3660 Marcy Way|Macedonia|MK|triachh9@fda.gov|VARIABLE|0.01037847078638448|725795.05|-8303.07|734098.12|Y|877285.0|1995
+5477523190|Boris|Foresight|1968-08-16|Male|3 Anthes Drive|Portugal|PT|bforesightha@kickstarter.com|0% FIXED|0.0|-806530.59|-9187.39|-797343.2|N||
+5748046245|Aylmer|Grestie|1979-03-14|Male|4944 Goodland Junction|China|CN|agrestiehb@naver.com|1% FIXED|0.01|812291.73|1184.4|811107.33|N||
+4878992026|Eberhard|Milson|1977-12-20|Male|14 Arkansas Center|French Polynesia|PF|emilsonhc@jalbum.net|1% FIXED|0.01|-522928.1|-5540.94|-517387.16|Y|1554682.0|1900
+0356383628|Farica|Mapp|1941-04-03|Female|50359 Monument Avenue|China|CN|fmapphd@dmoz.org|1% FIXED|0.01|-656261.52|4131.7|-660393.22|N||
+3687203239|Ursulina|McCroary|2011-10-13|Female|28646 Straubel Pass|Czech Republic|CZ|umccroaryhe@youtu.be|10% FIXED|0.1|-599842.41|-1198.22|-598644.19|Y|5210282.0|1926
+3194355341|Katti|Gioan|1944-08-23|Female|86589 Eagle Crest Circle|Philippines|PH|kgioanhf@disqus.com|VARIABLE|0.02363233464720307|501590.84|-2774.38|504365.22|Y|4928325.0|1987
+6617748158|Westleigh|O'Doogan|1987-05-18|Male|4547 Debra Pass|Portugal|PT|wodooganhg@hostgator.com|10% FIXED|0.1|-748760.55|-6943.69|-741816.86|N||
+5924245101|Jody|Delaney|1949-08-04|Male|69 Harbort Drive|Thailand|TH|jdelaneyhh@reddit.com|1% FIXED|0.01|-541846.2|-5660.78|-536185.42|Y|130658.0|1933
+0049410369|Adolphus|Sutherel|1964-01-06|Male|730 Northfield Avenue|China|CN|asutherelhi@ezinearticles.com|0% FIXED|0.0|183474.37|1155.07|182319.3|N||
+8221521590|Ulrick|Hurley|1956-10-24|Male|861 Pearson Way|Colombia|CO|uhurleyhj@drupal.org|1% FIXED|0.01|-133219.17|-4926.65|-128292.52|N||
+9847935351|Nils|Skoughman|2014-09-13|Male|9 Hudson Street|China|CN|nskoughmanhk@jalbum.net|VARIABLE|0.1844659628867406|346282.0|3663.21|342618.79|Y|1495593.0|1981
+1781338965|Ernesta|Leemans|1983-06-17|Female|0 Warner Drive|China|CN|eleemanshl@ehow.com|VARIABLE|0.4162120501572225|-907256.11|7094.26|-914350.37|Y|4595725.0|1903
+3431926894|Ive|Tetther|1989-04-28|Male|87952 Pawling Way|Ethiopia|ET|itettherhm@umich.edu|10% FIXED|0.1|-919238.13|-3027.32|-916210.81|Y|3132624.0|1937
+0504919105|Jordain|Walwood|2000-01-11|Female|30713 Reindahl Trail|Japan|JP|jwalwoodhn@utexas.edu|VARIABLE|0.8224907353406904|-746567.28|215.24|-746782.52|Y|4800804.0|1999
+6135019082|Tiertza|Melarkey|1988-06-22|Female|443 Lakewood Pass|Colombia|CO|tmelarkeyho@tamu.edu|0% FIXED|0.0|-839386.8|8825.26|-848212.06|N||
+5367451896|Gwenore|Mulbry|1937-11-09|Female|975 David Pass|Brazil|BR|gmulbryhp@china.com.cn|10% FIXED|0.1|845683.09|-3669.09|849352.18|N||
+0101808615|Karyn|Blewett|1962-05-28|Female|28 Mandrake Crossing|Serbia|RS|kblewetthq@a8.net|1% FIXED|0.01|-334974.19|7832.58|-342806.77|Y|4412063.0|2000
+9370729100|Rafaela|Cassin|2012-01-16|Female|6759 Monument Pass|Iran|IR|rcassinhr@pen.io|10% FIXED|0.1|-547177.36|8878.99|-556056.35|N||
+1702258599|Noby|Finneran|1961-10-15|Male|53 Summit Center|Russia|RU|nfinneranhs@boston.com|0% FIXED|0.0|888565.91|-3802.69|892368.6|Y|2368611.0|1936
+4199280235|Mychal|Maun|2018-06-03|Male|55 Maywood Park|China|CN|mmaunht@vk.com|0% FIXED|0.0|861193.0|-2837.59|864030.59|N||
+8614912749|Joaquin|Latch|2001-10-27|Male|76 Kim Junction|Macedonia|MK|jlatchhu@myspace.com|VARIABLE|0.8342214376271407|245380.44|6363.4|239017.04|Y|5738989.0|1961
+8615701814|Ag|Henworth|1973-03-12|Female|95 Kropf Park|Sweden|SE|ahenworthhv@patch.com|VARIABLE|0.1408412659238621|-769682.59|-4897.94|-764784.65|Y|6143740.0|1934
+0093572557|Durant|Burcombe|1984-07-07|Male|619 3rd Crossing|China|CN|dburcombehw@prnewswire.com|10% FIXED|0.1|-720984.28|8793.15|-729777.43|Y|1789561.0|1916
+1421818973|Demetri|Cavie|1970-03-01|Male|54322 American Park|China|CN|dcaviehx@wsj.com|1% FIXED|0.01|-53029.75|1988.0|-55017.75|N||
+9607183940|Georgina|Tregido|2013-08-11|Female|24676 Pine View Trail|Senegal|SN|gtregidohy@tripod.com|VARIABLE|0.09686418360307182|151638.99|-8421.94|160060.93|Y|217709.0|1954
+8591984447|Pammi|Childe|1959-04-10|Female|99450 Shopko Alley|Colombia|CO|pchildehz@wordpress.org|VARIABLE|0.2732040210752442|88890.25|785.3|88104.95|N||
+8965818877|Bellanca|Haitlie|1948-02-27|Female|0422 Parkside Street|Peru|PE|bhaitliei0@seesaa.net|10% FIXED|0.1|898899.19|8088.58|890810.61|Y|1406090.0|1978
+0969320477|Jozef|Dockrey|1938-02-22|Male|0 Ronald Regan Drive|Ireland|IE|jdockreyi1@163.com|VARIABLE|0.4880588505428958|441261.65|-6588.59|447850.24|Y|6813261.0|1905
+4790084094|Lonnard|Wodham|1941-01-26|Male|54 Holmberg Alley|China|CN|lwodhami2@yale.edu|VARIABLE|0.2683362272325129|410320.3|-5717.59|416037.89|Y|5769981.0|1981
+2482052076|Cecilla|Norssister|1951-06-30|Female|8 Ridgeway Point|Bangladesh|BD|cnorssisteri3@networksolutions.com|10% FIXED|0.1|488134.97|-1303.85|489438.82|Y|6498159.0|1920
+0612332659|Virgie|Dallicoat|1969-10-27|Female|58215 Schmedeman Crossing|Iran|IR|vdallicoati4@go.com|10% FIXED|0.1|562368.17|-4729.07|567097.24|Y|1339709.0|1944
+2039918264|Sherie|Castletine|2008-06-18|Female|8489 Morrow Pass|Azerbaijan|AZ|scastletinei5@sciencedaily.com|1% FIXED|0.01|888711.78|-1385.4|890097.18|Y|4399708.0|1978
+6740488843|Beauregard|Swaden|1988-07-16|Male|651 Katie Alley|Philippines|PH|bswadeni6@usda.gov|1% FIXED|0.01|110246.67|2945.17|107301.5|Y|2963417.0|1945
+9476650605|Dolli|Muller|1970-10-17|Female|50 Elmside Court|Russia|RU|dmulleri7@freewebs.com|VARIABLE|0.1607905086108056|630398.0|5143.04|625254.96|N||
+7329322911|Prisca|Yesinin|1961-01-10|Female|07088 1st Hill|Vietnam|VN|pyesinini8@taobao.com|0% FIXED|0.0|-74885.52|4836.48|-79722.0|N||
+3809675210|Emogene|Elsmere|1973-02-16|Female|3 Pleasure Lane|Ireland|IE|eelsmerei9@drupal.org|0% FIXED|0.0|516052.99|-1537.26|517590.25|N||
+9530746636|Galven|Stuckley|2012-04-11|Male|50 Meadow Valley Circle|Russia|RU|gstuckleyia@photobucket.com|0% FIXED|0.0|876654.6|3878.0|872776.6|N||
+9118365329|Domingo|Elvish|1938-09-15|Male|8818 Westport Plaza|Uzbekistan|UZ|delvishib@dell.com|VARIABLE|0.4252259762132425|666609.93|6880.71|659729.22|N||
+9436769946|Wyatt|Standbrooke|1947-02-09|Male|487 Cody Parkway|Norway|NO|wstandbrookeic@odnoklassniki.ru|1% FIXED|0.01|925826.14|-9601.85|935427.99|Y|2980763.0|1915
+3248258217|Terrel|Challoner|1990-04-26|Male|82913 Mesta Plaza|North Korea|KP|tchallonerid@google.com.br|VARIABLE|0.2056669329638753|696947.0|2086.67|694860.33|N||
+5803820695|Conan|Henryson|1976-03-30|Male|6 4th Parkway|Indonesia|ID|chenrysonie@businessweek.com|VARIABLE|0.5063826873851387|-446375.53|-6395.4|-439980.13|N||
+8869435830|Isidor|Franceschino|1963-12-01|Male|91022 Arizona Park|Indonesia|ID|ifranceschinoif@goodreads.com|1% FIXED|0.01|590635.9|8579.4|582056.5|Y|5807082.0|1902
+9136522716|Waylin|Doret|1999-09-05|Male|6174 Green Ridge Point|China|CN|wdoretig@people.com.cn|10% FIXED|0.1|-188161.55|6464.22|-194625.77|N||
+5334551379|Zoe|MacColgan|1956-03-07|Female|0736 Di Loreto Crossing|China|CN|zmaccolganih@weibo.com|1% FIXED|0.01|940980.43|3432.89|937547.54|N||
+9187566818|Tiler|Jovicevic|1957-07-22|Male|5 Summerview Drive|Indonesia|ID|tjovicevicii@ow.ly|0% FIXED|0.0|433874.97|-4882.54|438757.51|Y|7256361.0|2007
+1390623769|Miller|Osman|2006-02-02|Male|369 Northwestern Lane|Portugal|PT|mosmanij@npr.org|10% FIXED|0.1|-96104.27|645.71|-96749.98|Y|3573745.0|1916
+2259654754|Urbanus|Stork|1944-11-25|Male|4 Mendota Lane|South Africa|ZA|ustorkik@spotify.com|0% FIXED|0.0|-105635.96|-7854.17|-97781.79|Y|7198640.0|1984
+8410433877|Leesa|Remmers|1984-02-17|Female|8135 Tennessee Lane|Brazil|BR|lremmersil@gravatar.com|10% FIXED|0.1|-564221.96|3248.63|-567470.59|Y|5005284.0|1979
+4103450347|Gabriella|Jakubovsky|1964-07-23|Female|56564 Boyd Point|Syria|SY|gjakubovskyim@angelfire.com|10% FIXED|0.1|22599.63|-5664.82|28264.45|Y|3200952.0|2014
+5609146399|Bel|Tidmarsh|1999-02-16|Female|35 Schlimgen Lane|China|CN|btidmarshin@altervista.org|10% FIXED|0.1|-62234.0|6952.52|-69186.52|N||
+6213124985|Oralie|Ansley|2003-01-09|Female|78 Hauk Avenue|Indonesia|ID|oansleyio@bing.com|10% FIXED|0.1|-377568.27|-9662.37|-367905.9|N||
+3790629561|Gustavo|Fenelon|1937-09-04|Male|4 Westridge Place|Egypt|EG|gfenelonip@tinyurl.com|VARIABLE|0.05742044789714548|640098.5|6082.68|634015.82|N||
+7777969714|Terry|Topp|1962-10-30|Male|755 Onsgard Terrace|Peru|PE|ttoppiq@japanpost.jp|1% FIXED|0.01|-641523.82|-7261.37|-634262.45|Y|6070104.0|1935
+1497629543|Marita|Pesselt|1962-06-11|Female|60 Schlimgen Circle|Ivory Coast|CI|mpesseltir@uiuc.edu|0% FIXED|0.0|-309962.39|538.48|-310500.87|Y|2415374.0|1983
+1556188153|Katharina|Gatcliff|2014-09-04|Female|3499 Hazelcrest Junction|Finland|FI|kgatcliffis@usnews.com|VARIABLE|0.3631233541710785|-719723.0|-8292.58|-711430.42|N||
+6249096981|Dominick|Cheeney|1992-11-04|Male|394 Westridge Avenue|Italy|IT|dcheeneyit@springer.com|VARIABLE|0.6757159456276038|403095.84|2887.88|400207.96|N||
+1254909508|Dyanna|Dumpleton|1932-05-13|Female|5604 Reinke Court|Poland|PL|ddumpletoniu@so-net.ne.jp|VARIABLE|0.1989602094421991|-627369.32|6843.32|-634212.64|N||
+8253358202|Juditha|Francello|2012-06-17|Female|7 Laurel Drive|Paraguay|PY|jfrancelloiv@bbc.co.uk|VARIABLE|0.7690576332283983|-358314.72|-4848.25|-353466.47|Y|3030012.0|1978
+3405236533|Angelo|Bunning|1980-01-03|Male|2 Waxwing Crossing|Mongolia|MN|abunningiw@tamu.edu|10% FIXED|0.1|-142724.98|799.7|-143524.68|Y|6790167.0|1986
+0392290871|Nicola|Adshead|1972-08-23|Male|84 Summit Drive|Indonesia|ID|nadsheadix@about.me|VARIABLE|0.5502139350160986|-275053.98|9017.5|-284071.48|Y|5059711.0|1991
+1379712564|Dedra|Bellon|2018-05-23|Female|03 7th Center|United States|US|dbelloniy@cornell.edu|10% FIXED|0.1|387056.59|-8610.05|395666.64|N||
+3015554972|Rheta|Caesar|1986-04-07|Female|5402 Old Shore Place|Indonesia|ID|rcaesariz@simplemachines.org|1% FIXED|0.01|44093.01|-7619.47|51712.48|N||
+4727604248|Natty|Edger|1964-12-01|Male|46 Summer Ridge Point|China|CN|nedgerj0@furl.net|10% FIXED|0.1|-298365.22|-2609.6|-295755.62|Y|1162901.0|1978
+2948888204|Keary|McEvoy|1989-08-26|Male|5 Colorado Hill|China|CN|kmcevoyj1@msu.edu|10% FIXED|0.1|100954.02|9664.2|91289.82|N||
+0618192360|Armand|Newbatt|2010-10-09|Male|95843 Rigney Circle|Finland|FI|anewbattj2@xrea.com|VARIABLE|0.4379442552676356|-152981.58|4381.62|-157363.2|Y|3298449.0|1912
+3478593166|Olag|Rooson|1984-10-19|Male|5 Mayfield Court|Greece|GR|oroosonj3@booking.com|10% FIXED|0.1|-556864.69|7462.85|-564327.54|Y|5563407.0|1965
+1730726747|Bathsheba|Beardsdale|1931-12-03|Female|3843 Manitowish Junction|Philippines|PH|bbeardsdalej4@ucoz.com|10% FIXED|0.1|26626.55|5221.34|21405.21|Y|7196047.0|1905
+7650136361|Kaiser|Pagan|1947-09-08|Male|5 Sycamore Alley|France|FR|kpaganj5@technorati.com|0% FIXED|0.0|-656649.98|4379.59|-661029.57|Y|7620561.0|2004
+9304728576|Catha|Coltherd|1975-06-10|Female|1 Scoville Crossing|Portugal|PT|ccoltherdj6@netscape.com|VARIABLE|0.01576721752886806|863719.6|1294.87|862424.73|N||
+7936277927|Tallie|Cale|1990-01-13|Female|658 Amoth Avenue|Russia|RU|tcalej7@wisc.edu|0% FIXED|0.0|-138311.84|5346.43|-143658.27|N||
+2305217390|Hesther|Laming|1970-08-16|Female|5 Badeau Park|Pakistan|PK|hlamingj8@epa.gov|0% FIXED|0.0|293945.58|7228.72|286716.86|Y|7037183.0|2008
+9374816466|Tomlin|Domanski|1971-07-31|Male|24854 Norway Maple Court|Indonesia|ID|tdomanskij9@reference.com|0% FIXED|0.0|-488586.53|6468.28|-495054.81|Y|4387557.0|1949
+9843041720|Kali|Agent|1950-03-02|Female|763 Dapin Park|Russia|RU|kagentja@bloglines.com|VARIABLE|0.1139947462598295|934401.04|-5276.59|939677.63|N||
+4731822300|Ofella|Smorthit|1945-12-02|Female|9473 Cherokee Junction|Mongolia|MN|osmorthitjb@i2i.jp|1% FIXED|0.01|-381931.65|6483.92|-388415.57|N||
+8882337774|Carolina|Troppmann|2001-08-03|Female|13990 Anhalt Place|Indonesia|ID|ctroppmannjc@washington.edu|1% FIXED|0.01|874465.0|3564.24|870900.76|Y|6722501.0|1910
+0499858476|Isabelle|Sergeaunt|1964-06-09|Female|037 Walton Center|Albania|AL|isergeauntjd@usgs.gov|0% FIXED|0.0|716346.68|3985.25|712361.43|Y|3757371.0|1997
+4089688787|Janna|McNalley|2003-09-17|Female|20789 Kensington Terrace|Greece|GR|jmcnalleyje@elegantthemes.com|10% FIXED|0.1|-343479.14|-365.97|-343113.17|Y|5774191.0|1969
+4619169285|Belicia|Bleasdale|1972-04-05|Female|4893 Canary Center|Brazil|BR|bbleasdalejf@springer.com|1% FIXED|0.01|-531345.21|440.14|-531785.35|N||
+8957861297|Celia|Sonschein|1980-04-22|Female|24 Lotheville Place|Philippines|PH|csonscheinjg@hostgator.com|VARIABLE|0.6803939063113288|851782.19|2709.19|849073.0|N||
+2099802726|Hannis|Norville|2000-04-13|Female|7751 Eastwood Park|Armenia|AM|hnorvillejh@devhub.com|1% FIXED|0.01|-176005.51|-6236.86|-169768.65|N||
+7466211674|Armando|Petit|1935-08-08|Male|990 Armistice Lane|Indonesia|ID|apetitji@ca.gov|1% FIXED|0.01|-312006.24|-6522.18|-305484.06|Y|4619917.0|2007
+6594236156|Upton|Caswall|1954-11-17|Male|09783 Lunder Court|China|CN|ucaswalljj@businessinsider.com|0% FIXED|0.0|846078.0|-5509.84|851587.84|N||
+8290805977|Tobey|Torpie|1933-06-27|Female|9412 Pennsylvania Place|Brazil|BR|ttorpiejk@1688.com|0% FIXED|0.0|394163.43|-9856.6|404020.03|Y|1773153.0|1921
+5167041341|Tawsha|Franzelini|1992-10-14|Female|20691 Mitchell Park|Nepal|NP|tfranzelinijl@ocn.ne.jp|1% FIXED|0.01|5028.43|-5992.33|11020.76|Y|1987879.0|1961
+4435396890|Kalil|Jann|1956-09-22|Male|92695 Harper Way|Palestinian Territory|PS|kjannjm@gnu.org|10% FIXED|0.1|-291212.44|-8680.57|-282531.87|Y|350851.0|1998
+2957349191|Teodorico|Karppi|1957-10-02|Male|61 Kropf Center|Bosnia and Herzegovina|BA|tkarppijn@edublogs.org|VARIABLE|0.8263830593058877|-324924.36|5202.27|-330126.63|N||
+3575058423|Maurine|Saunter|2002-09-06|Female|78 Bartillon Terrace|China|CN|msaunterjo@nationalgeographic.com|10% FIXED|0.1|-132718.0|4240.06|-136958.06|Y|2160311.0|2016
+4799862081|Edgar|Vobes|1954-06-06|Male|5 Granby Center|Guatemala|GT|evobesjp@t.co|1% FIXED|0.01|-33661.24|5293.61|-38954.85|Y|5564169.0|1975
+3236497475|Wylie|Kinloch|1938-05-02|Male|1928 Lighthouse Bay Trail|China|CN|wkinlochjq@elpais.com|10% FIXED|0.1|907720.86|679.37|907041.49|Y|4485776.0|2000
+4373279209|Bobbette|Keepin|1940-07-08|Female|9 Oak Lane|China|CN|bkeepinjr@comcast.net|VARIABLE|0.3732977381224539|857229.58|4895.68|852333.9|Y|1188989.0|1946
+9702995892|Zachery|Schwier|1933-05-13|Male|64129 Texas Parkway|Philippines|PH|zschwierjs@chronoengine.com|10% FIXED|0.1|-666149.66|-1978.06|-664171.6|N||
+5212287014|Arlina|Cain|1940-10-15|Female|0 Ruskin Terrace|Portugal|PT|acainjt@google.cn|10% FIXED|0.1|526319.27|-318.14|526637.41|N||
+6889989376|Patric|Bodesson|2006-08-02|Male|6645 Cordelia Avenue|China|CN|pbodessonju@home.pl|VARIABLE|0.2155711191101723|632288.57|-9805.88|642094.45|N||
+2673129006|Marys|Scoles|1982-04-22|Female|9231 Moose Terrace|China|CN|mscolesjv@fema.gov|10% FIXED|0.1|996705.44|4925.52|991779.92|N||
+0586284184|Agustin|Phebee|2013-07-05|Male|83694 South Avenue|Philippines|PH|aphebeejw@fotki.com|10% FIXED|0.1|-502012.01|5677.07|-507689.08|N||
+8620192442|Shellysheldon|Liversidge|1983-11-28|Male|402 Farwell Avenue|Albania|AL|sliversidgejx@phoca.cz|0% FIXED|0.0|-236831.0|-9765.43|-227065.57|Y|7114085.0|1902
+9893198453|Aland|Cammocke|1968-04-25|Male|83 Loeprich Hill|Canada|CA|acammockejy@joomla.org|VARIABLE|0.99620623325504|669558.52|-7925.0|677483.52|Y|7351717.0|2014
+7786093222|Nester|Troke|1954-05-24|Male|3728 Katie Point|Serbia|RS|ntrokejz@bloglovin.com|0% FIXED|0.0|-414068.46|4423.67|-418492.13|Y|1141041.0|1992
+1254418547|Laurianne|Good|1947-12-02|Female|28895 Schiller Trail|Vietnam|VN|lgoodk0@opera.com|10% FIXED|0.1|785099.97|2881.48|782218.49|Y|6434564.0|1918
+3004264501|Ambrosius|Berresford|2016-02-10|Male|71 Huxley Parkway|France|FR|aberresfordk1@newyorker.com|VARIABLE|0.5924307119216654|97754.68|348.07|97406.61|N||
+9838806013|Carlie|Duhig|1999-11-06|Male|1364 Surrey Junction|Portugal|PT|cduhigk2@usa.gov|1% FIXED|0.01|-46328.72|-1601.06|-44727.66|N||
+1788686209|Lovell|Trayton|2011-08-18|Male|22594 Fair Oaks Street|Indonesia|ID|ltraytonk3@posterous.com|1% FIXED|0.01|773730.0|1652.97|772077.03|N||
+9536008297|Ricki|Darbey|1982-07-24|Male|16 Linden Alley|Sweden|SE|rdarbeyk4@europa.eu|VARIABLE|0.6493495814051465|-753232.0|-8307.9|-744924.1|N||
+6187074645|Standford|Bariball|1937-06-27|Male|094 Anniversary Place|China|CN|sbariballk5@globo.com|10% FIXED|0.1|672117.64|-7701.24|679818.88|N||
+1146676220|Osborne|Fittes|1970-04-28|Male|6271 Atwood Place|United States|US|ofittesk6@parallels.com|VARIABLE|0.02960622419558161|-53950.98|5915.89|-59866.87|N||
+0679607285|Selig|Pecey|1946-01-07|Male|8625 Boyd Point|China|CN|speceyk7@oakley.com|10% FIXED|0.1|187400.57|-717.62|188118.19|Y|7463711.0|1921
+8642784245|Evvy|McIlherran|1931-02-14|Female|23769 Golf Parkway|Russia|RU|emcilherrank8@taobao.com|10% FIXED|0.1|-199355.18|9688.8|-209043.98|N||
+9711809818|Constantia|Trayford|1953-01-22|Female|0237 Upham Street|Ukraine|UA|ctrayfordk9@examiner.com|10% FIXED|0.1|573523.02|9799.12|563723.9|Y|3500189.0|1943
+0645900966|Carney|Attenbrough|1994-12-28|Male|4 Bayside Circle|Palestinian Territory|PS|cattenbroughka@howstuffworks.com|10% FIXED|0.1|654772.86|-3663.17|658436.03|Y|3216441.0|1934
+7901096640|Sawyer|Gauthorpp|1941-01-16|Male|16089 Prairieview Road|Czech Republic|CZ|sgauthorppkb@usa.gov|10% FIXED|0.1|388926.4|-1472.36|390398.76|Y|6626853.0|2006
+0871112043|Wallace|L'argent|1955-02-06|Male|77509 Northview Drive|Indonesia|ID|wlargentkc@who.int|10% FIXED|0.1|228343.5|-6598.59|234942.09|N||
+4987496313|Loralie|Lingard|1966-04-15|Female|7542 Derek Circle|Indonesia|ID|llingardkd@homestead.com|VARIABLE|0.8630941088640119|-625176.99|-3540.37|-621636.62|N||
+3544912163|Willem|Wallice|1941-10-07|Male|101 Mockingbird Way|Portugal|PT|wwalliceke@bandcamp.com|VARIABLE|0.9885809256376837|-479383.68|164.57|-479548.25|Y|1191306.0|1957
+4743237203|Al|Degoey|1963-12-07|Male|8615 Eliot Way|Sweden|SE|adegoeykf@mapy.cz|1% FIXED|0.01|-195023.32|-8477.6|-186545.72|N||
+4432307099|Terese|Inston|1991-12-25|Female|96 Carioca Point|China|CN|tinstonkg@imdb.com|1% FIXED|0.01|-671967.36|3630.31|-675597.67|Y|4077290.0|1956
+3200641312|Alvira|Caldero|2014-03-10|Female|3 Pennsylvania Terrace|Sweden|SE|acalderokh@twitter.com|0% FIXED|0.0|431993.71|-7156.13|439149.84|N||
+7908832385|Kessia|Espley|1974-03-01|Female|2 Hudson Circle|China|CN|kespleyki@oakley.com|0% FIXED|0.0|-222346.26|4465.92|-226812.18|N||
+0892115963|Mohammed|Monro|2004-04-12|Male|08337 Lawn Park|North Korea|KP|mmonrokj@angelfire.com|10% FIXED|0.1|-474051.0|-7028.81|-467022.19|N||
+8501030902|Daphna|Colegrove|2010-04-10|Female|4 Hollow Ridge Park|Peru|PE|dcolegrovekk@skyrock.com|VARIABLE|0.02889785950558759|341658.55|4039.98|337618.57|N||
+5332892624|Dale|Gremane|1951-01-17|Female|8 Tony Parkway|Indonesia|ID|dgremanekl@imdb.com|VARIABLE|0.1844591276137026|-968124.39|-493.3|-967631.09|N||
+1023650037|Edy|Philippson|1988-01-31|Female|1025 Ryan Point|China|CN|ephilippsonkm@sourceforge.net|1% FIXED|0.01|522101.72|-9435.81|531537.53|Y|5459692.0|1918
+2339287766|Stacey|Espinay|1933-08-30|Female|68 Anzinger Circle|Indonesia|ID|sespinaykn@springer.com|VARIABLE|0.6357025536115468|-120179.55|-8596.57|-111582.98|Y|4077434.0|1994
+5983886274|Elladine|Spinella|1932-06-10|Female|8 Dryden Crossing|Portugal|PT|espinellako@php.net|VARIABLE|0.055890289750385|40894.36|-2414.31|43308.67|Y|2623394.0|1998
+6447848513|Boot|Bradnum|1979-10-30|Male|87 West Road|Zambia|ZM|bbradnumkp@economist.com|1% FIXED|0.01|923469.23|2139.42|921329.81|Y|4427771.0|1938
+0895262916|Lynelle|Ferriere|1935-07-31|Female|32337 John Wall Point|Philippines|PH|lferrierekq@umn.edu|0% FIXED|0.0|-106252.85|-3452.41|-102800.44|Y|1682343.0|1958
+0824809459|Osbourn|Alloisi|1951-10-20|Male|01 Donald Park|Greece|GR|oalloisikr@is.gd|1% FIXED|0.01|477006.43|7628.8|469377.63|N||
+0388217219|Jacinda|Goldie|1970-01-22|Female|718 Eastwood Court|Poland|PL|jgoldieks@nydailynews.com|1% FIXED|0.01|373616.48|3484.45|370132.03|N||
+6620963889|Caddric|Yukhnin|2004-02-13|Male|9 Homewood Plaza|Malaysia|MY|cyukhninkt@deviantart.com|0% FIXED|0.0|-740628.88|7166.73|-747795.61|Y|4670923.0|1989
+7649809188|Val|Janeczek|1955-06-27|Female|2 Redwing Plaza|Macedonia|MK|vjaneczekku@linkedin.com|0% FIXED|0.0|314213.83|5171.68|309042.15|Y|3772616.0|1992
+4113418187|Hillyer|Learman|1971-08-09|Male|26 Stang Point|Ukraine|UA|hlearmankv@comsenz.com|VARIABLE|0.4130150564339478|530295.22|-9098.29|539393.51|N||
+9652621501|Bryon|Pantry|1962-10-08|Male|9 Moulton Terrace|Sweden|SE|bpantrykw@csmonitor.com|0% FIXED|0.0|528745.63|7618.08|521127.55|Y|192080.0|1911
+2110348321|Aland|Verner|1979-02-06|Male|868 Farwell Place|Brazil|BR|avernerkx@fotki.com|0% FIXED|0.0|-336.47|1154.05|-1490.52|N||
+3133723189|Finn|Reisk|1938-07-27|Male|766 Meadow Ridge Road|Colombia|CO|freiskky@blogs.com|1% FIXED|0.01|-331133.49|-4443.83|-326689.66|N||
+7676358299|Ophelie|Jikovsky|1955-04-13|Female|3627 Mcbride Place|United States|US|ojikovskykz@sitemeter.com|0% FIXED|0.0|582760.01|2073.59|580686.42|Y|3951109.0|1912
+7679238758|Vina|Blunsen|1948-07-01|Female|19687 Tennyson Way|Greece|GR|vblunsenl0@posterous.com|0% FIXED|0.0|566987.51|-7736.66|574724.17|Y|3797114.0|1976
+6972785448|Terrijo|Lanceter|1934-11-21|Female|173 Express Circle|China|CN|tlanceterl1@dot.gov|10% FIXED|0.1|-438079.27|4596.87|-442676.14|N||
+4650131936|Prisca|Tilley|1964-02-12|Female|7 Erie Trail|Macedonia|MK|ptilleyl2@guardian.co.uk|0% FIXED|0.0|850232.98|8241.69|841991.29|N||
+7575470573|Warden|Scawn|1970-07-14|Male|1 Judy Lane|Russia|RU|wscawnl3@networksolutions.com|1% FIXED|0.01|-551218.64|6949.96|-558168.6|Y|1751224.0|1932
+8420603007|Averill|Bough|1973-09-18|Male|72 Buena Vista Drive|Indonesia|ID|aboughl4@senate.gov|1% FIXED|0.01|61948.4|8101.03|53847.37|Y|5946881.0|1991
+5914962102|Dalenna|Lehemann|1942-07-15|Female|24 Loeprich Center|Russia|RU|dlehemannl5@mac.com|0% FIXED|0.0|269771.6|5735.85|264035.75|Y|2199796.0|1947
+0615707114|Gamaliel|Winkett|1962-02-25|Male|8964 South Center|Iran|IR|gwinkettl6@behance.net|1% FIXED|0.01|933893.97|-7150.64|941044.61|Y|2606310.0|1986
+1028707762|Royal|Bolliver|1988-08-19|Male|73178 Waywood Drive|Ukraine|UA|rbolliverl7@bandcamp.com|VARIABLE|0.1351590797132951|837853.28|787.09|837066.19|N||
+2907702831|Eilis|Poland|1968-03-13|Female|375 Eggendart Place|Israel|IL|epolandl8@adobe.com|1% FIXED|0.01|371006.89|-2714.33|373721.22|Y|264765.0|1902
+4059236217|Osmund|Eick|2002-06-04|Male|02 Aberg Pass|China|CN|oeickl9@independent.co.uk|0% FIXED|0.0|257963.44|8284.73|249678.71|N||
+2026853452|Bonny|Waghorn|1999-10-03|Female|8 Petterle Lane|China|CN|bwaghornla@163.com|0% FIXED|0.0|385860.46|-1410.97|387271.43|N||
+1880754835|Kipp|Cappleman|1954-06-30|Female|16 Lakewood Center|United States|US|kcapplemanlb@forbes.com|1% FIXED|0.01|-344356.51|2455.47|-346811.98|N||
+3725668671|Huntlee|Morena|1992-06-26|Male|7 Rockefeller Trail|China|CN|hmorenalc@youtube.com|VARIABLE|0.1836767398747116|222256.64|-4542.18|226798.82|N||
+9535919725|Meryl|Bril|1989-02-12|Male|8 Express Court|Indonesia|ID|mbrilld@studiopress.com|1% FIXED|0.01|-548088.66|-8232.05|-539856.61|N||
+7091642279|Osbourne|Dellatorre|1945-03-20|Male|55730 Hanover Street|Faroe Islands|FO|odellatorrele@fastcompany.com|10% FIXED|0.1|710431.71|-1757.07|712188.78|N||
+3512332595|Roderigo|Krauze|1933-09-01|Male|18 Florence Center|United States|US|rkrauzelf@flavors.me|10% FIXED|0.1|909023.85|-1586.15|910610.0|Y|2038024.0|1982
+5679483122|Edgar|Rosengart|2004-10-11|Male|94023 3rd Terrace|Norway|NO|erosengartlg@simplemachines.org|1% FIXED|0.01|107304.0|5746.55|101557.45|Y|552897.0|2014
+5275482205|Godwin|Burgne|2015-04-04|Male|506 Vermont Terrace|Poland|PL|gburgnelh@dion.ne.jp|VARIABLE|0.8799234711363688|-502563.6|-6471.01|-496092.59|Y|58048.0|1943
+2268097595|Olia|Slide|1978-01-10|Female|3 Summit Point|China|CN|oslideli@php.net|0% FIXED|0.0|-155366.94|-3975.38|-151391.56|N||
+1378074777|Juana|Waggatt|1992-06-19|Female|246 Westridge Street|Thailand|TH|jwaggattlj@china.com.cn|VARIABLE|0.6914207476288626|-851902.67|-8038.56|-843864.11|N||
+8411949370|Kip|Trubshawe|1939-09-23|Female|552 Susan Crossing|Indonesia|ID|ktrubshawelk@prlog.org|10% FIXED|0.1|783159.0|-5332.8|788491.8|N||
+7038971018|Yetta|Pittoli|2005-12-03|Female|54210 Sachs Terrace|Haiti|HT|ypittolill@alibaba.com|0% FIXED|0.0|512530.2|8132.49|504397.71|N||
+7661766515|Mychal|Bakeup|2010-07-23|Male|1006 Petterle Circle|Ukraine|UA|mbakeuplm@unc.edu|0% FIXED|0.0|696213.0|4633.63|691579.37|N||
+1505943876|Alleen|Mullan|2016-11-10|Female|088 Maryland Terrace|France|FR|amullanln@pagesperso-orange.fr|1% FIXED|0.01|46428.04|8095.46|38332.58|N||
+6233311896|Rafaelia|Nicklen|1969-08-01|Female|27142 Bluejay Terrace|Indonesia|ID|rnicklenlo@examiner.com|VARIABLE|0.6415702985839342|256195.92|9719.59|246476.33|N||
+7878034265|Esme|Eneas|2013-11-18|Male|22018 Mitchell Road|China|CN|eeneaslp@loc.gov|1% FIXED|0.01|58811.06|3650.33|55160.73|N||
+7004676331|Daveta|Snodden|1942-02-23|Female|41 Sunnyside Circle|Indonesia|ID|dsnoddenlq@godaddy.com|10% FIXED|0.1|885210.73|2226.63|882984.1|Y|515361.0|1931
+0667799710|Tristan|Trunchion|1951-01-26|Male|31444 Monterey Center|Brazil|BR|ttrunchionlr@uiuc.edu|VARIABLE|0.8087314862506093|967962.74|1181.71|966781.03|Y|1012962.0|1922
+6212032602|Reggis|Yakovitch|2008-04-18|Male|513 Norway Maple Terrace|Russia|RU|ryakovitchls@geocities.com|0% FIXED|0.0|-484952.5|-3246.77|-481705.73|Y|6643204.0|1953
+1227588151|Darrin|Matiashvili|1969-08-10|Male|81 Lakewood Gardens Point|China|CN|dmatiashvililt@cyberchimps.com|0% FIXED|0.0|870196.75|5219.51|864977.24|Y|4137846.0|2001
+2193741239|Darci|Kluger|1975-09-17|Female|78 Cody Court|China|CN|dklugerlu@fc2.com|1% FIXED|0.01|976909.57|9019.73|967889.84|N||
+1655489976|Westbrook|Stuart|2001-06-30|Male|103 Schurz Road|China|CN|wstuartlv@weather.com|VARIABLE|0.9321169407926495|-682809.0|45.2|-682854.2|N||
+4138824006|Laina|Felmingham|1952-03-14|Female|3304 Fairfield Junction|China|CN|lfelminghamlw@irs.gov|1% FIXED|0.01|-633249.42|-1332.35|-631917.07|N||
+4434327275|Jobie|Messent|1947-03-01|Female|8 Monument Plaza|Colombia|CO|jmessentlx@apache.org|VARIABLE|0.07655465933632204|755167.4|-1367.66|756535.06|Y|7846515.0|1953
+1981341242|Glynnis|Gherardelli|1970-05-20|Female|09625 Milwaukee Court|Lithuania|LT|ggherardellily@woothemes.com|1% FIXED|0.01|-425992.5|6047.21|-432039.71|N||
+0962538868|Renie|Guido|1956-10-09|Female|60 Cambridge Road|Philippines|PH|rguidolz@jiathis.com|VARIABLE|0.1245624800618522|721611.41|7536.55|714074.86|N||
+0271266791|Benjamen|Babington|2002-12-29|Male|2 Bashford Avenue|China|CN|bbabingtonm0@businessweek.com|0% FIXED|0.0|588771.51|-5494.45|594265.96|Y|602872.0|1944
+3023379858|Minda|Bullus|1947-09-18|Female|132 Vermont Place|Canada|CA|mbullusm1@jimdo.com|0% FIXED|0.0|920932.56|-6058.39|926990.95|Y|6082970.0|1978
+2092085743|Shannon|Yitzovitz|1953-04-10|Male|58 Browning Place|Philippines|PH|syitzovitzm2@issuu.com|0% FIXED|0.0|-637144.71|-7221.54|-629923.17|Y|5484032.0|1983
+3037654473|Dickie|Couling|2010-12-16|Male|23 Pleasure Park|Iran|IR|dcoulingm3@pinterest.com|VARIABLE|0.3934975640061099|675524.47|9517.87|666006.6|N||
+5027658397|Francis|Huxtable|2015-01-15|Male|99262 Del Sol Trail|Indonesia|ID|fhuxtablem4@qq.com|0% FIXED|0.0|798781.31|-8361.65|807142.96|N||
+6016336327|Corrina|Janczyk|1943-07-06|Female|9204 Delaware Terrace|China|CN|cjanczykm5@youtu.be|0% FIXED|0.0|-402111.25|-5243.62|-396867.63|N||
+7444068712|Afton|Simonot|1932-01-11|Female|5 Carey Street|Thailand|TH|asimonotm6@unicef.org|10% FIXED|0.1|-449461.23|7793.22|-457254.45|Y|6739129.0|1926
+4304228528|Rowe|Dury|1989-06-13|Female|76 Bluejay Lane|Canada|CA|rdurym7@taobao.com|10% FIXED|0.1|540830.0|-8281.9|549111.9|Y|3350429.0|1903
+7592855186|Tamera|Stone Fewings|1979-07-19|Female|00676 Dixon Pass|France|FR|tstonefewingsm8@rediff.com|0% FIXED|0.0|631569.0|-7223.28|638792.28|N||
+7586846723|Desmond|Wesson|1992-10-29|Male|933 Manley Street|Cameroon|CM|dwessonm9@surveymonkey.com|0% FIXED|0.0|149891.51|7714.19|142177.32|Y|3333178.0|1917
+1936853027|Cristy|Michell|1954-02-24|Female|4 Bellgrove Drive|Philippines|PH|cmichellma@tripadvisor.com|1% FIXED|0.01|-363629.83|7272.53|-370902.36|N||
+9612066485|Evania|Kesteven|1967-10-09|Female|71698 Helena Court|Brazil|BR|ekestevenmb@lulu.com|10% FIXED|0.1|394085.0|-4791.16|398876.16|N||
+6566785337|Crissy|Bleeze|2008-11-27|Female|175 Laurel Trail|Philippines|PH|cbleezemc@paypal.com|VARIABLE|0.9113971603239263|-813555.17|-8546.72|-805008.45|N||
+5895708110|Doy|Simmers|2011-03-17|Male|50057 Fordem Trail|Yemen|YE|dsimmersmd@skype.com|0% FIXED|0.0|-702504.33|2126.45|-704630.78|Y|606618.0|1942
+8629289643|Addie|Kneath|1956-03-24|Female|15 Melvin Way|Russia|RU|akneathme@boston.com|0% FIXED|0.0|699483.35|8650.73|690832.62|N||
+0004650107|Lindy|D'Onise|1935-08-20|Female|34146 Pawling Circle|China|CN|ldonisemf@wordpress.com|10% FIXED|0.1|-27525.63|-4712.49|-22813.14|N||
+7151824335|Calypso|Kauble|1958-04-29|Female|09 Eliot Avenue|France|FR|ckaublemg@a8.net|10% FIXED|0.1|-682533.0|1431.35|-683964.35|N||
+3811200836|Austen|Hiley|1986-05-11|Male|17 Clarendon Trail|Iran|IR|ahileymh@nyu.edu|VARIABLE|0.6052154818066636|477554.0|9557.81|467996.19|N||
+0257886753|Julio|Jambrozek|1966-01-22|Male|917 Moland Terrace|Colombia|CO|jjambrozekmi@bloomberg.com|1% FIXED|0.01|81179.3|304.74|80874.56|N||
+1751252701|Rowland|Boyn|1931-06-20|Male|6 Schiller Trail|Myanmar|MM|rboynmj@cargocollective.com|1% FIXED|0.01|-709997.21|-9785.5|-700211.71|N||
+1973297361|Kathrine|Janaud|1973-09-29|Female|28 Pankratz Street|Indonesia|ID|kjanaudmk@irs.gov|10% FIXED|0.1|-875444.38|6959.92|-882404.3|N||
+1502808064|Curry|Roe|2004-05-14|Male|0 Barby Place|China|CN|croeml@vinaora.com|0% FIXED|0.0|363985.9|3274.99|360710.91|N||
+6799555156|Louie|Corain|1935-05-03|Male|6 Clove Crossing|Honduras|HN|lcorainmm@amazon.co.jp|0% FIXED|0.0|784921.33|3094.98|781826.35|Y|4139491.0|1965
+1679357077|Merrili|Donneely|2016-01-03|Female|5619 Holmberg Alley|Brazil|BR|mdonneelymn@virginia.edu|VARIABLE|0.5712857743263381|330902.3|4088.07|326814.23|N||
+8156217594|Wilfrid|Ahmed|2009-04-16|Male|25 Troy Point|Germany|DE|wahmedmo@rakuten.co.jp|0% FIXED|0.0|807352.43|-3583.7|810936.13|Y|7561270.0|1992
+5114887483|Birgit|Croughan|1994-10-14|Female|88 Starling Avenue|Brazil|BR|bcroughanmp@elpais.com|0% FIXED|0.0|-347580.35|-9152.23|-338428.12|N||
+0425605728|Loree|Pergens|1955-10-12|Female|33 Rigney Trail|China|CN|lpergensmq@reverbnation.com|VARIABLE|0.8491491432817091|-323430.65|-8259.89|-315170.76|N||
+6301731204|Melloney|Shier|2001-09-10|Female|0 Haas Crossing|Canada|CA|mshiermr@fc2.com|VARIABLE|0.4218340174681273|455582.43|1985.7|453596.73|N||
+1201810868|Henri|Rabidge|1959-07-19|Male|656 Southridge Circle|Colombia|CO|hrabidgems@ibm.com|10% FIXED|0.1|137916.94|-9018.61|146935.55|Y|3298529.0|1912
+6441206463|Cirillo|Batisse|1959-04-29|Male|2616 Northridge Junction|Poland|PL|cbatissemt@cdc.gov|0% FIXED|0.0|-186562.49|-4012.42|-182550.07|N||
+2430781808|Barby|Touhig|1949-01-24|Female|4 Loeprich Trail|Honduras|HN|btouhigmu@ifeng.com|0% FIXED|0.0|654658.43|8272.25|646386.18|N||
+3949276157|Minna|Wellbelove|1948-08-04|Female|91924 Northwestern Lane|China|CN|mwellbelovemv@constantcontact.com|0% FIXED|0.0|833032.16|-2760.35|835792.51|Y|175497.0|1962
+2783480735|Mechelle|Beves|2017-04-25|Female|5338 Vernon Pass|China|CN|mbevesmw@php.net|10% FIXED|0.1|-366936.31|535.36|-367471.67|N||
+4271657468|Yves|Miller|1964-11-10|Male|8 Nobel Place|China|CN|ymillermx@huffingtonpost.com|1% FIXED|0.01|575272.0|1049.16|574222.84|N||
+6001865434|Prince|Gabbett|1949-09-25|Male|45043 Union Plaza|Indonesia|ID|pgabbettmy@twitpic.com|0% FIXED|0.0|-608251.48|-6626.75|-601624.73|Y|6801131.0|1930
+2576589715|Wanids|Haddinton|1956-11-10|Female|62046 Spaight Center|Ghana|GH|whaddintonmz@quantcast.com|0% FIXED|0.0|745235.79|1554.93|743680.86|N||
+5967957782|Nicolina|Oloshin|1954-05-16|Female|2563 Burning Wood Avenue|Canada|CA|noloshinn0@newyorker.com|10% FIXED|0.1|470285.21|3146.34|467138.87|Y|669419.0|2016
+9716955901|Sadie|Blench|1996-12-06|Female|70 Kedzie Pass|Ukraine|UA|sblenchn1@wiley.com|10% FIXED|0.1|182683.75|4089.99|178593.76|N||
+8773303267|Johanna|Lissandre|1963-09-16|Female|74181 Raven Park|China|CN|jlissandren2@google.cn|0% FIXED|0.0|-830435.2|-1778.03|-828657.17|N||
+3055392272|Nelia|Murrie|1999-09-04|Female|9797 Esker Pass|Poland|PL|nmurrien3@vimeo.com|0% FIXED|0.0|266424.87|-3253.7|269678.57|Y|2770918.0|1957
+0035387084|Lira|Mee|1998-12-26|Female|43598 Quincy Road|Australia|AU|lmeen4@infoseek.co.jp|VARIABLE|0.4225875264368227|524050.71|702.76|523347.95|N||
+9407302504|Nicky|Van't Hoff|1968-03-20|Male|971 Prairieview Alley|Indonesia|ID|nvanthoffn5@shareasale.com|10% FIXED|0.1|-26904.05|6328.2|-33232.25|Y|5646252.0|1982
+2225489955|Giffer|Kaines|1933-02-28|Male|56 Prairie Rose Street|Ukraine|UA|gkainesn6@intel.com|1% FIXED|0.01|-943886.27|849.83|-944736.1|Y|5294085.0|1929
+7961093338|Codi|Heinrich|2009-02-25|Male|34 Chive Lane|Greece|GR|cheinrichn7@shinystat.com|10% FIXED|0.1|-29822.25|-8563.32|-21258.93|Y|2337192.0|1986
+0266216331|Michel|Lukins|1952-08-18|Male|577 Red Cloud Hill|Netherlands|NL|mlukinsn8@mit.edu|0% FIXED|0.0|-982127.68|-8417.76|-973709.92|Y|1080156.0|1927
+2391660189|Kahlil|Gumery|1938-03-15|Male|07881 Ridge Oak Way|Madagascar|MG|kgumeryn9@meetup.com|10% FIXED|0.1|964522.87|4824.62|959698.25|N||
+8268119144|Jared|Tenman|1940-10-09|Male|1100 Towne Hill|Russia|RU|jtenmanna@mozilla.org|VARIABLE|0.2936547792394733|-808544.02|3896.86|-812440.88|N||
+2394349379|Rickie|Linstead|1992-10-10|Male|7 Towne Place|Venezuela|VE|rlinsteadnb@weibo.com|10% FIXED|0.1|226920.32|-2464.79|229385.11|N||
+8954628745|Cecilla|Reilinger|1972-02-20|Female|80 Oxford Court|Philippines|PH|creilingernc@scribd.com|10% FIXED|0.1|178245.77|8026.64|170219.13|N||
+4413665023|Camey|Goldney|1970-11-09|Male|81440 Doe Crossing Terrace|Indonesia|ID|cgoldneynd@rediff.com|1% FIXED|0.01|-343900.15|9078.0|-352978.15|Y|6585552.0|1954
+0445078405|Jenica|Brito|1998-06-29|Female|288 Meadow Ridge Trail|Philippines|PH|jbritone@columbia.edu|1% FIXED|0.01|-576135.0|8738.44|-584873.44|Y|4644415.0|1917
+0537861475|Tanney|Harflete|1995-07-09|Male|597 Redwing Terrace|Philippines|PH|tharfletenf@cnbc.com|0% FIXED|0.0|-483061.05|-3711.44|-479349.61|N||
+2510235591|Karlotta|Balint|1936-10-10|Female|4 Fieldstone Plaza|China|CN|kbalintng@theglobeandmail.com|10% FIXED|0.1|999526.0|-9446.58|1008972.58|N||
+1744805415|Borg|Negro|1981-05-21|Male|9498 Florence Park|Philippines|PH|bnegronh@earthlink.net|1% FIXED|0.01|709424.39|-7966.25|717390.64|N||
+3201082619|Doug|Nazareth|1947-07-07|Male|29918 Heffernan Junction|Poland|PL|dnazarethni@washingtonpost.com|10% FIXED|0.1|-331016.07|9543.37|-340559.44|N||
+9843703626|Ferris|Thaim|1947-09-14|Male|739 Duke Parkway|Philippines|PH|fthaimnj@reference.com|0% FIXED|0.0|-944717.07|-2785.56|-941931.51|N||
+6965930748|Torey|Tolworth|1944-07-06|Male|17 Mockingbird Lane|Ukraine|UA|ttolworthnk@ycombinator.com|VARIABLE|0.645851212075502|-305883.31|-6082.92|-299800.39|N||
+7609066354|Olin|Klainman|1947-06-19|Male|3867 Grover Court|Yemen|YE|oklainmannl@go.com|1% FIXED|0.01|-4885.46|2967.11|-7852.57|Y|2251393.0|1966
+2628829665|Octavia|Baitman|1992-01-22|Female|4567 Waywood Terrace|Bosnia and Herzegovina|BA|obaitmannm@edublogs.org|1% FIXED|0.01|141358.61|770.77|140587.84|Y|5109700.0|1983
+9265440058|Godwin|Bernardy|1941-08-05|Male|17170 Sommers Parkway|Poland|PL|gbernardynn@mysql.com|10% FIXED|0.1|-369771.28|-2919.85|-366851.43|N||
+0773167102|Isidor|Wehden|1944-12-25|Male|630 Bultman Place|Palestinian Territory|PS|iwehdenno@salon.com|VARIABLE|0.3352478260258521|46814.24|6556.99|40257.25|Y|7018197.0|1965
+6180908117|Joline|Whittlesea|1997-07-29|Female|8 Corben Avenue|Finland|FI|jwhittleseanp@indiegogo.com|0% FIXED|0.0|902136.24|-9019.2|911155.44|N||
+7420401489|Natalie|Radband|1957-08-06|Female|63 8th Way|Indonesia|ID|nradbandnq@toplist.cz|VARIABLE|0.6388844249756733|684046.49|5251.31|678795.18|N||
+8589837726|Osbert|O'Crigan|1974-04-30|Male|0257 Farragut Way|Greece|GR|oocrigannr@stumbleupon.com|0% FIXED|0.0|831028.81|2895.49|828133.32|N||
+2213983852|Eldredge|Joselson|1985-01-18|Male|35476 Fulton Drive|Russia|RU|ejoselsonns@bing.com|10% FIXED|0.1|-303047.43|2170.08|-305217.51|N||
+8507154956|Harlin|Foxwell|1979-11-05|Male|3924 Troy Plaza|United States|US|hfoxwellnt@friendfeed.com|0% FIXED|0.0|-893660.75|7645.13|-901305.88|Y|5178348.0|1941
+8006597944|Angus|Sleet|2002-05-21|Male|569 Fuller Street|Philippines|PH|asleetnu@dell.com|0% FIXED|0.0|189608.78|-3787.84|193396.62|N||
+5498188811|Stephani|Cruddas|1960-02-22|Female|3 Longview Alley|Indonesia|ID|scruddasnv@stanford.edu|0% FIXED|0.0|-970993.8|8942.2|-979936.0|N||
+9573584727|Johnathan|Minto|1958-10-18|Male|60614 Division Center|Palestinian Territory|PS|jmintonw@instagram.com|VARIABLE|0.7644250352078473|-508347.86|2355.84|-510703.7|N||
+0119360551|Bernadette|Rotherham|1974-04-10|Female|957 Sunnyside Circle|Greece|GR|brotherhamnx@moonfruit.com|0% FIXED|0.0|-902740.37|-3399.81|-899340.56|N||
+2750563771|Silvanus|MacAfee|1950-02-20|Male|45815 7th Place|Mongolia|MN|smacafeeny@timesonline.co.uk|0% FIXED|0.0|883584.96|-9055.38|892640.34|N||
+1591911982|Trudey|Lenchenko|2014-07-14|Female|67582 Karstens Lane|China|CN|tlenchenkonz@ox.ac.uk|1% FIXED|0.01|328141.58|-2693.06|330834.64|N||
+8540615339|Gearalt|Linfoot|1941-06-28|Male|0972 Claremont Way|Sweden|SE|glinfooto0@umich.edu|10% FIXED|0.1|-336583.3|7861.07|-344444.37|Y|6180922.0|1986
+0923789502|Olav|O'Dwyer|1986-06-11|Male|28082 Union Center|Thailand|TH|oodwyero1@admin.ch|0% FIXED|0.0|653366.19|3136.86|650229.33|N||
+2052129812|Norbert|Oulett|2012-08-10|Male|1091 Briar Crest Court|Cameroon|CM|nouletto2@omniture.com|VARIABLE|0.01614925364951615|352179.35|-1310.12|353489.47|Y|6147727.0|1958
+0415949033|Zorah|Warratt|2001-04-19|Female|2927 Katie Trail|China|CN|zwarratto3@usnews.com|1% FIXED|0.01|-611475.38|9030.5|-620505.88|N||
+8754745209|Lock|Juorio|1951-03-18|Male|96 Annamark Drive|Russia|RU|ljuorioo4@themeforest.net|1% FIXED|0.01|-803449.44|4611.95|-808061.39|N||
+0497923025|Jordan|Chastagnier|1962-02-25|Male|9543 Lunder Plaza|North Korea|KP|jchastagniero5@hostgator.com|10% FIXED|0.1|872866.0|-4495.95|877361.95|N||
+6798900097|Fancy|Durnill|1950-11-09|Female|937 Bayside Terrace|Mexico|MX|fdurnillo6@twitpic.com|VARIABLE|0.614201093094937|709940.6|-1204.22|711144.82|N||
+9494946251|Kennie|Ogilby|1976-01-07|Male|4342 Anzinger Terrace|Germany|DE|kogilbyo7@scribd.com|VARIABLE|0.7830356996999829|-394126.3|-5951.94|-388174.36|Y|3272169.0|1946
+2068612631|Briant|De Filippi|1956-06-11|Male|993 Pond Way|Japan|JP|bdefilippio8@webmd.com|10% FIXED|0.1|954113.42|-7507.86|961621.28|N||
+8316975076|Katey|Muskett|1960-11-24|Female|2204 Buhler Junction|Thailand|TH|kmusketto9@japanpost.jp|0% FIXED|0.0|994038.78|7212.93|986825.85|Y|2008033.0|1988
+4901448978|Vinnie|Thurlbeck|1947-11-24|Female|0 Hanson Circle|Peru|PE|vthurlbeckoa@hostgator.com|1% FIXED|0.01|-826242.55|7395.15|-833637.7|Y|4026281.0|1909
+1319934978|Maxwell|Pembridge|1946-02-19|Male|1090 Thierer Parkway|Indonesia|ID|mpembridgeob@spotify.com|10% FIXED|0.1|467420.94|8055.38|459365.56|N||
+8543731941|Galina|Dumphries|1939-01-02|Female|508 Florence Crossing|Portugal|PT|gdumphriesoc@ftc.gov|VARIABLE|0.4679903990704246|-101947.88|3808.35|-105756.23|N||
+9383193239|Aeriel|Sheaber|1981-10-15|Female|75 Bayside Street|Indonesia|ID|asheaberod@tinyurl.com|VARIABLE|0.593392067131708|253586.58|2756.87|250829.71|N||
+6985197493|Sandra|McNae|1938-10-17|Female|674 5th Park|Swaziland|SZ|smcnaeoe@google.nl|1% FIXED|0.01|155527.88|-422.49|155950.37|Y|1828092.0|1924
+7067907683|Ryon|Lipson|1971-01-02|Male|698 Esch Parkway|Kyrgyzstan|KG|rlipsonof@mail.ru|VARIABLE|0.2407184241267871|-381739.66|8738.45|-390478.11|N||
+9351145581|Brad|Emmer|1957-03-14|Male|5 Golf View Terrace|China|CN|bemmerog@jigsy.com|10% FIXED|0.1|522432.01|-7808.97|530240.98|Y|1983548.0|1985
+2620276012|Modesta|Voysey|1970-06-07|Female|45 Little Fleur Trail|Indonesia|ID|mvoyseyoh@census.gov|10% FIXED|0.1|3820.29|6242.15|-2421.86|N||
+5549723948|Grace|Larway|1960-05-14|Female|88 Truax Junction|China|CN|glarwayoi@amazonaws.com|10% FIXED|0.1|941134.63|6382.59|934752.04|Y|4134536.0|1947
+2690729040|Lory|Tompkiss|1952-08-11|Female|75 Ramsey Point|Syria|SY|ltompkissoj@ehow.com|10% FIXED|0.1|324109.62|3296.87|320812.75|Y|3883477.0|1955
+5764903165|Dennison|Ebbing|1963-06-12|Male|49957 Raven Hill|South Korea|KR|debbingok@google.co.uk|10% FIXED|0.1|648265.41|2085.92|646179.49|N||
+8463866395|Vicki|Muff|1951-09-06|Female|12840 Dapin Drive|South Africa|ZA|vmuffol@java.com|VARIABLE|0.7752716559507811|-768693.07|-1619.62|-767073.45|N||
+9523880586|Robinson|Gumb|1959-10-27|Male|938 Monica Street|Philippines|PH|rgumbom@ed.gov|VARIABLE|0.5061011402514206|-944859.65|1384.34|-946243.99|Y|5578262.0|1981
+6560893804|Ansel|Casarini|1932-03-15|Male|4092 Crest Line Park|Philippines|PH|acasarinion@amazon.com|1% FIXED|0.01|-408937.34|-5679.78|-403257.56|N||
+1653324546|Adela|Jorgensen|1939-02-28|Female|499 Loftsgordon Alley|France|FR|ajorgensenoo@cnet.com|1% FIXED|0.01|248423.55|5402.18|243021.37|Y|1947937.0|2009
+7796183933|Tomas|Beaves|1973-03-21|Male|2047 Bluestem Point|Argentina|AR|tbeavesop@imdb.com|10% FIXED|0.1|63652.0|9194.18|54457.82|Y|7459108.0|1924
+3868194371|Cullan|Adriano|2015-04-03|Male|2 Nova Point|Venezuela|VE|cadrianooq@wikispaces.com|VARIABLE|0.7926423996036158|790429.54|7188.15|783241.39|Y|3092145.0|1977
+8874035462|Heath|Cocci|1977-07-29|Female|3227 Surrey Center|Honduras|HN|hcoccior@vinaora.com|10% FIXED|0.1|751450.27|-9241.62|760691.89|Y|6580488.0|2005
+9162538357|Haley|Clowney|1939-06-21|Male|2 Lakewood Gardens Alley|China|CN|hclowneyos@flavors.me|10% FIXED|0.1|-804022.55|2424.08|-806446.63|Y|6651675.0|1955
+3036837485|Eugine|Rashleigh|2004-12-12|Female|38059 International Lane|Argentina|AR|erashleighot@people.com.cn|10% FIXED|0.1|83429.32|643.62|82785.7|N||
+4823717767|Whitman|Vasey|1948-09-01|Male|102 Kingsford Road|China|CN|wvaseyou@google.co.uk|VARIABLE|0.5239194126202631|595839.12|5891.54|589947.58|Y|1998057.0|1904
+4737347671|Yule|Etuck|1943-01-28|Male|4308 Dahle Point|Serbia|RS|yetuckov@samsung.com|VARIABLE|0.3472740424658735|29528.62|9404.13|20124.49|N||
+8535252754|Rab|Coiley|2018-03-21|Male|709 Carberry Crossing|Greece|GR|rcoileyow@123-reg.co.uk|1% FIXED|0.01|817602.88|2644.29|814958.59|N||
+9732007974|Tiffie|Pennacci|1951-11-10|Female|4851 Ludington Crossing|Switzerland|CH|tpennacciox@redcross.org|10% FIXED|0.1|-37889.34|7496.24|-45385.58|N||
+7471356472|Stephana|Imos|1992-04-04|Female|247 Barnett Parkway|Czech Republic|CZ|simosoy@hexun.com|1% FIXED|0.01|589772.28|2496.21|587276.07|Y|2078206.0|1927
+4270138904|Fons|Habble|1936-04-29|Male|64728 Mockingbird Crossing|Chile|CL|fhabbleoz@ox.ac.uk|0% FIXED|0.0|423451.05|1003.87|422447.18|Y|5328875.0|1950
+7874922492|Renard|Bedham|1937-06-10|Male|6262 Scoville Avenue|United States|US|rbedhamp0@guardian.co.uk|VARIABLE|0.8190805367680527|-703246.59|2791.8|-706038.39|Y|2703963.0|1985
+0421332077|Margret|Dedham|1956-06-17|Female|171 Merrick Circle|Canada|CA|mdedhamp1@i2i.jp|1% FIXED|0.01|620046.06|7091.37|612954.69|N||
+8324697764|Kerry|Greenrde|1978-10-11|Female|3367 Autumn Leaf Parkway|Ecuador|EC|kgreenrdep2@japanpost.jp|1% FIXED|0.01|615530.2|-9974.08|625504.28|Y|4598539.0|1926
+0123916666|Claiborne|De Launde|1970-12-27|Male|71516 Grim Trail|Armenia|AM|cdelaundep3@gnu.org|VARIABLE|0.2326603404846519|-137899.32|6511.38|-144410.7|N||
+2698363657|Kristian|Boam|1984-04-26|Male|0018 Farragut Trail|China|CN|kboamp4@com.com|0% FIXED|0.0|5482.12|-313.19|5795.31|Y|353101.0|1906
+1898454965|Giraud|Rolls|1934-08-16|Male|578 Birchwood Pass|China|CN|grollsp5@gnu.org|VARIABLE|0.1607651644444791|892204.92|-2249.24|894454.16|N||
+7024870648|Sher|Prop|1946-08-15|Female|586 6th Street|United Kingdom|GB|spropp6@boston.com|VARIABLE|0.9534918582702161|-785452.75|6461.61|-791914.36|Y|5105560.0|1993
+3949954163|Roscoe|Kleeman|2001-07-26|Male|98877 Pond Parkway|China|CN|rkleemanp7@twitpic.com|0% FIXED|0.0|380853.26|671.11|380182.15|N||
+9044973126|Land|Pedycan|1976-10-25|Male|01369 Milwaukee Lane|Philippines|PH|lpedycanp8@miibeian.gov.cn|VARIABLE|0.3756340945049977|-834225.73|1544.06|-835769.79|Y|3278846.0|2017
+5695405173|Lizette|Fretwell|2017-06-15|Female|2 Bonner Park|China|CN|lfretwellp9@list-manage.com|10% FIXED|0.1|279825.35|9676.3|270149.05|Y|7555214.0|1960
+0251498115|Kippy|Dougill|2002-03-02|Male|33 Nelson Junction|Brazil|BR|kdougillpa@craigslist.org|VARIABLE|0.3740214813028525|174449.25|6232.64|168216.61|Y|5030571.0|1970
+8931747365|Byron|Aris|1971-01-30|Male|2367 Schlimgen Lane|Czech Republic|CZ|barispb@deviantart.com|10% FIXED|0.1|-234122.98|-6706.44|-227416.54|N||
+5157253281|Egan|Bales|2018-02-08|Male|36 Esch Place|Afghanistan|AF|ebalespc@nasa.gov|0% FIXED|0.0|127809.0|7993.38|119815.62|N||
+7816071248|Midge|McKyrrelly|1952-11-01|Female|9616 Glendale Pass|Thailand|TH|mmckyrrellypd@usa.gov|VARIABLE|0.1944785356939632|-644156.25|9516.01|-653672.26|Y|5338680.0|1925
+7601572110|Judye|Songest|1940-07-19|Female|32 Eastwood Drive|Brazil|BR|jsongestpe@scientificamerican.com|VARIABLE|0.03324628457501905|8531.68|9336.45|-804.77|N||
+7085870648|Bar|Buzine|2006-02-01|Male|734 Summit Park|Indonesia|ID|bbuzinepf@sogou.com|0% FIXED|0.0|-738907.91|7709.08|-746616.99|Y|5690712.0|2015
+7149626548|Violette|Mulvey|1995-04-24|Female|5 Mifflin Trail|China|CN|vmulveypg@prweb.com|10% FIXED|0.1|-311327.07|-3658.72|-307668.35|Y|2895166.0|1920
+3729160796|Floyd|Brenston|1970-10-19|Male|9 Green Ridge Place|Indonesia|ID|fbrenstonph@dedecms.com|0% FIXED|0.0|-396365.3|-7849.62|-388515.68|Y|4503550.0|1989
+4382084962|Maighdiln|Cannam|1938-09-11|Female|568 Fuller Plaza|Brazil|BR|mcannampi@homestead.com|10% FIXED|0.1|169386.24|1159.53|168226.71|N||
+6092312638|Roselia|Morrow|1982-04-07|Female|994 Old Gate Court|Indonesia|ID|rmorrowpj@ted.com|VARIABLE|0.9601802304489577|-916160.87|5710.23|-921871.1|Y|957629.0|1953
+7117950277|Nananne|Yakhin|1962-10-05|Female|99 Killdeer Park|Albania|AL|nyakhinpk@cdbaby.com|1% FIXED|0.01|-565781.29|-6292.2|-559489.09|Y|5907040.0|1958
+1530995604|Olivie|Mault|2005-03-19|Female|240 Ridgeway Drive|Ireland|IE|omaultpl@simplemachines.org|1% FIXED|0.01|977981.68|-8348.89|986330.57|N||
+9952744773|Shawna|Gajownik|1986-10-25|Female|79165 Paget Pass|Colombia|CO|sgajownikpm@discovery.com|0% FIXED|0.0|683676.07|3235.67|680440.4|N||
+8868876779|Max|Miskelly|1982-11-25|Male|483 Amoth Parkway|Ukraine|UA|mmiskellypn@baidu.com|0% FIXED|0.0|-72141.96|-2223.2|-69918.76|N||
+6111679546|Goddard|Camelli|1938-04-25|Male|3956 Mosinee Parkway|China|CN|gcamellipo@berkeley.edu|VARIABLE|0.2860270721495475|-91331.86|7090.57|-98422.43|N||
+7091313232|Graham|O'Garmen|1936-08-25|Male|6 Lakewood Gardens Hill|Gambia|GM|gogarmenpp@constantcontact.com|10% FIXED|0.1|289120.47|1991.18|287129.29|N||
+9908121081|Sasha|Goslin|1975-05-25|Female|2651 Burning Wood Alley|Yemen|YE|sgoslinpq@mac.com|10% FIXED|0.1|405300.45|-47.68|405348.13|Y|3215441.0|1939
+1889666254|Rozanna|Byk|1950-05-26|Female|2835 Brown Alley|Poland|PL|rbykpr@vkontakte.ru|1% FIXED|0.01|-41925.71|-6370.15|-35555.56|N||
+6300742660|Lewie|MacRury|1967-07-30|Male|514 Waubesa Crossing|Tajikistan|TJ|lmacruryps@spotify.com|VARIABLE|0.8176030705267602|-513519.71|6989.86|-520509.57|Y|6661770.0|1925
+1955872252|Nertie|Greenshields|1992-01-21|Female|2 Westend Circle|Estonia|EE|ngreenshieldspt@blinklist.com|1% FIXED|0.01|-349789.76|-723.94|-349065.82|N||
+4001177331|Chrotoem|Warham|1974-05-21|Male|0083 Ridge Oak Street|Portugal|PT|cwarhampu@twitter.com|VARIABLE|0.6922514949404469|-427824.41|1617.2|-429441.61|Y|3316700.0|1992
+4420189711|Allyn|Dwyr|2001-06-17|Female|8862 Sachtjen Pass|Bangladesh|BD|adwyrpv@cisco.com|0% FIXED|0.0|-559447.38|-9157.46|-550289.92|N||
+8275731925|Jessey|Tattam|1955-04-20|Male|568 Hanover Park|Liechtenstein|LI|jtattampw@newsvine.com|VARIABLE|0.7878551476846081|978234.0|4404.28|973829.72|N||
+3907634608|Grange|Downe|1984-12-12|Male|359 Darwin Trail|Bangladesh|BD|gdownepx@diigo.com|1% FIXED|0.01|340538.34|3977.85|336560.49|N||
+6702654154|Hill|Beadle|1940-10-09|Male|18 Red Cloud Hill|Colombia|CO|hbeadlepy@tripadvisor.com|1% FIXED|0.01|810771.0|-7253.26|818024.26|Y|1519731.0|1934
+2081361035|Lorrayne|Fennelow|1992-07-11|Female|019 Donald Center|China|CN|lfennelowpz@vinaora.com|1% FIXED|0.01|32721.29|6431.19|26290.1|Y|449922.0|1970
+4349087907|Swen|Burbank|1936-10-09|Male|8 Menomonie Way|Yemen|YE|sburbankq0@fastcompany.com|0% FIXED|0.0|130085.73|7551.45|122534.28|Y|7920335.0|1975
+5998109708|Gerhardt|Allsup|1985-06-16|Male|7394 Pepper Wood Plaza|Philippines|PH|gallsupq1@geocities.jp|0% FIXED|0.0|763982.22|7416.1|756566.12|Y|2358002.0|1948
+7234200819|Neile|Shovlin|1936-05-20|Female|78956 Sage Way|Philippines|PH|nshovlinq2@illinois.edu|1% FIXED|0.01|-7854.84|339.34|-8194.18|N||
+6281033205|Currey|Philliskirk|2011-11-01|Male|6808 American Ash Hill|Canada|CA|cphilliskirkq3@ask.com|10% FIXED|0.1|-501848.87|-49.28|-501799.59|N||
+1317018664|Nadeen|Clears|1950-10-09|Female|62 Ridgeway Lane|Indonesia|ID|nclearsq4@ning.com|10% FIXED|0.1|646159.93|-4832.92|650992.85|N||
+5717390335|Gabbi|Jeeves|1955-11-16|Female|70836 Buhler Place|France|FR|gjeevesq5@xrea.com|10% FIXED|0.1|-937009.57|2950.09|-939959.66|N||
+5305742404|Jemimah|Boor|2018-05-22|Female|7 Sullivan Plaza|Philippines|PH|jboorq6@princeton.edu|1% FIXED|0.01|586518.03|4479.06|582038.97|Y|2594921.0|1957
+4936980803|Cammy|Mardy|1942-01-08|Male|86720 Morning Plaza|China|CN|cmardyq7@discuz.net|10% FIXED|0.1|796403.0|-620.09|797023.09|Y|7282885.0|1965
+3223487964|Arabelle|Aggott|2018-10-11|Female|6502 Prairieview Trail|Gambia|GM|aaggottq8@blogtalkradio.com|0% FIXED|0.0|841871.54|2759.64|839111.9|Y|3235175.0|1926
+3176579403|Terrijo|McCome|1979-08-01|Female|91488 Division Junction|China|CN|tmccomeq9@squidoo.com|0% FIXED|0.0|-286681.98|-5870.87|-280811.11|N||
+6838083515|Lorenzo|Dinnis|2017-11-27|Male|84566 Schlimgen Crossing|Greece|GR|ldinnisqa@weebly.com|10% FIXED|0.1|-52325.42|-7489.73|-44835.69|N||
+0230571336|Dom|Merwede|2002-12-10|Male|0765 Bellgrove Junction|Mexico|MX|dmerwedeqb@mapy.cz|VARIABLE|0.6663839103664244|-499649.11|9631.33|-509280.44|N||
+9996662519|Tine|Sides|2001-11-10|Female|036 Westend Street|Serbia|RS|tsidesqc@mayoclinic.com|VARIABLE|0.9112126326358398|766215.16|2224.03|763991.13|N||
+9649509089|Kirsteni|Manus|1950-05-30|Female|85572 Logan Place|Indonesia|ID|kmanusqd@unc.edu|VARIABLE|0.5647376745235075|-208212.0|7483.2|-215695.2|N||
+0995992789|Devy|Nutkins|2000-07-03|Male|0856 Grover Road|Cambodia|KH|dnutkinsqe@mayoclinic.com|VARIABLE|0.3322959481085834|-106606.0|-130.97|-106475.03|Y|3373244.0|1908
+1906062595|Ekaterina|Moncur|1936-07-20|Female|13 Forster Trail|Peru|PE|emoncurqf@e-recht24.de|0% FIXED|0.0|-999083.1|-2118.68|-996964.42|N||
+0543758575|Alastair|Mutimer|2014-09-17|Male|042 Arrowood Trail|Philippines|PH|amutimerqg@mediafire.com|0% FIXED|0.0|864762.48|-1956.07|866718.55|Y|7708877.0|1922
+3861349566|Cayla|Brion|1981-10-31|Female|809 Village Green Road|Zimbabwe|ZW|cbrionqh@weebly.com|1% FIXED|0.01|-943185.41|-7161.16|-936024.25|N||
+1651734917|Simon|Britcher|1981-08-05|Male|21 Elgar Point|Poland|PL|sbritcherqi@geocities.com|10% FIXED|0.1|-344946.69|-3870.68|-341076.01|Y|5977111.0|1916
+9927751559|Elicia|Bourgourd|1940-08-23|Female|85203 Mosinee Court|Japan|JP|ebourgourdqj@dell.com|0% FIXED|0.0|-469150.26|7116.22|-476266.48|Y|6631808.0|1913
+8792882293|Kinnie|Gerasch|2010-03-06|Male|8576 Acker Drive|Indonesia|ID|kgeraschqk@nba.com|1% FIXED|0.01|-528365.58|8138.05|-536503.63|N||
+2977810765|Ozzy|Barribal|2001-06-13|Male|9142 Merrick Terrace|France|FR|obarribalql@comsenz.com|VARIABLE|0.6968208908212106|-351437.92|1695.7|-353133.62|Y|2149002.0|1942
+9347269581|Hank|Faltin|1933-11-11|Male|53602 Mendota Way|Guatemala|GT|hfaltinqm@jalbum.net|0% FIXED|0.0|-502878.58|4054.28|-506932.86|Y|3421839.0|2015
+1622481534|Shell|Evans|2005-04-29|Male|76 Kim Point|Poland|PL|sevansqn@dailymotion.com|VARIABLE|0.8002385787778427|-837311.89|-6649.31|-830662.58|Y|7923488.0|1956
+3537719604|Talia|Hawler|1968-04-18|Female|81100 Autumn Leaf Lane|Mexico|MX|thawlerqo@nba.com|VARIABLE|0.5862099884198609|-648256.72|-8492.69|-639764.03|Y|7416758.0|1990
+9782535737|Dur|Aird|2005-07-31|Male|5695 Gateway Avenue|Canada|CA|dairdqp@t-online.de|0% FIXED|0.0|-888691.2|2815.55|-891506.75|N||
+7264811948|Lisetta|Tilson|1969-07-06|Female|7 Sommers Lane|Finland|FI|ltilsonqq@unesco.org|10% FIXED|0.1|158354.5|-8241.27|166595.77|Y|5361046.0|1906
+8304093197|Candice|Swoffer|1932-12-30|Female|95 Loomis Street|Panama|PA|cswofferqr@alibaba.com|1% FIXED|0.01|942960.35|-8670.62|951630.97|Y|5863535.0|1986
+5742220944|Ginevra|Paty|1996-03-02|Female|2926 Fallview Way|Comoros|KM|gpatyqs@japanpost.jp|1% FIXED|0.01|307903.58|-5266.95|313170.53|Y|2647227.0|1966
+3855236518|Elsie|Pennington|1948-12-08|Female|20 Old Gate Court|Armenia|AM|epenningtonqt@samsung.com|10% FIXED|0.1|-891285.87|9773.9|-901059.77|N||
+7405137954|Austina|Bockett|1965-04-05|Female|72 Weeping Birch Hill|Spain|ES|abockettqu@printfriendly.com|1% FIXED|0.01|-237083.56|-7512.72|-229570.84|N||
+2257839021|Lexine|Goede|1985-10-05|Female|1929 Hintze Alley|Estonia|EE|lgoedeqv@addthis.com|10% FIXED|0.1|-357832.39|4791.95|-362624.34|Y|1069038.0|1910
+7952555480|Francisco|Rosengarten|1945-06-03|Male|327 Goodland Pass|Indonesia|ID|frosengartenqw@hexun.com|VARIABLE|0.575800906819922|-934417.0|4088.76|-938505.76|N||
+7278219728|Abran|Scrivenor|2003-05-30|Male|3 Red Cloud Drive|France|FR|ascrivenorqx@go.com|10% FIXED|0.1|-626011.1|5116.72|-631127.82|Y|7139370.0|1989
+7400778234|Brittne|Krugmann|2013-07-28|Female|596 Grover Parkway|Jordan|JO|bkrugmannqy@csmonitor.com|0% FIXED|0.0|-297592.58|-806.92|-296785.66|N||
+5734193038|Sydney|Woakes|1937-04-22|Female|60 Brentwood Parkway|China|CN|swoakesqz@sitemeter.com|10% FIXED|0.1|-403756.84|-8754.68|-395002.16|N||
+1384951067|Beverley|Taveriner|1955-11-05|Female|00224 Mallard Lane|Chile|CL|btaverinerr0@360.cn|1% FIXED|0.01|983180.03|-4724.79|987904.82|Y|4099028.0|1985
+5518918178|Modesty|Le land|1982-12-07|Female|51 Tony Place|Russia|RU|mlelandr1@springer.com|VARIABLE|0.3183083779870586|-794865.83|8657.48|-803523.31|Y|4253128.0|1969
+7549637725|Elianora|Tourry|1976-08-11|Female|0 Vera Terrace|Canada|CA|etourryr2@comcast.net|0% FIXED|0.0|290796.13|1090.62|289705.51|Y|6367108.0|1959
+2847894098|Alfons|Twiggs|1992-04-23|Male|0916 Columbus Parkway|Indonesia|ID|atwiggsr3@bigcartel.com|1% FIXED|0.01|424865.84|-7407.76|432273.6|Y|1508448.0|1912
+5129445465|Barbra|Fewless|1968-12-01|Female|1090 Sullivan Place|China|CN|bfewlessr4@amazon.com|10% FIXED|0.1|123268.11|3368.48|119899.63|Y|6324599.0|1916
+9130545951|Lilli|Dimelow|1979-04-04|Female|96 Chinook Terrace|Mexico|MX|ldimelowr5@huffingtonpost.com|0% FIXED|0.0|-715525.0|-8349.47|-707175.53|Y|970470.0|1966
+5220860550|Tiebold|Lipsett|1961-11-14|Male|1038 Spohn Parkway|Argentina|AR|tlipsettr6@ask.com|0% FIXED|0.0|-450746.2|-9055.58|-441690.62|Y|1035776.0|1920
+7280627986|Maxine|Pasque|1933-09-27|Female|0715 Fuller Place|Argentina|AR|mpasquer7@yahoo.com|0% FIXED|0.0|554848.52|-4015.86|558864.38|N||
+5921966029|Thorvald|Porte|1959-12-30|Male|704 Kim Road|China|CN|tporter8@sohu.com|1% FIXED|0.01|39106.7|6357.63|32749.07|Y|6123793.0|1940
+3894325399|Gabie|Edon|1969-06-18|Male|8 Scott Place|Russia|RU|gedonr9@drupal.org|10% FIXED|0.1|940821.4|9497.08|931324.32|N||
+1720761752|Geoff|Jillitt|1934-02-17|Male|5 Shelley Circle|Indonesia|ID|gjillittra@apache.org|10% FIXED|0.1|901807.0|8470.46|893336.54|Y|495392.0|1949
+1576077136|Robbert|Andersson|1946-01-20|Male|9 Bartelt Lane|Panama|PA|randerssonrb@buzzfeed.com|10% FIXED|0.1|228517.93|-3318.4|231836.33|N||
+7495622830|Rayna|France|1983-07-14|Female|71 Tennessee Terrace|Indonesia|ID|rfrancerc@ow.ly|1% FIXED|0.01|-503082.02|-9656.17|-493425.85|Y|7693584.0|1990
+6299991178|Raffarty|Demaid|1973-10-24|Male|9249 Toban Point|Jamaica|JM|rdemaidrd@cbc.ca|10% FIXED|0.1|25262.25|8625.39|16636.86|Y|5869955.0|1999
+9728834152|Dominic|Aidler|1983-12-05|Male|31 Shoshone Plaza|Morocco|MA|daidlerre@usa.gov|VARIABLE|0.8784420249781223|-751451.07|-2512.88|-748938.19|N||
+2223509673|Mitchell|Dalgetty|1976-11-20|Male|8 Fisk Point|China|CN|mdalgettyrf@cbsnews.com|1% FIXED|0.01|-626777.0|6181.88|-632958.88|Y|7805238.0|1924
+1057125407|Alberto|Bernocchi|2010-02-20|Male|317 Crest Line Place|Philippines|PH|abernocchirg@nps.gov|10% FIXED|0.1|-729233.89|3266.48|-732500.37|Y|1689172.0|1944
+7122350789|Griffy|Thelwll|1977-03-23|Male|604 Aberg Terrace|Costa Rica|CR|gthelwllrh@aboutads.info|10% FIXED|0.1|807018.95|-5210.3|812229.25|Y|2058069.0|1938
+2433443830|Alejandro|Iverson|1950-06-09|Male|05 Kinsman Court|Croatia|HR|aiversonri@hud.gov|VARIABLE|0.33563877818479|-184367.9|-1226.21|-183141.69|Y|1244042.0|1999
+7453928044|Kort|Donahue|1934-04-21|Male|11565 Heath Avenue|Czech Republic|CZ|kdonahuerj@blogtalkradio.com|0% FIXED|0.0|41573.58|6999.61|34573.97|N||
+5060971279|Say|Marshal|1950-04-29|Male|6451 Del Mar Alley|Russia|RU|smarshalrk@hao123.com|0% FIXED|0.0|978116.23|-886.52|979002.75|Y|1519467.0|1972
+8214520967|Veronika|Herrero|1991-01-22|Female|5 Lighthouse Bay Hill|Sweden|SE|vherrerorl@nps.gov|0% FIXED|0.0|857227.95|7255.2|849972.75|N||
+2784001040|Jocelyn|Karczinski|1971-08-14|Female|07 Lotheville Crossing|Indonesia|ID|jkarczinskirm@ebay.co.uk|1% FIXED|0.01|572559.52|-5742.2|578301.72|Y|7028566.0|1999
+9671794416|Jolee|Claricoates|1938-11-27|Female|5924 Dennis Road|Indonesia|ID|jclaricoatesrn@1und1.de|1% FIXED|0.01|-639460.24|5447.03|-644907.27|Y|4936276.0|1935
+2342989644|Ashla|Cosgry|1990-05-19|Female|52 Dakota Park|Japan|JP|acosgryro@woothemes.com|1% FIXED|0.01|-480095.16|-3518.74|-476576.42|Y|1294768.0|2001
+9169525536|Haley|Dowyer|1965-03-13|Male|3593 Park Meadow Pass|Indonesia|ID|hdowyerrp@google.co.jp|1% FIXED|0.01|859470.11|-976.5|860446.61|Y|5460470.0|1913
+1622203542|Hasheem|Sikorski|1968-12-08|Male|253 Namekagon Place|Ukraine|UA|hsikorskirq@thetimes.co.uk|1% FIXED|0.01|-900538.46|-3460.24|-897078.22|N||
+1222303906|Esmaria|Albiston|1979-06-18|Female|01 Orin Hill|Philippines|PH|ealbistonrr@mozilla.org|1% FIXED|0.01|799874.53|5564.67|794309.86|N||
